@@ -1,0 +1,7 @@
+organization=alessandro-cortese
+projectKey=alessandro-cortese_EsameIspwCode
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.26843
+dashboardUrl=https://sonarcloud.io/dashboard?id=alessandro-cortese_EsameIspwCode
+ceTaskId=AX8HPvJW3m5t1pjBobcN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8HPvJW3m5t1pjBobcN

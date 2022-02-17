@@ -1,4 +1,10 @@
+
+
 public class AlphabeticalSort {
+
+    private AlphabeticalSort(){
+
+    }
 
     public static void alphabeticSort(String[] names) {
 

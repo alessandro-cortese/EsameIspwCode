@@ -1,0 +1,3921 @@
+2
+cssS4655(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4666(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4668(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4667(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl²
+cssS4662"~
+ignoreAtRulesmvalue,at-root,content,debug,each,else,error,for,function,if,include,mixin,return,warn,while,extend,use,/^@.*/(¸ºŞÌ,0è€îæš/:AXzmQU-ch6dI4sPCG5Pl2
+cssS4661(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4663(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4648(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4647(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS1116(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4649(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5PlZ
+cssS4660"&
+ignorePseudoElementsng-deep,v-deep(¸ºŞÌ,0€ùíæš/:AXzmQU-ch6dI4sPCG5Plƒ
+cssS4654"-
+ignoreSelectors/^:export.*/, /^:import.*/" 
+ignoreTypescomposes, /^mso-/(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4657(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5PlK
+cssS4656"
+ignoreFallbackstrue(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4651(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4653(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4652(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Ple
+cssS4659"1
+ignorePseudoClasseslocal,global,export,import(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS4658(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS1128(¸ºŞÌ,0¸ºŞÌ,:AXzmQU-ch6dI4sPCG5Pl2
+cssS5362( ¡ëæš/0 ¡ëæš/:AXzmQU-ch6dI4sPCG5Plm
+cssS4670"
+ignorecustom-elements"
+ignoreTypes/^(mat|md|fa)-/(¸ºŞÌ,0Ğ÷îœú-:AXzmQU-ch6dI4sPCG5PlE
+common-javaDuplicatedBlocks(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-4
+scalaS1313(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1135(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1871(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1134(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Pyg
+scalaS2068"1
+credentialWordspassword,passwd,pwd,passphrase(¸óÒê,0«ÒüÖ.:AXzmQU-ch6dI4sPCG5Py4
+scalaS4663(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1656(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1172(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1764(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1862(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1763(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1145(ĞæÓüÖ.0ĞæÓüÖ.:AXzmQU-ch6dI4sPCG5Py4
+scalaS1066(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS3923(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py;
+scalaParsingError(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyV
+scalaS117"!
+format^[_a-zA-Z][a-zA-Z0-9]*$(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1481(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1144(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyD
+scalaS1192"
+	threshold3(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py3
+scalaS125(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py3
+scalaS108(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS4144(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1186(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Pyw
+scalaS100"B
+format8^([a-z][a-zA-Z0-9]*+(_[^a-zA-Z0-9]++)?+|[^a-zA-Z0-9]++)$(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py=
+scalaS107"
+Max7(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyE
+scalaS3776"
+	threshold15(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyR
+scalaS101"
+format^[A-Z][a-zA-Z0-9]*$(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1125(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5Py4
+scalaS1940(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyC
+scalaS1479"
+maximum30(¸óÒê,0¸óÒê,:AXzmQU-ch6dI4sPCG5PyD
+
+common-cppDuplicatedBlocks(¸©Â‡Ë)0¸©Â‡Ë):AXzmQU-ch6dI4sPCG5P5E
+common-abapDuplicatedBlocks(üìçñ*0üìçñ*:AXzmQU-ch6dI4sPCG5Pw4
+plsqlS1135( õ€Æî,0 õ€Æî,:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1134( õ€Æî,0 õ€Æî,:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3830(Øñ«à­+0Øñ«à­+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS4801( õ€Æî,0 õ€Æî,:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1656(È®ööç+0È®ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1138(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1145(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk\
+plsqlInItemsCountCheck"
+maximumNumberOfItems50(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkQ
+plsqlNestedIf"
+maximumNestingLevel3(èšáÜï(0à¦ööç+:AXzmQU-ch6dI4sPCG5PkN
+plsqlProcedureWithoutParametersCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk@
+plsqlForLoopUsageCheck(à¦ööç+0à¦ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1751(à¦ööç+0à¦ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3651(ˆÏò¾”-0ˆÏò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1110(à¦ööç+0à¦ööç+:AXzmQU-ch6dI4sPCG5Pkl
+plsql#LiteralsNonPrintableCharactersCheck"
+allowTabulationstrue(à¦ööç+0Ğ·ò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1117(ĞµÃÜÛ.0ĞµÃÜÛ.:AXzmQU-ch6dI4sPCG5Pkn
+plsql-PlSql.FunctionAndProcedureExcessiveParameters"
+
+parameters10(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkB
+plsqlNestedCommentsCheck(èšáÜï(0à¦ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS4062(à¦ööç+0à¦ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1764(øööç+0øööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS5047(ˆÏò¾”-0ˆÏò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS2737( Çò¾”-0 Çò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1523( õ€Æî,0 õ€Æî,:AXzmQU-ch6dI4sPCG5PkC
+plsqlMaskedExceptionCheck(èšáÜï(0è­ÃÜÛ.:AXzmQU-ch6dI4sPCG5PkA
+plsqlFullOuterJoinCheck(¸˜Ù±ñ(0øööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1739(øööç+0øööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1854(Ğ·ò¾”-0Ğ·ò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1172(¸¿ò¾”-0¸¿ò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1862(øööç+0øööç+:AXzmQU-ch6dI4sPCG5Pk:
+plsqlUnusedLabel(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS5547(¸ÃÁÜÛ.0¸ÃÁÜÛ.:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3643(—ööç+0¸í€Æî,:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3641(¸í€Æî,0¸í€Æî,:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1066(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3923(—ööç+0—ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3921(Øêş°Œ,0Øêş°Œ,:AXzmQU-ch6dI4sPCG5PkS
+plsql$PreferExecuteImmediateToDbmsSqlCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS5141(Ğ·ò¾”-0Ğ·ò¾”-:AXzmQU-ch6dI4sPCG5Pkr
+plsqlNamingVariablesCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk3
+plsqlS131(¸¿ò¾”-0¸¿ò¾”-:AXzmQU-ch6dI4sPCG5PkE
+plsqlLoopUnlabeledExitCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3618(¨úş°Œ,0¨úş°Œ,:AXzmQU-ch6dI4sPCG5Pk_
+plsql0PlSql.CreateFunctionAndCreateProcedureDocumented(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkX
+plsql)FormatErrorStackAndBacktraceUsedAlongside(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5PkQ
+plsql"ReturnInInitializationSectionCheck(èšáÜï(0—ööç+:AXzmQU-ch6dI4sPCG5Pk_
+plsqlWeakRefCursorCheck"
+sysRefCursorAllowedfalse(¸˜Ù±ñ(0¨ööç+:AXzmQU-ch6dI4sPCG5Pk9
+plsql
+ExitInLoop(èšáÜï(0¨ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS4790(è­ÃÜÛ.0è­ÃÜÛ.:AXzmQU-ch6dI4sPCG5Pk<
+plsqlDeadCodeCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkG
+plsqlDecodeFunctionUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1871(à¦ööç+0à¦ööç+:AXzmQU-ch6dI4sPCG5PkE
+plsqlBlockUnlabeledEndCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkD
+plsqlLoopUnlabeledEndCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk9
+plsql
+PlSql.Goto(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk<
+plsqlBackwardsGoto(¸˜Ù±ñ(0à¦ööç+:AXzmQU-ch6dI4sPCG5Pk:
+plsqlCharVarchar(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkQ
+plsql"BadRaiseApplicationErrorUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkE
+plsqlReturnInProcedureCheck(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5Pk3
+plsqlS125(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkO
+plsql FunctionLastStatementReturnCheck(èšáÜï(0¨ööç+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1940(¸¿ò¾”-0¸¿ò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS4196( Çò¾”-0 Çò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS2761(¸¿ò¾”-0¸¿ò¾”-:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3626(¸¿ò¾”-0¸¿ò¾”-:AXzmQU-ch6dI4sPCG5PkD
+plsqlS1192"
+	threshold3(¸˜Ù±ñ(0à¦ööç+:AXzmQU-ch6dI4sPCG5Pkc
+plsqlJoinConditionNumberCheck"
+maximumJoinConditions3(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkI
+plsqlStandaloneProcAndFuncCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkK
+plsqlOracleJoinOperatorUsageCheck(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5Pk>
+plsqlSelectStarCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkI
+plsqlFunctionOutParametersCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pkg
+plsqlDeleteOrUpdateWithoutWhereCheck"
+excludeTablesRegExp (¸˜Ù±ñ(0øööç+:AXzmQU-ch6dI4sPCG5Pk~
+plsql PlSql.FunctionAndProcedureNaming"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0È®ööç+:AXzmQU-ch6dI4sPCG5Pkn
+plsqlNamingTypesCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pkf
+plsqlNamingRecordField"$
+format[a-zA-Z](_?+[a-zA-Z0-9])*+(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pkk
+plsqlPlSql.PackageNaming"'
+regexp[a-zA-Z]([a-zA-Z_]*[a-zA-Z])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pkj
+plsqlNamingObjectAttribute"$
+format[a-zA-Z](_?+[a-zA-Z0-9])*+(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pks
+plsqlNamingExceptionsCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pkp
+plsqlNamingCursorsCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pky
+plsqlNamingCursorParametersCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pkr
+plsqlNamingConstantsCheck"-
+regexp#[a-zA-Z]([a-zA-Z0-9_]*[a-zA-Z0-9])?(èšáÜï(0—ööç+:AXzmQU-ch6dI4sPCG5PkI
+plsqlAnchoredTypeConstrainCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkY
+plsql*AvoidFetchBulkCollectIntoWithoutLimitCheck(èšáÜï(0È®ööç+:AXzmQU-ch6dI4sPCG5PkI
+plsqlBlockMissingSemicolonCheck(èšáÜï(0à¦ööç+:AXzmQU-ch6dI4sPCG5PkL
+plsqlBooleanLiteralComparisonCheck(¸˜Ù±ñ(0¨ööç+:AXzmQU-ch6dI4sPCG5PkR
+plsql#CompoundTriggerDefinesSingleTrigger(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk\
+plsql-ConstantDeclarationWithoutInitializationCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkC
+plsqlCreateOrReplaceCheck(èšáÜï(0¨ööç+:AXzmQU-ch6dI4sPCG5PkB
+plsqlCrossJoinUsageCheck(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5PkG
+plsqlCustomExceptionInitCheck(èšáÜï(0¨ööç+:AXzmQU-ch6dI4sPCG5PkR
+plsql#ExecuteImmediateTrapExceptionsCheck(—ööç+0—ööç+:AXzmQU-ch6dI4sPCG5PkG
+plsqlFloatWithScaleUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk[
+plsql,ForallStatementShouldUseSaveExceptionsClause(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5Pk>
+plsqlGotoInLoopCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkK
+plsqlImproperConstraintUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkF
+plsqlInitializeWithNullCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkD
+plsqlInvalidConstrainCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkK
+plsqlLabelStartEndMatchBlockCheck(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5PkJ
+plsqlLabelStartEndMatchLoopCheck(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5Pk8
+plsql	LongCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkG
+plsqlLoopAvoidSimpleLoopCheck(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5Pka
+plsqlLoopHardcodedBoundsCheck"
+allowedExceptions0,1(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkH
+plsqlLoopMissingSemicolonCheck(èšáÜï(0È®ööç+:AXzmQU-ch6dI4sPCG5PkC
+plsqlLoopUseExitWhenCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkI
+plsqlMlslabelDatatypeUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkE
+plsqlNameReusedInInnerScope(¸˜Ù±ñ(0˜‡š¿¦,:AXzmQU-ch6dI4sPCG5PkD
+plsqlNaturalJoinUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkH
+plsqlNcharByteLengthUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk7
+plsqlNotfound(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5Pk[
+plsql,NotNullDeclarationWithoutInitializationCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk=
+plsqlNullComparison(èšáÜï(0—ööç+:AXzmQU-ch6dI4sPCG5PkG
+plsqlOrderByColumnNumberCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkF
+plsqlOrderByExplicitAscCheck(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5PkO
+plsql OverridePredefinedExceptionCheck(èšáÜï(0à¦ööç+:AXzmQU-ch6dI4sPCG5PkO
+plsql PipelinedFunctionsWithoutPipeRow(¸˜Ù±ñ(0à¦ööç+:AXzmQU-ch6dI4sPCG5PkQ
+plsql"PositionalAndNamedArgumentMixCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkE
+plsqlQuotedIdentifiersCheck(èšáÜï(0øööç+:AXzmQU-ch6dI4sPCG5PkC
+plsqlResultCacheHintUsage(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1126(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkC
+plsqlS1479"
+maximum30(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS1481(Øñ«à­+0Øñ«à­+:AXzmQU-ch6dI4sPCG5Pk4
+plsqlS3633(øööç+0øööç+:AXzmQU-ch6dI4sPCG5PkL
+plsqlSingleLineCommentsSyntaxCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkI
+plsqlSizeConstraintMissingCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkI
+plsqlTriggerCommitRollbackCheck(èšáÜï(0—ööç+:AXzmQU-ch6dI4sPCG5PkG
+plsqlTriggerOfConditionsCheck(¸˜Ù±ñ(0—ööç+:AXzmQU-ch6dI4sPCG5PkI
+plsqlUseAsForColumnAliasesCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkK
+plsqlUseFetchBulkCollectIntoCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PkF
+plsqlUseForallStatementCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pka
+plsql2UseNativeSqlJoinsInsteadOfEmbeddedCursorLoopsCheck(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pk@
+plsqlVarcharUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkH
+plsqlVariableNotNullUsageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PkD
+plsqlVariableRedeclaration(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pk3
+apexS1135(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1134(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS5377(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS5376(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pif
+apexS2068"1
+credentialWordspassword,passwd,pwd,passphrase(Ğ¸¾Âø,0ğ‚ÕüÖ.:AXzmQU-ch6dI4sPCG5Pi3
+apexS5379(Èµ•£Ë-0Èµ•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS5378(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS1656(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1172(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1862(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1145(¨šÕüÖ.0¨šÕüÖ.:AXzmQU-ch6dI4sPCG5Pi3
+apexS5387(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS1066(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS5389(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS3923(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS5384(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS5382(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS1313(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1871(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1110(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi2
+apexS131(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS4144(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS4663(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS5395(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS5390(€Í•£Ë-0€Í•£Ë-:AXzmQU-ch6dI4sPCG5Pi3
+apexS1764(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1763(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiR
+apexS100"
+format^[a-z][a-zA-Z0-9_]*$(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiR
+apexS117"
+format^[a-z][a-zA-Z0-9_]*$(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1125(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiD
+apexS3776"
+	threshold15(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi2
+apexS125(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiC
+apexS1192"
+	threshold3(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiB
+apexS1479"
+maximum30(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi<
+apexS107"
+Max7(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi2
+apexS108(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1940(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1144(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5PiR
+apexS101"
+format^[A-Z][a-zA-Z0-9_]*$(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS2757(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+apexS1481(Ğ¸¾Âø,0Ğ¸¾Âø,:AXzmQU-ch6dI4sPCG5Pi3
+javaS1948(ÈÓÏ)0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5808(¨î¡™Ğ.0¨î¡™Ğ.:AXzmQU-ch6dI4sPCG5P-2
+javaS128(¸˜Ù±ñ(0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS3751(è‡ïŸ‰-0ğõå¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS1149(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2755(è‡ïŸ‰-0è‡ïŸ‰-:AXzmQU-ch6dI4sPCG5P-3
+javaS6377(ˆİŒüê/0ˆİŒüê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6374(Ğ°“üê/0Ğ°“üê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6373(ğÒ’üê/0ğÒ’üê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6376(øü‘üê/0øü‘üê/:AXzmQU-ch6dI4sPCG5P-H
+javaS5843"
+maxComplexity20(øœ÷ã¶.0øœ÷ã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS4544(À‚ñÙÎ,0À‚ñÙÎ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2122(ø•à©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS6217(˜’µµç/0˜’µµç/:AXzmQU-ch6dI4sPCG5P-[
+javaS115"'
+format^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$(¸˜Ù±ñ(0àå‰ºì*:AXzmQU-ch6dI4sPCG5P-Q
+javaS107"
+max7"
+constructorMax7(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-Q
+javaS100"
+format^[a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0˜ƒü Ì*:AXzmQU-ch6dI4sPCG5P-Q
+javaS117"
+format^[a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0¨Ôû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS6002(°·å¬æ.0°·å¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS4502(€™ú³Ä,0€™ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS2204(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2225(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2589(øè¯Á½+0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1135(¸˜Ù±ñ(0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5856(°·öã¶.0°·öã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS1134(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2583(èù„Ä´+0èù„Ä´+:AXzmQU-ch6dI4sPCG5P-3
+javaS5738(èÌË—˜.0èÌË—˜.:AXzmQU-ch6dI4sPCG5P-3
+javaS2115(ØŠñÚ,0ØŠñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1143(¸˜Ù±ñ(0Ø¶ïŸ‰-:AXzmQU-ch6dI4sPCG5P-3
+javaS2119(ØŠñÚ,0ØŠñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS3329(Ø“Û«ğ.0Ø“Û«ğ.:AXzmQU-ch6dI4sPCG5P-3
+javaS2445(Èˆ×¿Å*0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1114(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2441(àà©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1111(¸˜Ù±ñ(0Èí‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2681(èÄÙŠİ)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS4507(€™ú³Ä,0Àªó•….:AXzmQU-ch6dI4sPCG5P-3
+javaS2447(ø•à©Ä)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4512(ˆş‰ñÚ,0ˆş‰ñÚ,:AXzmQU-ch6dI4sPCG5P-O
+javaS2699"
+customAssertionMethods (È¸¬Ï-0È¸¬Ï-:AXzmQU-ch6dI4sPCG5P-3
+javaS1121(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2386(ĞÓ‹¨»)0à…‡¼ı*:AXzmQU-ch6dI4sPCG5P-3
+javaS4684(€™ú³Ä,0€™ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS2142(ÀÌâ»ª*0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1174(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5547(€ìò•….0€ìò•….:AXzmQU-ch6dI4sPCG5P-3
+javaS5542(ˆ–ò•….0¸²÷–’/:AXzmQU-ch6dI4sPCG5P-3
+javaS5301(Ğûò•….0Ğûò•….:AXzmQU-ch6dI4sPCG5P-3
+javaS1182(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1181(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5876(È„¥™Ğ.0È„¥™Ğ.:AXzmQU-ch6dI4sPCG5P-3
+javaS4423(ˆ¤Ş¹¯,0ğÃù–’/:AXzmQU-ch6dI4sPCG5P-3
+javaS2245(À•ŠñÚ,0À•ŠñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS4426(°½Î½,0èœù–’/:AXzmQU-ch6dI4sPCG5P-3
+javaS4425(°½Î½,0°½Î½,:AXzmQU-ch6dI4sPCG5P-3
+javaS3330(Ø¶ïŸ‰-0øÙ´û÷-:AXzmQU-ch6dI4sPCG5P-3
+javaS2259(Ø‹á¨*0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS4434(È…½Î½,0¨¹„Ì…/:AXzmQU-ch6dI4sPCG5P-3
+javaS2257(ğ…ŠñÚ,0ğ…ŠñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2254(ˆ¯ãå­)0¨Ôû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4433(°½Î½,0°½Î½,:AXzmQU-ch6dI4sPCG5P-3
+javaS5527(ğšó•….0ğšó•….:AXzmQU-ch6dI4sPCG5P-3
+javaS4790(ğ­¬»ğ,0ğ­¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS4792(ğ­¬»ğ,0ğ­¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2637(¨¡Äâ¾*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1874(ğÎ×¿Å*0 ªü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1872(àà©Ä)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2612( ÂèÃŒ.0 ÂèÃŒ.:AXzmQU-ch6dI4sPCG5P-3
+javaS3752(è‡ïŸ‰-0°»Å€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS4601(è‡ïŸ‰-0è‡ïŸ‰-:AXzmQU-ch6dI4sPCG5P-3
+javaS3518(ààóÅæ*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1217(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1104(¸˜Ù±ñ(0Èí‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4973( ŸïŸ‰-0 ŸïŸ‰-:AXzmQU-ch6dI4sPCG5P-3
+javaS1313( ö‰ñÚ,0 ö‰ñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2647(¡¬Ï-0¡¬Ï-:AXzmQU-ch6dI4sPCG5P-3
+javaS1444(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4830( ‹ó•….0 ‹ó•….:AXzmQU-ch6dI4sPCG5P-3
+javaS1206(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5804(ˆÆ¤™Ğ.0ˆÆ¤™Ğ.:AXzmQU-ch6dI4sPCG5P-3
+javaS6362(øô‘Ê/0øô‘Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS5042(€€ Ÿö,0€€ Ÿö,:AXzmQU-ch6dI4sPCG5P-3
+javaS1854(€×¥Õ…*0€×¥Õ…*:AXzmQU-ch6dI4sPCG5P-3
+javaS1989(èÙò´ƒ*0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-2
+javaS131(¸˜Ù±ñ(0Èí‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS6288(€Ëò‘Ê/0€Ëò‘Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6291(Ğ×ó‘Ê/0Ğ×ó‘Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6293(¨‘ó‘Ê/0¨‘ó‘Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS6301(ğüñ‘Ê/0ğüñ‘Ê/:AXzmQU-ch6dI4sPCG5P-‡
+javaS2068"R
+credentialWords?password,passwd,pwd,passphrase,java.naming.security.credentials(ˆ¯ãå­)0¸î‰ñÚ,:AXzmQU-ch6dI4sPCG5P-3
+javaS5332(€„Œšı.0€„Œšı.:AXzmQU-ch6dI4sPCG5P-3
+javaS6300(Ø“í‘Ê/0Ø“í‘Ê/:AXzmQU-ch6dI4sPCG5P-2
+javaS112(¸˜Ù±ñ(0àå‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2184(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-S
+javaS5693"
+fileUploadSizeLimit8388608( £Œšı.0 £Œšı.:AXzmQU-ch6dI4sPCG5P-2
+javaS106(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS5344(èÌıë±-0èÌıë±-:AXzmQU-ch6dI4sPCG5P-3
+javaS2077(ÈÓÏ)0ĞŸˆšı.:AXzmQU-ch6dI4sPCG5P-3
+javaS4347(è‹±Œ,0è‹±Œ,:AXzmQU-ch6dI4sPCG5P-3
+javaS5679(ÀäçÃŒ.0ÀäçÃŒ.:AXzmQU-ch6dI4sPCG5P-3
+javaS5689(¸˜šı.0¸˜šı.:AXzmQU-ch6dI4sPCG5P-3
+javaS5443(°ñŒšı.0°ñŒšı.:AXzmQU-ch6dI4sPCG5P-3
+javaS5445(Ø·šı.0ˆ¦€Ì…/:AXzmQU-ch6dI4sPCG5P-3
+javaS5324(˜½ıë±-0˜½ıë±-:AXzmQU-ch6dI4sPCG5P-3
+javaS2053(ÒŒšı.0ÒŒšı.:AXzmQU-ch6dI4sPCG5P-3
+javaS5320(ğóıë±-0ğóıë±-:AXzmQU-ch6dI4sPCG5P-3
+javaS4036(ğµ‹šı.0ğµ‹šı.:AXzmQU-ch6dI4sPCG5P-3
+javaS5247(øÜ‹šı.0øÜ‹šı.:AXzmQU-ch6dI4sPCG5P-3
+javaS5122(È¸¬Ï-0È¸¬Ï-:AXzmQU-ch6dI4sPCG5P-N
+javaS2095"
+excludedResourceTypes (èÓ˜ªÙ)0Èóû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2092(ˆ¯ãå­)0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-2
+javaS899(ˆ²ü Ì*0Èí‰ºì*:AXzmQU-ch6dI4sPCG5P-K
+javaS119"
+format^[A-Z][0-9]?$(¸˜Ù±ñ(0Üû Ì*:AXzmQU-ch6dI4sPCG5P-Q
+javaS116"
+format^[a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0ÀÌû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1124(¸˜Ù±ñ(0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1123(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2695(˜ Û¤Ç)0àëû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2151(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS4738(¸–¬»ğ,0¸–¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS6019(èÎå¬æ.0èÎå¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS5322(ˆìıë±-0ˆìıë±-:AXzmQU-ch6dI4sPCG5P-Q
+javaS101"
+format^[A-Z][a-zA-Z0-9]*$(¸˜Ù±ñ(0˜ƒü Ì*:AXzmQU-ch6dI4sPCG5P-2
+javaS125(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-S
+javaS2479"
+allowTabsInTextBlocksfalse(èİ¦»¢.0èİ¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS5860(à°óã¶.0à°óã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS5869(¸áõã¶.0¸áõã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS3655(ààóÅæ*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5842(¨÷ã¶.0¨÷ã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS1068(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS1168(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS6035(¸äã¬æ.0¸äã¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS5329(¨†ş¼/0¨†ş¼/:AXzmQU-ch6dI4sPCG5P-3
+javaS6355(ÿ‚‚¼/0ÿ‚‚¼/:AXzmQU-ch6dI4sPCG5P-3
+javaS6216(ªƒÉ¬/0ªƒÉ¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS5854(èÎöã¶.0èÎöã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS2201(à€×¿Å*0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5994( ãæ¬æ.0 ãæ¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS6206(ĞîÉ¬/0ĞîÉ¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS6207(à¿É¬/0à¿É¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS6204(À‚É¬/0À‚É¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS6209(Ø¤ıÈ¬/0Ø¤ıÈ¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS6219( û‚É¬/0 û‚É¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS6218(°Ì‚É¬/0°Ì‚É¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS5969(ğë¢Ì.0ğë¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS5852(¸Şöã¶.0¸Şöã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS4635(˜‘ú³Ä,0˜‘ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS1075(€Ö»Ÿ²+0€Ö»Ÿ²+:AXzmQU-ch6dI4sPCG5P-3
+javaS6201(àãà¥/0àãà¥/:AXzmQU-ch6dI4sPCG5P-3
+javaS5853(à¢È€®.0à¢È€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS3436(°˜ ÆØ+0°˜ ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2226(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5976(¨«ê¢Ì.0¨«ê¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS5855(’ç¬æ.0’ç¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS5850(¨öã¶.0¨öã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS2222(ĞÛ˜ªÙ)0àëû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5973(°Òê¢Ì.0°Òê¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS1130(¸˜Ù±ñ(0˜ƒü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2229(˜‘ú³Ä,0˜‘ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS5857(à§öã¶.0à§öã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS2236(ˆ¯ãå­)0àëû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2116(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5866(ˆñõã¶.0ˆñõã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS2114(€µƒ)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2235(ˆ¯ãå­)0àëû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1144(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2111(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1264(èÄÙŠİ)0€‹ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5863(˜½Ç€®.0˜½Ç€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS2230(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2110(àà©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5868(€Êõã¶.0€Êõã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS2118(ĞÓ‹¨»)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5831(ØûÇ€®.0ØûÇ€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS1598( ¬¡³„)0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1113(¸˜Ù±ñ(0˜¸øöç+:AXzmQU-ch6dI4sPCG5P-3
+javaS5833(ˆìÇ€®.0ˆìÇ€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS1110(¸˜Ù±ñ(0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS2440(àà©Ä)0àà©Ä):AXzmQU-ch6dI4sPCG5P-3
+javaS2209(èÙò´ƒ*0èÙò´ƒ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1119(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS5838(ĞÔÇ€®.0ĞÔÇ€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS3415(Øáÿöç+0Øáÿöç+:AXzmQU-ch6dI4sPCG5P-3
+javaS2326(ĞÓ‹¨»)0ĞÓ‹¨»):AXzmQU-ch6dI4sPCG5P-3
+javaS2689( ¬»ğ,0 ¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1117(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS5958(ˆŒê¢Ì.0ˆŒê¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS3416(“şë±-0“şë±-:AXzmQU-ch6dI4sPCG5P-3
+javaS5960(Ğñê¢Ì.0Ğñê¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS5841(èÉÈ€®.0èÉÈ€®.:AXzmQU-ch6dI4sPCG5P-Q
+javaS5961"
+MaximumAssertionNumber25(°Ïë¢Ì.0°Ïë¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS5967(°ë¢Ì.0°ë¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS1128(¸˜Ù±ñ(0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3305(˜‘ú³Ä,0˜‘ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS4517(¸–¬»ğ,0¸–¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS3358(€Ö»Ÿ²+0€Ö»Ÿ²+:AXzmQU-ch6dI4sPCG5P-3
+javaS5776(¨œ§»¢.0¨œ§»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS5413(àª–£Ë-0àª–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS5779(ØŒ§»¢.0ØŒ§»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS5778( õ¦»¢.0 õ¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS3599(˜Æ’şÛ*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2147(¨¹ğû¢*0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2387(èÓ˜ªÙ)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1175(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4201( œŞ¹¯,0 œŞ¹¯,:AXzmQU-ch6dI4sPCG5P-3
+javaS4449(¨Õš¿¦,0¨Õš¿¦,:AXzmQU-ch6dI4sPCG5P-3
+javaS4682( ¬»ğ,0 ¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1170(¸˜Ù±ñ(0 ªü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2159(ĞÛ˜ªÙ)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2276(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5663(èŒÈŠ÷.0èŒÈŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS5783(¸ğ¥»¢.0¸ğ¥»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS1066(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS5786(§¦»¢.0§¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS5665(àÙËŠ÷.0àÙËŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS2153(ĞÓ‹¨»)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5785(Ø¦»¢.0Ø¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS5664(Ø²ËŠ÷.0Ø²ËŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS2275(ˆ¯ãå­)0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS2272(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2273(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3457(øè¯Á½+0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS2127(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-U
+javaS5998" 
+maxStackConsumptionFactor5.0(È¬æ¬æ.0È¬æ¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS2121(È²–£Ë-0È²–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS3346( òÌäµ+0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2134(ø•à©Ä)0ø•à©Ä):AXzmQU-ch6dI4sPCG5P-3
+javaS1165(¸˜Ù±ñ(0˜Æ’şÛ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2131(ø•à©Ä)0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2252(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1163(¸˜Ù±ñ(0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS2139( ¬»ğ,0 ¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1161(ÈÓÏ)0ÈÓÏ):AXzmQU-ch6dI4sPCG5P-3
+javaS2251(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2864(ĞÛ˜ªÙ)0ĞÛ˜ªÙ):AXzmQU-ch6dI4sPCG5P-3
+javaS2629(°ö­œ—+0°ö­œ—+:AXzmQU-ch6dI4sPCG5P-3
+javaS3958(Ğ· ÆØ+0Ğ· ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS4929(˜÷«»ğ,0˜÷«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1994(ÈÓÏ)0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1871(ğÎ×¿Å*0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1643(Ğ¯×¿Å*0à®’şÛ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2970(èÄÙŠİ)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2737(ğ…æÄÆ+0ğ…æÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3824(˜ €÷ç+0˜ €÷ç+:AXzmQU-ch6dI4sPCG5P-3
+javaS2975(€×¥Õ…*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2786(èÓ˜ªÙ)0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1214(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3753(°‰ú³Ä,0°‰ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS1452(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1210(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1450(ÑóÅæ*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3516(ØæÄÆ+0ØæÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1215(¸˜Ù±ñ(0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS3878(ØæÄÆ+0ØæÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2676(ĞÛ˜ªÙ)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3400(€ ×¿Å*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2438(àà©Ä)0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS5917(Ø¯ÌŠ÷.0Ø¯ÌŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS1317(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS3986(ØæÄÆ+0ØæÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3981(Ğ·€÷ç+0Ğ·€÷ç+:AXzmQU-ch6dI4sPCG5P-3
+javaS3740(˜ÉÇ—˜.0˜ÉÇ—˜.:AXzmQU-ch6dI4sPCG5P-3
+javaS4838(è†¬»ğ,0è†¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS5803(ğœç¢Ì.0ğœç¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS4087(ğÖ€÷ç+0ğÖ€÷ç+:AXzmQU-ch6dI4sPCG5P-3
+javaS1700(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS6126(ĞˆÌŠ÷.0ĞˆÌŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS6001(˜å¬æ.0˜å¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS1610(àÚ¡õŒ*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1612(àÚ¡õŒ*0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1611(¸˜Ù±ñ(0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1862( ¬¡³„)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1860(ˆ¯ãå­)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2718(àÚ¡õŒ*0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS3923(øè¯Á½+0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS6070(¨æ¬æ.0¨æ¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS2924(èÙò´ƒ*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2925(èÙò´ƒ*0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS1710(àÚ¡õŒ*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-2
+javaS127(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS1604(àÚ¡õŒ*0àÚ¡õŒ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1602(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-2
+javaS135(¸˜Ù±ñ(0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3039(À‹–£Ë-0À‹–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS3038(è“¾º*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-Q
+javaS110"
+filteredClasses "
+max5(¨™¨ú™*0¨™¨ú™*:AXzmQU-ch6dI4sPCG5P-3
+javaS3398(ÀÌâ»ª*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2189( µõÍÂ*0Ğšü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2186(ĞÛ˜ªÙ)0Ğšü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4488(Èú³Ä,0Èú³Ä,:AXzmQU-ch6dI4sPCG5P-d
+javaS2187"/
+TestClassNamePattern.*(Test|Tests|TestCase)(ĞÛ˜ªÙ)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3034(Øù›–³*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2066(ĞÓ‹¨»)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2185(ĞÛ˜ªÙ)0ĞÛ˜ªÙ):AXzmQU-ch6dI4sPCG5P-3
+javaS2061(ĞÓ‹¨»)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2183(ĞÓ‹¨»)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3042(èà›¿+0èà›¿+:AXzmQU-ch6dI4sPCG5P-3
+javaS4349(¨Í±Œ,0¨Í±Œ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2168(€Ù›¿+0€Ù›¿+:AXzmQU-ch6dI4sPCG5P-3
+javaS3014(€ÿ«»ğ,0€ÿ«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS1195(¸˜Ù±ñ(0ğ¼û Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3252(¨“–£Ë-0¨“–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS3010(€Ö»Ÿ²+0€Ö»Ÿ²+:AXzmQU-ch6dI4sPCG5P-3
+javaS1190(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2177(¸Õ­Ä¹*0¸Õ­Ä¹*:AXzmQU-ch6dI4sPCG5P-3
+javaS2178(ˆ¯ãå­)0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2055(ĞÓ‹¨»)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2176(ĞÓ‹¨»)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2293(àÚ¡õŒ*0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4351(ÀÍš¿¦,0ÀÍš¿¦,:AXzmQU-ch6dI4sPCG5P-3
+javaS3078(€ÿ«»ğ,0€ÿ«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS6104(ÀÚ«ğ.0ÀÚ«ğ.:AXzmQU-ch6dI4sPCG5P-3
+javaS4165(ØŞ€÷ç+0ØŞ€÷ç+:AXzmQU-ch6dI4sPCG5P-3
+javaS6202(¸ê–Ê/0¸ê–Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS4144(ØŞ€÷ç+0ØŞ€÷ç+:AXzmQU-ch6dI4sPCG5P-N
+javaS6203"
+MaximumNumberOfLines5(¨›Ê/0¨›Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS4276(¸íıÒê,0¸íıÒê,:AXzmQU-ch6dI4sPCG5P-3
+javaS4034( Ç ÆØ+0 Ç ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3066(¸Õ­Ä¹*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4032(È ÓäÑ+0È ÓäÑ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3065(Ğ¬»ğ,0Ğ¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2097(ĞÛ˜ªÙ)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2094(ÈÓÏ)0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2093(¨Á¢œ¥*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1171(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS1199(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS6205( æšÊ/0 æšÊ/:AXzmQU-ch6dI4sPCG5P-3
+javaS6208(˜¿šÊ/0˜¿šÊ/:AXzmQU-ch6dI4sPCG5P-3
+javaS6213( ã›Ê/0 ã›Ê/:AXzmQU-ch6dI4sPCG5P-3
+javaS3551(¸—ïŸ‰-0¸—ïŸ‰-:AXzmQU-ch6dI4sPCG5P-3
+javaS2165(ø•à©Ä)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS6103(ĞòØ«ğ.0ĞòØ«ğ.:AXzmQU-ch6dI4sPCG5P-3
+javaS5411(È²–£Ë-0È²–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS4454(ÀÍš¿¦,0ÀÍš¿¦,:AXzmQU-ch6dI4sPCG5P-3
+javaS2129(øØóÅæ*0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS4602(°‰ú³Ä,0°‰ú³Ä,:AXzmQU-ch6dI4sPCG5P-3
+javaS4719(è†¬»ğ,0è†¬»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS5261(›–£Ë-0›–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS3064(›–£Ë-0›–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS1221(¸˜Ù±ñ(0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS4977(˜îÌŠ÷.0˜îÌŠ÷.:AXzmQU-ch6dI4sPCG5P-3
+javaS5845(˜ºÈ€®.0˜ºÈ€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS4925(˜÷«»ğ,0˜÷«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS3864(€ÿ«»ğ,0€ÿ«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS6068(ğøä¬æ.0ğøä¬æ.:AXzmQU-ch6dI4sPCG5P-3
+javaS2446(€èè¾¢+0€èè¾¢+:AXzmQU-ch6dI4sPCG5P-3
+javaS2442(àà©Ä)0¨™¨ú™*:AXzmQU-ch6dI4sPCG5P-3
+javaS1116(¸·×¿Å*0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1172(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2274(ˆ¯ãå­)0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1065(ˆ¯ãå­)0ˆ¯ãå­):AXzmQU-ch6dI4sPCG5P-3
+javaS1659(¨™¨ú™*0 ªü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1656(ˆÇ×¿Å*0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1764(ÈÓÏ)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2674(˜ Û¤Ç)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2886(ˆ²ü Ì*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3011(¸î‰ñÚ,0€â¢»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS1193(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2175(ø•à©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3077(€ÿ«»ğ,0€ÿ«»ğ,:AXzmQU-ch6dI4sPCG5P-3
+javaS3067(èà›¿+0èà›¿+:AXzmQU-ch6dI4sPCG5P-3
+javaS5993(í¤™Ğ.0í¤™Ğ.:AXzmQU-ch6dI4sPCG5P-‹
+javaS3577"V
+formatL^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$(€åé¢Ì.0€åé¢Ì.:AXzmQU-ch6dI4sPCG5P-3
+javaS5810(È¾¦»¢.0È¾¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS2789(ààóÅæ*0èŒŠºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS5361(ø¢–£Ë-0ø¢–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS5846(ğõöã¶.0ğõöã¶.:AXzmQU-ch6dI4sPCG5P-3
+javaS1607(˜˜×¿Å*0˜˜×¿Å*:AXzmQU-ch6dI4sPCG5P-\
+javaS1191"'
+Excludecom.sun.jersey,com.sun.faces(¸˜Ù±ñ(0€ÙƒÉ¬/:AXzmQU-ch6dI4sPCG5P-3
+javaS2232(ˆ¯ãå­)0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS5826(“È€®.0“È€®.:AXzmQU-ch6dI4sPCG5P-3
+javaS2757(ğ…æÄÆ+0ğ…æÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS5669(ˆ€¦»¢.0ˆ€¦»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS3984(ØæÄÆ+0ØæÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2188(ĞÛ˜ªÙ)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS5790(˜Ñ¥»¢.0˜Ñ¥»¢.:AXzmQU-ch6dI4sPCG5P-3
+javaS4042( Ç ÆØ+0 Ç ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2638(É¢œ¥*0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1751(á¯Á½+0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS4524( œŞ¹¯,0 œŞ¹¯,:AXzmQU-ch6dI4sPCG5P-3
+javaS1133(¸˜Ù±ñ(0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2109(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2234(ˆ¤Ş¹¯,0ˆ¤Ş¹¯,:AXzmQU-ch6dI4sPCG5P-3
+javaS2112(€¨Û¤Ç)0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS1141(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-D
+javaS3776"
+	Threshold15(èà›¿+0èà›¿+:AXzmQU-ch6dI4sPCG5P-3
+javaS1596(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2200(ˆ¯ãå­)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1118(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-B
+javaS1479"
+maximum30(ÈÓÏ)0ÈÓÏ):AXzmQU-ch6dI4sPCG5P-3
+javaS1126(¸˜Ù±ñ(0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1488(¸˜Ù±ñ(0ØÄû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1125(¸˜Ù±ñ(0°ûû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2696(°˜Û¤Ç)0àëû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2692(ĞÛ˜ªÙ)0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1481(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2388(àà©Ä)0àà©Ä):AXzmQU-ch6dI4sPCG5P-3
+javaS2140(ÀÍ±¨¿*0€…Šºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2157(ˆ¯ãå­)0ˆşåÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1186(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2154(àà©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1185(¸˜Ù±ñ(0ØÄû Ì*:AXzmQU-ch6dI4sPCG5P-R
+javaS3008"
+format^[a-z][a-zA-Z0-9]*$(ùŠ²ç)0Èóû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2390(€Ö»Ÿ²+0˜£ŸÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1158(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1157(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1155(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2123(àà©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1153(¸˜Ù±ñ(0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1150(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2133(àà©Ä)0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS2130(ĞÓ‹¨»)0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3959(Ğ· ÆØ+0Ğ· ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1301(¸˜Ù±ñ(0ÀÌû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2639(ÀÌâ»ª*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1640(È‹²ç)0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3631(˜Æ’şÛ*0 òÌäµ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1219(¸˜Ù±ñ(0á¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS2677(èÓ˜ªÙ)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1223(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS2675(ĞÛ˜ªÙ)0ĞÛ˜ªÙ):AXzmQU-ch6dI4sPCG5P-3
+javaS1220(¸˜Ù±ñ(0 ªü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2437(àà©Ä)0øè¯Á½+:AXzmQU-ch6dI4sPCG5P-3
+javaS1226(¸˜Ù±ñ(0°¾’şÛ*:AXzmQU-ch6dI4sPCG5P-3
+javaS2885(ĞÛ˜ªÙ)0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS3972(Ğ· ÆØ+0Ğ· ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS3973(àı¼Î½,0àı¼Î½,:AXzmQU-ch6dI4sPCG5P-3
+javaS2761(ÀÍš¿¦,0ÀÍš¿¦,:AXzmQU-ch6dI4sPCG5P-3
+javaS1319(¸˜Ù±ñ(0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3985(ØæÄÆ+0ØæÄÆ+:AXzmQU-ch6dI4sPCG5P-3
+javaS1201(¸˜Ù±ñ(0™öÙ—*:AXzmQU-ch6dI4sPCG5P-3
+javaS3626(¸”Ş¹¯,0¸”Ş¹¯,:AXzmQU-ch6dI4sPCG5P-3
+javaS1940( ¿×¿Å*0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1905(€µƒ)0Èóû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4065( Ç ÆØ+0 Ç ÆØ+:AXzmQU-ch6dI4sPCG5P-3
+javaS5164(¸ä•£Ë-0¸ä•£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS1858(èÓ˜ªÙ)0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1849(ˆ¯ãå­)0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1845(èÙò´ƒ*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS1844(ˆ¯ãå­)0à€×¿Å*:AXzmQU-ch6dI4sPCG5P-3
+javaS2065(ĞÓ‹¨»)0¸¢ü Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2062(©Äâ¾*0˜ı‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS2060(ğÍÌÂ¼*0ÑóÅæ*:AXzmQU-ch6dI4sPCG5P-2
+javaS108(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P-3
+javaS3046(èà›¿+0èà›¿+:AXzmQU-ch6dI4sPCG5P-\
+javaS120"(
+format^[a-z_]+(\.[a-z_][a-z0-9_]*)*$(¸˜Ù±ñ(0¨Õš¿¦,:AXzmQU-ch6dI4sPCG5P-Q
+javaS114"
+format^[A-Z][a-zA-Z0-9]*$(¸˜Ù±ñ(0¨Ôû Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS4348(Ø½±Œ,0Ø½±Œ,:AXzmQU-ch6dI4sPCG5P-3
+javaS2166(ĞÓ‹¨»)0ĞÓ‹¨»):AXzmQU-ch6dI4sPCG5P-3
+javaS2167(ø•à©Ä)0øØóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS1197(¸˜Ù±ñ(0ğ¼û Ì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3012(À‹–£Ë-0À‹–£Ë-:AXzmQU-ch6dI4sPCG5P-3
+javaS2160(àà©Ä)0€…Šºì*:AXzmQU-ch6dI4sPCG5P-C
+javaS1192"
+	threshold3(¸˜Ù±ñ(0°õ‰ºì*:AXzmQU-ch6dI4sPCG5P-3
+javaS3020(ˆ²ü Ì*0ààóÅæ*:AXzmQU-ch6dI4sPCG5P-3
+javaS4143(ğÖ€÷ç+0ğÖ€÷ç+:AXzmQU-ch6dI4sPCG5P-3
+javaS4275(èÁÒ—™,0èÁÒ—™,:AXzmQU-ch6dI4sPCG5P-3
+javaS4274(¸”Ş¹¯,0¸”Ş¹¯,:AXzmQU-ch6dI4sPCG5P-2
+xmlS1135(ËğŸ‰-0ËğŸ‰-:AXzmQU-ch6dI4sPCG5Pf2
+xmlS1134(ËğŸ‰-0ËğŸ‰-:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3355( ¢ŞÀÛ/0 ¢ŞÀÛ/:AXzmQU-ch6dI4sPCG5Pfe
+xmlS2068"1
+credentialWordspassword,passwd,pwd,passphrase(°†ı¢û.0°†ı¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS5332(ø”÷‘Ê/0ø”÷‘Ê/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3330(Èşü¢û.0Èşü¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3374(€ƒŞÀÛ/0€ƒŞÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS2647(ØÕú¢û.0ØÕú¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3439(ÈëİÀÛ/0ÈëİÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS4507(Èşü¢û.0Èşü¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3438(°óİÀÛ/0°óİÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3422(Ğ’ŞÀÛ/0Ğ’ŞÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3421(¸šŞÀÛ/0¸šŞÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS6358(È¤÷‘Ê/0È¤÷‘Ê/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS5604(àöü¢û.0àöü¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3822(°üÚÀÛ/0°üÚÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS5122(°†ı¢û.0°†ı¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS3281(˜ûİÀÛ/0˜ûİÀÛ/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS6359(àœ÷‘Ê/0àœ÷‘Ê/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS5322(÷‘Ê/0÷‘Ê/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS5594(àöü¢û.0àöü¢û.:AXzmQU-ch6dI4sPCG5Pf2
+xmlS6361(ˆæö‘Ê/0ˆæö‘Ê/:AXzmQU-ch6dI4sPCG5Pf2
+xmlS1778(Øà„í©+0ğæ¬à­+:AXzmQU-ch6dI4sPCG5Pf1
+xmlS125(ËğŸ‰-0ËğŸ‰-:AXzmQU-ch6dI4sPCG5PfB
+flexSwitchWithoutDefault(èšáÜï(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS4507(øñ¥™Ğ.0øñ¥™Ğ.:AXzmQU-ch6dI4sPCG5PhF
+flexNonEmptyCaseWithoutBreak(èšáÜï(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1444(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS4524(ÀØêï¸-0ÀØêï¸-:AXzmQU-ch6dI4sPCG5Ph3
+flexS1466(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1871(À»Ê¢«,0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1172(è™¡®˜)0è™¡®˜):AXzmQU-ch6dI4sPCG5Ph3
+flexS1301(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS3923(øïêï¸-0øïêï¸-:AXzmQU-ch6dI4sPCG5Ph3
+flexS1117(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1116(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph;
+flexCommentedCode(èšáÜï(0¨ÙáÜï(:AXzmQU-ch6dI4sPCG5Ph2
+flexS127(è™¡®˜)0è™¡®˜):AXzmQU-ch6dI4sPCG5Ph;
+flexActionScript2(èšáÜï(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5PhQ
+flexS100"
+format^[a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5PhQ
+flexS101"
+format^[A-Z][a-zA-Z0-9]*$(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph3
+flexS1066(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1068(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph<
+flexS107"
+max7(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph2
+flexS108(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1125(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1144(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph[
+flexS115"'
+format^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5PhR
+flexS116"
+format^[_a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0€Ïó´ƒ*:AXzmQU-ch6dI4sPCG5PhR
+flexS117"
+format^[_a-z][a-zA-Z0-9]*$(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph3
+flexS1170(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph3
+flexS1185(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1186(è™¡®˜)0À»Ê¢«,:AXzmQU-ch6dI4sPCG5PhY
+flexS120"%
+format^[a-z]+(\.[a-z][a-z0-9]*)*$(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph3
+flexS1434(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1435(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1439(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1445(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1446(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1447(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1455(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Ph3
+flexS1462(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1463(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1464(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1465(¸˜Ù±ñ(0èÖó´ƒ*:AXzmQU-ch6dI4sPCG5Ph3
+flexS1467(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1468(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1470(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1481(¸˜Ù±ñ(0À»Ê¢«,:AXzmQU-ch6dI4sPCG5Ph3
+flexS1952(è™¡®˜)0è™¡®˜):AXzmQU-ch6dI4sPCG5Ph;
+flexWithStatement(èšáÜï(0¨ÙáÜï(:AXzmQU-ch6dI4sPCG5Ph:
+csharpsquidS1155(ğ–ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2755(ĞÑ“İ‡.0ĞÑ“İ‡.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3925(˜‹¯Á½+0ø±òÌ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3442(€³í©+0€³í©+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5753(Ğó¢©ò.0Ğó¢©ò.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4457(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2344(°À¨ú™*0°À¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3267(¥ßÏÅ/0ğ¸ˆéÒ/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2225(ğ–ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2589(°ƒ¯Á½+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1135(°À¨ú™*0°À¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1134(°À¨ú™*0°À¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2583(°À‹†+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2115(È´ßÛ“/0È´ßÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3329(ÈÈ¾Æê.0ÈÈ¾Æê.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4502(À‡áÛ“/0À‡áÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2681(à©™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4507(°­Ú÷õ,0È·›øø-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1121(€»Ì“Æ*0€»Ì“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2386(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5773(ˆñå§°.0ˆñå§°.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5659(È¨íÆ.0È¨íÆ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1172(Øˆó´ƒ*0Øˆó´ƒ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5547(ªÓ˜ñ-0ªÓ˜ñ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4211(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5542(ø±Ó˜ñ-0 åáÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4423(¨¦¿Æê.0˜ÁàÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2245(ˆ‰ñÚ,0ˆ‰ñÚ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4426(€¿åÄ¶,0¸ààÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2486(ø¡™ªÙ)0°İÄøœ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3330(Ï²Ş„-0àãµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5766(ø¢å§°.0ø¢å§°.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2257(ÈÅ¿Æê.0ÈÅ¿Æê.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4433(€¿åÄ¶,0€¿åÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4790(àÚ÷õ,0àÚ÷õ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4792(àÚ÷õ,0àÚ÷õ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2612(¸‰ ¹ÿ.0¸‰ ¹ÿ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1104(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3884(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1313(àŞ²Ş„-0àŞ²Ş„-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4830(ğŠÓ˜ñ-0ğŠÓ˜ñ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1206(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1944(ğì­Ä¹*0ğì­Ä¹*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5042(Áäâù,0Áäâù,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1854(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2930(ˆñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3904(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pnp
+csharpsquidS2068"4
+credentialWords!password, passwd, pwd, passphrase(ø±òÌ+0ØùìÆ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5332(èä¿Æê.0èä¿Æê.:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS112( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4487(°óµá-0°óµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2184(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5PnZ
+csharpsquidS5693"
+fileUploadSizeLimit8000000(°å¹ÿ.0°å¹ÿ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2077(˜µÚ÷õ,0àÒŸ¹ÿ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2190(°À‹†+0°À‹†+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4581(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5443(ğ  ¹ÿ.0ğ  ¹ÿ.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5445(€òŸ¹ÿ.0˜ÙŒÎ„/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2053(Ø“ÀÆê.0Ø“ÀÆê.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4036(¸ø£©ò.0¸ø£©ò.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5122(˜¾áÛ“/0˜¾áÛ“/:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2092(Èæ²Ş„-0Èæ²Ş„-:AXzmQU-ch6dI4sPCG5PnC
+csharpsquidS107"
+max7( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2688( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2201(èÂÌ“Æ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1117(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1116(Èú ®˜)0ø¡™ªÙ):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1006(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2275(à×¢õŒ*0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3457(Øô­Ä¹*0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3218(Øˆó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS927(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2259(°À‹†+0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1168(ĞÀˆæ+0ĞÀˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3346(ø±òÌ+0ø±òÌ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1163( Ş»  +0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS818(€»Ì“Æ*0€»Ì“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2251(àãµá-0àãµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1656(à©™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1764(ø¡™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1699(¸ÿğï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1862(ø¡™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3011(èÄÚ÷õ,0˜÷¬ò .:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1075(Øí›ÆØ+0Øí›ÆØ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2178(ˆÙî–‡+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3260(ØãÏÅ/0ØãÏÅ/:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS101(€»Ì“Æ*0€»Ì“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2699( ˆÂ–©-0 ˆÂ–©-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3877(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2757(Øñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3247(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pnc
+csharpsquidS3776"
+	threshold15"
+propertyThreshold3(€³í©+0€³í©+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3433( Àˆæ+0 Àˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2345(°À¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3447(Øô­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2479(¨Ìµá-0¨Ìµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2114(¨—æÇá+0¨—æÇá+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1144(Øô­Ä¹*0Øô­Ä¹*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1264(˜îÅĞ¡,0˜îÅĞ¡,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3443(Øô­Ä¹*0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3440(ĞÂşĞ*0ĞÂşĞ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3449(Øô­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3897(À³›à¶+0˜¼ÏäÑ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1110(ˆ¾Ö˜‡,0ˆ¾Ö˜‡,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2326(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2696( ‡ñï)0 ‡ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1123(øÿ±òÌ+0øÿ±òÌ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2219(à×¢õŒ*0ğì­Ä¹*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3427(˜È¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3237(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3358(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3598(¸ÊşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3597(¸ÊşĞ*0¸ÊşĞ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4201(èıŸùÚ-0èıŸùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3249(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3005( ‡ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3244(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1066(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3241(èÂÌ“Æ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3453(€»Ì“Æ*0€»Ì“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2365(°ƒ¯Á½+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3451(Øô­Ä¹*0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4428(˜îÅĞ¡,0˜îÅĞ¡,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3459(ĞÂşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3217(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3466(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3343(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2252(ÈŞŸùÚ-0ÈŞŸùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2372(˜È¨ú™*0˜È¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2995( ‡ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3600(ĞÂşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3604( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2997(ˆñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3603(ĞÂşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3966( Ö›ÆØ+0¨µ·’Ò.:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1871(ø¡™ªÙ)0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2971( ‡ñï)0 ‡ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2737(¨£äÄÆ+0¨£äÄÆ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3875(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3871(À³›à¶+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1210( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1215(À³›à¶+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3887(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3400(€¿åÄ¶,0€¿åÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3885(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2551(ğˆ‰ñÚ,0ğˆ‰ñÚ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3881(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3610(¸ÊşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3981(«äÄÆ+0«äÄÆ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3869(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS5034(˜îŸùÚ-0˜îŸùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3927(ĞÓÏäÑ+0ĞÓÏäÑ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3928(°ƒ¯Á½+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3923(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1607( Àˆæ+0 Àˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2933(ğ–ñï)0ğ–ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2934(ˆñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5PnX
+csharpsquidS110"
+filteredClasses "
+max5(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2187( Àˆæ+0 Àˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2183(¨È¿ˆæ+0¨È¿ˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3169(Øˆó´ƒ*0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3168(°À¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3376(°À¨ú™*0°À¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3010( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4583(¸ ùÚ-0¸ ùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3264(¸ÊşĞ*0¸ÊşĞ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3261(€»Ì“Æ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2290(ˆñï)0ˆñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4260(È™ÍÊû+0È™ÍÊû+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4159(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4277(àšÒ—™,0¸¦š¿¦,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4158(¨È¿ˆæ+0¨È¿ˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3060(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3444(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4635(Èëµá-0Èëµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4210(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1905( ‡ñï)0 ‡ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1199(Ğ… ùÚ-0Ğ… ùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4220(ğÜÎÊû+0ğÜÎÊû+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2692( ‡ñï)0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3998(«äÄÆ+0«äÄÆ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3971(°ƒ¯Á½+0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4586(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS125(ø¡™ªÙ)0ø¡™ªÙ):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4019(ø±òÌ+0ø±òÌ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3973(ÈñÓçÊ,0ÈñÓçÊ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1125(ĞÂşĞ*0ĞÂşĞ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4035(èËÏäÑ+0èËÏäÑ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3415( ¡¿ˆæ+0 ¡¿ˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3984(«äÄÆ+0«äÄÆ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4136(€öŸùÚ-0€öŸùÚ-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4275(ÈñÓçÊ,0ÈñÓçÊ,:AXzmQU-ch6dI4sPCG5PnI
+csharpsquidS1479"
+maximum30(èÂÌ“Æ*0èÂÌ“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4143(ÈñÓçÊ,0ÈñÓçÊ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2857(˜ûµá-0˜ûµá-:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4524(ˆ‰ñÚ,0ˆ‰ñÚ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3972(˜¼ÏäÑ+0˜¼ÏäÑ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1048(˜îÅĞ¡,0˜îÅĞ¡,:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS907(ˆñï)0ˆñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2234(Øñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3220(˜È¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1751(˜‹¯Á½+0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5PnT
+csharpsquidS2436"
+max2"
+	maxMethod3(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn9
+csharpsquidS108(Èú ®˜)0Èú ®˜):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1118( ‡ñï)0 ‡ñï):AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1185(ğì­Ä¹*0ğì­Ä¹*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1186(€»Ì“Æ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1450(ĞÂşĞ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1481(ğ‹ƒ³—)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1643(˜È¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1848(à©™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1939(à×¢õŒ*0à×¢õŒ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS1940(Àó´ƒ*0Àó´ƒ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2123(ğ–ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2223(ˆñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2291(°À¨ú™*0°ƒ¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2292(à×¢õŒ*0à×¢õŒ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2306(ø¡™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2328(ğ–ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn§
+csharpsquidS2342"-
+format#^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$"<
+flagsAttributeFormat$^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?s$(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2346(°À¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2368(˜È¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2376(˜È¨ú™*0˜È¨ú™*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2437(¸ÿğï)0˜‹¯Á½+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2743(à©™ªÙ)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2761(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2953( ‡ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS2996( ‡ñï)0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3172(Àó´ƒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3236(à×¢õŒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3246(à×¢õŒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3251(Øô­Ä¹*0Øô­Ä¹*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3256( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3262(à×¢õŒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3263(à×¢õŒ*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3265(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3397(°À¨ú™*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3445(€»Ì“Æ*0€»Ì“Æ*:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3450(ğì­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3456(Øô­Ä¹*0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3458( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3464(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3626( Ş»  +0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3655(°À‹†+0 Ş»  +:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3889(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3903(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3926(À³›à¶+0À³›à¶+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS3963(Ø‰ñÚ,0Ø‰ñÚ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4015(ø±òÌ+0ø±òÌ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4061(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4070(°­Ú÷õ,0°­Ú÷õ,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4144(˜÷¿ˆæ+0˜÷¿ˆæ+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4200(àšÒ—™,0àšÒ—™,:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4214(ÿÍÊû+0ÿÍÊû+:AXzmQU-ch6dI4sPCG5Pn:
+csharpsquidS4456(èÆåÄ¶,0èÆåÄ¶,:AXzmQU-ch6dI4sPCG5PnF
+common-swiftDuplicatedBlocks(¨„ÁÂ)0¨„ÁÂ):AXzmQU-ch6dI4sPCG5Pr9
+
+typescriptS6268(àÏ¦×/0àÏ¦×/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2819(è´æªÕ.0è´æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6299(Ø¼ìà¥/0Ø¼ìà¥/:AXzmQU-ch6dI4sPCG5P7N
+
+typescriptS5843"
+maxComplexity20( ÃÓš¾/0 ÃÓš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4326(˜Ú±¨ú.0˜Ú±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2589(˜şúè€,0˜şúè€,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5732(ĞÊÁİ.0ĞÊÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1135(ø·²¨ú.0ø·²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5734(èÂÁİ.0èÂÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1134(à¿²¨ú.0à¿²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5730(ĞÊÁİ.0ĞÊÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5736(ĞÊÁİ.0ĞÊÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5739(èÂÁİ.0èÂÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5743(ŒÁİ.0ŒÁİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2598( €ŸğÍ.0 €ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1143(ÈîÇá+0€¹ë—Š-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5742(à›Áİ.0à›Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4502(¯ŸğÍ.0¯ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2681(®èÊû+0®èÊû+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4507(¨§ŸğÍ.0¨§ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5958(ˆ†”ÚÎ/0ˆ†”ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1488(¨¨²¨ú.0¨¨²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1121(À‰ÿµ“/0À‰ÿµ“/:AXzmQU-ch6dI4sPCG5P7U
+
+typescriptS5604"
+permissionsgeolocation(€»Áİ.0€»Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5725(˜³Áİ.0˜³Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5728(˜³Áİ.0˜³Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5042(à´ÂÆê.0à´ÂÆê.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5659(¸ÄæªÕ.0¸ÄæªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1854(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5547(¸ÄæªÕ.0¸ÄæªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5542( ÌæªÕ.0ˆòşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5876(¥ÂÆê.0¥ÂÆê.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4423(˜¥æªÕ.0ĞÚşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2245(àÓ ùÚ-0àÓ ùÚ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4426(˜¥æªÕ.0èÒşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5757(È£Áİ.0È£Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3330(€­æªÕ.0€­æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5759(È£Áİ.0È£Áİ.:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS128(˜ƒ«„ÿ-0˜ƒ«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5527(è´æªÕ.0è´æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4790(àÓ ùÚ-0àÓ ùÚ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5332(È¼ÂÆê.0È¼ÂÆê.:AXzmQU-ch6dI4sPCG5P7c
+
+typescriptS2068"(
+credentialWordspassword, pwd, passwd(¨ıÌ·,0 ³Ê”è-:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS905(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5691(ÈÆŸğÍ.0ÈÆŸğÍ.:AXzmQU-ch6dI4sPCG5P7w
+
+typescriptS5693"
+fileUploadSizeLimit8000000"
+standardSizeLimit2000000(ÈÆŸğÍ.0ÈÆŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2077(øË ùÚ-0ø£şµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2755(Ø—ŸğÍ.0Ø—ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1874(ˆ‰²¨ú.0ˆ‰²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5689(ø¶ŸğÍ.0ø¶ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1763(à¾ŸğÍ.0à¾ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5443(à´ÂÆê.0à´ÂÆê.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2612(ø¬ÂÆê.0ø¬ÂÆê.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1523(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4721(ÈÛ ùÚ-0¥ÀÂ´.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1313(ğ…ÂÆê.0ğ…ÂÆê.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1439(è’«„ÿ-0è’«„ÿ-:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS888(è’«„ÿ-0è’«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4830(Ğ¼æªÕ.0Ğ¼æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5247(°«Áİ.0°«Áİ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5122(àÓ ùÚ-0àÓ ùÚ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2092(Ğ¼æªÕ.0Ğ¼æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1117(àÓ ùÚ-0àÓ ùÚ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5863(à¿“ÚÎ/0à¿“ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3415(À”ÚÎ/0À”ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2699(ø´”ÚÎ/0ø´”ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6079(èã”ÚÎ/0èã”ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6080(¸ó”ÚÎ/0¸ó”ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2970(ğŠ•ÚÎ/0ğŠ•ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6092(Àš•ÚÎ/0Àš•ÚÎ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1186( ²¨ú.0 ²¨ú.:AXzmQU-ch6dI4sPCG5P7X
+
+typescriptS107"
+maximumFunctionParameters7(ÈÇ²¨ú.0ÈÇ²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5852(òÓš¾/0òÓš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5869(˜ŸÒš¾/0˜ŸÒš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6019(Ğ³Óš¾/0Ğ³Óš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5842(ğÒÓš¾/0ğÒÓš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6351(°”Óš¾/0°”Óš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6353(øüÒš¾/0øüÒš¾/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6324(ˆÍËø²/0ˆÍËø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5856(Ğ²Ìø²/0Ğ²Ìø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5850(¸ºÌø²/0¸ºÌø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5860(˜Ëø²/0˜Ëø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS5868(ÀçÊø²/0ÀçÊø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6035(è­Ëø²/0è­Ëø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6326(ÀäËø²/0ÀäËø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6328(¸½Ëø²/0¸½Ëø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6323(ØÜËø²/0ØÜËø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6325(ôËø²/0ôËø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS6331(È‹Ìø²/0È‹Ìø²/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1264(à€›è¸,0à€›è¸,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2688(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4624(Ø˜²¨ú.0Ø˜²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2201(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2685(À ²¨ú.0À ²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4623(à€›è¸,0à€›è¸,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1110(€†ûè€,0€†ûè€,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3531(ø¶ŸğÍ.0ø¶ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1472(è’«„ÿ-0è’«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1119(ğ²¨ú.0ğ²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1116(¨ıÌ·,0¨ıÌ·,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4634(°²¨ú.0°²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2692(Ğš«„ÿ-0Ğš«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1128(Ğš«„ÿ-0Ğš«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3358(€â±¨ú.0€â±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4335(Ğ¹«±Œ,0Ğ¹«±Œ,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1862(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3923(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3696(øº±¨ú.0øº±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2137(Ğš«„ÿ-0Ğš«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2814(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2251(à¾ŸğÍ.0à¾ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1533(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4123(ˆŠ”,0ˆŠ”,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4124(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1656(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4138(¨«±¨ú.0¨«±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2870(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2871(˜±ë—Š-0˜±ë—Š-:AXzmQU-ch6dI4sPCG5P7Q
+
+typescriptS2999"
+considerJSDocfalse(ø…æªÕ.0ø…æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1994(ˆ‰²¨ú.0ˆ‰²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1871(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1516(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1764(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1529(Ğš«„ÿ-0Ğš«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2737(€¹ë—Š-0€¹ë—Š-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1219(¸¢«„ÿ-0¸¢«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3516(ğ¶İ¶Ş,0ğ¶İ¶Ş,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4043(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4165(¸Éì¬æ.0¸Éì¬æ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1226( êşµ“/0 êşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4822(€¹ë—Š-0€¹ë—Š-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3616(°”¸Ñ,0°”¸Ñ,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3735(€Ëşµ“/0€Ëşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1314(€²ì¬æ.0€²ì¬æ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3981(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4158(€¹ë—Š-0€¹ë—Š-:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS125(ˆŒ±¨ú.0ˆŒ±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2234(˜Ãşµ“/0˜Ãşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3001(ÀŸŸğÍ.0ÀŸŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1848(¸âşµ“/0¸âşµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3854(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P7J
+
+typescriptS3776"
+	threshold15(Ø˜²¨ú.0Ø˜²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3317(Ğš«„ÿ-0Ğš«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1940(ˆ¯İ¶Ş,0ˆ¯İ¶Ş,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4144(øº±¨ú.0øº±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4322(èé±¨ú.0èé±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4325(ˆŠ”,0ˆŠ”,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1125(Øÿµ“/0Øÿµ“/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1515(è’«„ÿ-0è’«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2392(ĞŒéÒ/0ĞŒéÒ/:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2310( ²¨ú.0 ²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3579(°æªÕ.0°æªÕ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4619(¸ù±¨ú.0¸ù±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2990(ÀŸŸğÍ.0ÀŸŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1788(Ø—ŸğÍ.0Ø—ŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3812(¨§ŸğÍ.0¨§ŸğÍ.:AXzmQU-ch6dI4sPCG5P7W
+
+typescriptS101"
+format^[A-Z][a-zA-Z0-9]*$(¨¨²¨ú.0¨¨²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4275(®èÊû+0®èÊû+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1301(¨ıÌ·,0¨ıÌ·,:AXzmQU-ch6dI4sPCG5P7H
+
+typescriptS1479"
+maximum30(€¹ë—Š-0€¹ë—Š-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3699(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3973(è’«„ÿ-0è’«„ÿ-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4143(€†ûè€,0€†ûè€,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4524(à€›è¸,0à€›è¸,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2757(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4621(à€›è¸,0à€›è¸,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS1751(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4323(Ğñ±¨ú.0Ğñ±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3972(®èÊû+0®èÊû+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS2123(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4782(¸«Ê”è-0¸«Ê”è-:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3984(¨¦èÊû+0¨¦èÊû+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3626(àÂ±¨ú.0àÂ±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4030(®èÊû+0®èÊû+:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3799(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS108(ÈîÇá+0ÈîÇá+:AXzmQU-ch6dI4sPCG5P78
+
+typescriptS878(¨ıÌ·,0¨ıÌ·,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4140(ğ¤Š”,0ğ¤Š”,:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS3863(ÈÊ±¨ú.0ÈÊ±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+typescriptS4156(°Ò±¨ú.0°Ò±¨ú.:AXzmQU-ch6dI4sPCG5P73
+textS6389( ùõÛè/0 ùõÛè/:AX6LfYe7EtnFPnYRcXyB4
+vbnetS1155( ¡ÈÏë/0 ¡ÈÏë/:AXzmQU-ch6dI4sPCG5P94
+vbnetS5753(¨¹©ò.0¨¹©ò.:AXzmQU-ch6dI4sPCG5P94
+vbnetS4275(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1135(˜÷–å-0˜÷–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS1134(˜÷–å-0˜÷–å-:AXzmQU-ch6dI4sPCG5P9j
+vbnetS2068"4
+credentialWords!password, passwd, pwd, passphrase(à›‰Æî,0˜¾ëÆ.:AXzmQU-ch6dI4sPCG5P93
+vbnetS112(ø¸çÊû+0ø¸çÊû+:AXzmQU-ch6dI4sPCG5P9T
+vbnetS5693"
+fileUploadSizeLimit8000000(€ş›¹ÿ.0€ş›¹ÿ.:AXzmQU-ch6dI4sPCG5P94
+vbnetS2077(˜šã÷õ,0 œ¹ÿ.:AXzmQU-ch6dI4sPCG5P94
+vbnetS4507(€¢ã÷õ,0À“šøø-:AXzmQU-ch6dI4sPCG5P94
+vbnetS5443(¸•œ¹ÿ.0¸•œ¹ÿ.:AXzmQU-ch6dI4sPCG5P94
+vbnetS5445(¸•œ¹ÿ.0ÈÛ†Î„/:AXzmQU-ch6dI4sPCG5P94
+vbnetS2612(¸•œ¹ÿ.0¸•œ¹ÿ.:AXzmQU-ch6dI4sPCG5P94
+vbnetS5042(°Ôèâù,0°Ôèâù,:AXzmQU-ch6dI4sPCG5P94
+vbnetS5659(Ø…éÆ.0Ø…éÆ.:AXzmQU-ch6dI4sPCG5P94
+vbnetS3884(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS5547(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS5542( şÑ˜ñ-0à»ÚÛ“/:AXzmQU-ch6dI4sPCG5P94
+vbnetS1313(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4423(·¼Æê.0¸ìÜÛ“/:AXzmQU-ch6dI4sPCG5P94
+vbnetS4830(ÀÒ˜ñ-0ÀÒ˜ñ-:AXzmQU-ch6dI4sPCG5P94
+vbnetS2257(ÈÎ¼Æê.0ÈÎ¼Æê.:AXzmQU-ch6dI4sPCG5P94
+vbnetS4036(» ©ò.0» ©ò.:AXzmQU-ch6dI4sPCG5P94
+vbnetS4790(€¢ã÷õ,0€¢ã÷õ,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4792(€¢ã÷õ,0€¢ã÷õ,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1656(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3011(˜šã÷õ,0¨Ô¨ò .:AXzmQU-ch6dI4sPCG5P94
+vbnetS1075(àÀçÊû+0àÀçÊû+:AXzmQU-ch6dI4sPCG5P94
+vbnetS1764(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2178(Èò–‡+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1172(€ÿ–å-0€ÿ–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS1862(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P93
+vbnetS927(øäƒŒù.0øäƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS1163(øäƒŒù.0øäƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS2345(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS6146(øäƒŒù.0øäƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS6145(øäƒŒù.0øäƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS3449(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3603(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1871(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS1110(°ï–å-0°ï–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS4583(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS2737(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3358(à›‰Æî,0à›‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3598(à›‰Æî,0à›‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2387(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS4201(è€ŸùÚ-0è€ŸùÚ-:AXzmQU-ch6dI4sPCG5P94
+vbnetS5944(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS2551(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1066(°ï–å-0°ï–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS3927(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3923(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3453(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2365(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4428(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4260(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4159(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3466(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4277(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3981(àÀçÊû+0àÀçÊû+:AXzmQU-ch6dI4sPCG5P94
+vbnetS3869(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2372(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS4136(ĞˆŸùÚ-0ĞˆŸùÚ-:AXzmQU-ch6dI4sPCG5P94
+vbnetS4210(à›‰Æî,0à›‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2692(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS3998(ğÃŒù.0ğÃŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS2437(İƒŒù.0İƒŒù.:AXzmQU-ch6dI4sPCG5P94
+vbnetS3904(àìƒŒù.0àìƒŒù.:AXzmQU-ch6dI4sPCG5P93
+vbnetS108(˜÷–å-0˜÷–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS4586(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1186(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P93
+vbnetS907(˜üã“¾.0˜üã“¾.:AXzmQU-ch6dI4sPCG5P9C
+vbnetS1479"
+maximum30(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS4143(à›‰Æî,0à›‰Æî,:AXzmQU-ch6dI4sPCG5P9]
+vbnetS3776"
+	threshold15"
+propertyThreshold3(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1048(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P9=
+vbnetS107"
+max7(˜÷–å-0˜÷–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS2234(€ÿ–å-0€ÿ–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS1125(˜÷–å-0˜÷–å-:AXzmQU-ch6dI4sPCG5P94
+vbnetS1751(ø¸çÊû+0ø¸çÊû+:AXzmQU-ch6dI4sPCG5P94
+vbnetS1940(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2757(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1481(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3926(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3889(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS2761(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3464(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P94
+vbnetS3903(È£‰Æî,0È£‰Æî,:AXzmQU-ch6dI4sPCG5P9b
+vbnetS101"-
+format#^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P9c
+vbnetS114".
+format$^I([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P9p
+vbnetS117";
+format1^[a-z][a-z0-9]*([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS1197(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P9c
+vbnetS1542"-
+format#^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1643(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P94
+vbnetS1645(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P9q
+vbnetS1654";
+format1^[a-z][a-z0-9]*([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P9‰
+vbnetS2304"S
+formatI^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?(\.([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?)*$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2340(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P9¡
+vbnetS2342"-
+format#^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$"<
+flagsAttributeFormat$^([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?s$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2344(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2346(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P9™
+vbnetS2347"c
+formatY^(([a-z][a-z0-9]*)?([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?_)?([A-Z]{1,3}[a-z0-9]+)*([A-Z]{2})?$(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2349(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2352(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2355(È¯†+0Èò–‡+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2358(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2359(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2368(È¯†+0˜œ¿¦,:AXzmQU-ch6dI4sPCG5P9N
+vbnetS2375"
+minimumSeriesLength6(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2376(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS2951(àÀçÊû+0àÀçÊû+:AXzmQU-ch6dI4sPCG5P94
+vbnetS3385(È¯†+0È¯†+:AXzmQU-ch6dI4sPCG5P94
+vbnetS4144(àÀçÊû+0àÀçÊû+:AXzmQU-ch6dI4sPCG5P9B
+common-cDuplicatedBlocks(àòÁ‡Ë)0àòÁ‡Ë):AXzmQU-ch6dI4sPCG5P6D
+
+common-phpDuplicatedBlocks(˜¦°Â„+0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P4=
+cloudformationS6327(€¼Ëš¾/0€¼Ëš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS4423(øìÜ‘Ó/0øìÜ‘Ó/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6304(øĞÅ³Â/0øĞÅ³Â/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6249(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6329(øĞÅ³Â/0øĞÅ³Â/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6245(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS5332(øìÜ‘Ó/0øìÜ‘Ó/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6303(€¼Ëš¾/0€¼Ëš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6302(øĞÅ³Â/0øĞÅ³Â/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6308(èÃËš¾/0èÃËš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6321( šÅ³Â/0 šÅ³Â/:AXzmQU-ch6dI4sPCG5P1]
+cloudformationS6364"
+backup_retention_duration7(èÜ‘Ó/0èÜ‘Ó/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6265(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6281(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6317(øĞÅ³Â/0øĞÅ³Â/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6333(øĞÅ³Â/0øĞÅ³Â/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6258(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6319(èÃËš¾/0èÃËš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6330(€¼Ëš¾/0€¼Ëš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6275(€¼Ëš¾/0€¼Ëš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6252(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6332(È¤Ëš¾/0È¤Ëš¾/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6270(×®/0×®/:AXzmQU-ch6dI4sPCG5P1m
+cloudformationS6273".
+format$^([A-Z][A-Za-z]*:)*([A-Z][A-Za-z]*)$(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6294(×®/0×®/:AXzmQU-ch6dI4sPCG5P1=
+cloudformationS6295(×®/0×®/:AXzmQU-ch6dI4sPCG5P1:
+phpsecurityS5144(Ğ–¬Ä›-0Ğ–¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5135(€˜Áéº-0€˜Áéº-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS2078( ¦¬Ä›-0 ¦¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5146(è¬Ä›-0è¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5145(Ğ–¬Ä›-0Ğ–¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5335( ·Áéº-0 ·Áéº-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS3649(¸¬Ä›-0¸¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5131(Ğ–¬Ä›-0Ğ–¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS2083(ˆ®¬Ä›-0ˆ®¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS6287( ÌˆˆÌ/0 ÌˆˆÌ/:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS2091(ˆ®¬Ä›-0ˆ®¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS2631(¸¬Ä›-0ØÎüÜ™.:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5883(ØØş¹Ô/0ØØş¹Ô/:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS2076( ¦¬Ä›-0 ¦¬Ä›-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS5334( ·Áéº-0 ·Áéº-:AXzmQU-ch6dI4sPCG5P4:
+phpsecurityS6350(à‚ş¹Ô/0à‚ş¹Ô/:AXzmQU-ch6dI4sPCG5P44
+swiftS1135(È‡²ç)0È‡²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1134(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Prg
+swiftS2068"1
+credentialWordspassword,passwd,pwd,passphrase(È‡²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1659(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr3
+swiftS122(Àü€ÁÂ)0¨üîÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1700(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS2635(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS2201(¨ë÷ç+0¨ë÷ç+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1871(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS2961(˜—²ç)0˜—²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1110(°²ç)0°²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1075(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1117(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS4186(ó÷ç+0ó÷ç+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1764(˜—²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1763(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS3661(ó÷ç+0ó÷ç+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2737(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS3358(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1854(¨„ÁÂ)0¨„ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1172( ’¸ƒì*0 ’¸ƒì*:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2951(°²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1862(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS5547(ĞŠ÷„İ.0ĞŠ÷„İ.:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1066(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1065(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1186(˜—²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS3923(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS3083(˜—²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1313(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS3981(ó÷ç+0ó÷ç+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS4790(€ûö„İ.0€ûö„İ.:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2094(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5PrR
+swiftS114"
+format^[A-Z][a-zA-Z0-9]*$(°²ç)0°²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1301(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5PrR
+swiftS116"
+format^[a-z][a-zA-Z0-9]*$(°²ç)0°²ç):AXzmQU-ch6dI4sPCG5PrD
+swiftS1192"
+	threshold3(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS4143(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr>
+swiftS3087"
+max2(˜—²ç)0˜—²ç):AXzmQU-ch6dI4sPCG5PrR
+swiftS115"
+format^[a-z][a-zA-Z0-9]*$(¨üîÇá+0¨üîÇá+:AXzmQU-ch6dI4sPCG5PrR
+swiftS100"
+format^[a-z][a-zA-Z0-9]*$(¨üîÇá+0¨üîÇá+:AXzmQU-ch6dI4sPCG5PrE
+swiftS3776"
+	threshold15(ó÷ç+0ó÷ç+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1751(°²ç)0°²ç):AXzmQU-ch6dI4sPCG5Pr3
+swiftS125(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS3626(Ø‚Ë„â-0Ø‚Ë„â-:AXzmQU-ch6dI4sPCG5PrR
+swiftS101"
+format^[A-Z][a-zA-Z0-9]*$(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5PrZ
+swiftS107"
+initializerMax7"
+functionMax7(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr3
+swiftS108(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1125(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1133(Àü€ÁÂ)0Àü€ÁÂ):AXzmQU-ch6dI4sPCG5Pr4
+swiftS1144(˜Ç–’ì*0˜Ç–’ì*:AXzmQU-ch6dI4sPCG5PrR
+swiftS117"
+format^[a-z][a-zA-Z0-9]*$(¨üîÇá+0¨üîÇá+:AXzmQU-ch6dI4sPCG5PrR
+swiftS119"
+format^[A-Z][a-zA-Z0-9]*$(Àü€ÁÂ)0ĞÛÊ„â-:AXzmQU-ch6dI4sPCG5Pr?
+swiftS1479"	
+Max30(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1481(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1845(Àü€ÁÂ)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS1940(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2108( ’¸ƒì*0 ’¸ƒì*:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2760(°²ç)0„ïÇá+:AXzmQU-ch6dI4sPCG5Pr4
+swiftS2960(˜—²ç)0˜—²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS3110(˜—²ç)0˜—²ç):AXzmQU-ch6dI4sPCG5Pr4
+swiftS4144(€¶èÄ¶,0€¶èÄ¶,:AXzmQU-ch6dI4sPCG5Pr2
+cppS1768(˜ÀÍØ*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2665( ±Â‡Ë)0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5:
+cppCommentedCode(èšáÜï(0 ²áÜï(:AXzmQU-ch6dI4sPCG5P52
+cppS6069(ğõ½İ.0ğõ½İ.:AXzmQU-ch6dI4sPCG5P5=
+cppPPBadIncludeForm(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS3805(Ğ˜­œ—+0Ğ˜­œ—+:AXzmQU-ch6dI4sPCG5P52
+cppS1016(•¾İ.0•¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5950(»›ğÍ.0»›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS1238(¨…Ç’-0¨…Ç’-:AXzmQU-ch6dI4sPCG5P51
+cppS935(ˆ­ûÕ§/0ˆ­ûÕ§/:AXzmQU-ch6dI4sPCG5P52
+cppS1763(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS6391(ğ€ âİ/0ğ€ âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS6367(Ø…¡âİ/0Ø…¡âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS6004(ĞÊé¬æ.0èø¬¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS6366( î âİ/0 î âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS6369(¸æ âİ/0¸æ âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS6365(ˆö âİ/0ˆö âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS6372(À¡âİ/0À¡âİ/:AXzmQU-ch6dI4sPCG5P52
+cppS3807(Ğ˜­œ—+0Ğ˜­œ—+:AXzmQU-ch6dI4sPCG5P5f
+cppS6194"2
+,maximumCoroutineCognitiveComplexityThreshold25(¸éŸâİ/0¸éŸâİ/:AXzmQU-ch6dI4sPCG5P5Q
+cppS6193"
+format^[a-z][a-zA-Z0-9]*$(Ğêœâİ/0Ğêœâİ/:AXzmQU-ch6dI4sPCG5P52
+cppS5332(°´¾İ.0°´¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS2068(ğéé¬æ.0ğéé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6225(ø¢›¿É/0ø¢›¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS2589(Ğ¢¯Á½+0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P52
+cppS1135(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1134(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1133(˜ÀÍØ*0˜ÀÍØ*:AXzmQU-ch6dI4sPCG5P52
+cppS3432(²Šã¨*0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1011(¨õŒ˜*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2583(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS5978(Ø£›ğÍ.0Ø£›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS2107(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS1017(Èí±ƒì*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P5q
+cppSingleGotoOrBreakPerIteration"%
+ maxNumberOfTerminationStatements1(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5502(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5501(¸•¶û÷-0¸•¶û÷-:AXzmQU-ch6dI4sPCG5P52
+cppS3689(Èí±ƒì*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2479(ğîĞ—™,0ø‹²«ü,:AXzmQU-ch6dI4sPCG5P52
+cppS2234(°şß·î+0°şß·î+:AXzmQU-ch6dI4sPCG5P52
+cppS3687(•¾İ.0•¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5982(À«›ğÍ.0À«›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS1265(¨õŒ˜*0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1144(€ôÉÏÌ*0€ôÉÏÌ*:AXzmQU-ch6dI4sPCG5P52
+cppS3685(È­’İ‡.0È­’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS1264(ˆ×©öş(0ˆ×©öş(:AXzmQU-ch6dI4sPCG5P52
+cppS5500(¸•¶û÷-0¸•¶û÷-:AXzmQU-ch6dI4sPCG5P52
+cppS1141(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5506(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5507(¸•¶û÷-0¸•¶û÷-:AXzmQU-ch6dI4sPCG5P5F
+cppNarrowAndWideStringConcat(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P51
+cppS872(˜ÀÍØ*0øİ±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS995(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P51
+cppS876( ±Â‡Ë)0 ±Â‡Ë):AXzmQU-ch6dI4sPCG5P51
+cppS878(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5832(¨³›ğÍ.0¨³›ğÍ.:AXzmQU-ch6dI4sPCG5P5e
+cppS3776"1
++maximumFunctionCognitiveComplexityThreshold25(èÕó¾«+0èÕó¾«+:AXzmQU-ch6dI4sPCG5P52
+cppS1236(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5952(øœ¾İ.0øœ¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3656(ÈÏù¼à*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1235(ˆÑèÂÈ+0ˆÑèÂÈ+:AXzmQU-ch6dI4sPCG5P52
+cppS5955(¨³›ğÍ.0¨³›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS5954(À«›ğÍ.0À«›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS3654(øœ¾İ.0øœ¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS2323(°©ç¶)0ø‹²«ü,:AXzmQU-ch6dI4sPCG5P52
+cppS1232(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS1231(¸˜Ù±ñ(0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1110(À”Ìäµ+0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P52
+cppS5951(À«›ğÍ.0À«›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS2681(˜€½ˆæ+0˜€½ˆæ+:AXzmQU-ch6dI4sPCG5P52
+cppS2209(€ÈÍØ*0€ÈÍØ*:AXzmQU-ch6dI4sPCG5P52
+cppS3659(ÈÏù¼à*0Ğ–Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS3539(¸Ûæì³*0¸Ûæì³*:AXzmQU-ch6dI4sPCG5P52
+cppS3657(°×ù¼à*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1117(¨½½³­*0¨½½³­*:AXzmQU-ch6dI4sPCG5P5A
+cppS1479"
+maximum30(°©ç¶)0°©ç¶):AXzmQU-ch6dI4sPCG5P52
+cppS1116(¸˜Ù±ñ(0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P51
+cppS969(°©ç¶)0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P51
+cppS961(°©ç¶)0°©ç¶):AXzmQU-ch6dI4sPCG5P52
+cppS5964(øÂ›ğÍ.0øÂ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS4998(Ç’-0Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS3543(€ú§¶*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1003(¨õŒ˜*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5965(øÂ›ğÍ.0øÂ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS4997(Ç’-0Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS1123(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3541(€ú§¶*0€ú§¶*:AXzmQU-ch6dI4sPCG5P52
+cppS1242(ğåŸÔÈ*0ğåŸÔÈ*:AXzmQU-ch6dI4sPCG5P51
+cppS860(¸Æ˜¾§-0¸Æ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5962(»›ğÍ.0»›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS5847(øÂ›ğÍ.0øÂ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS4999(Ç’-0Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS5849(»›ğÍ.0»›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS2216(°Œ¨ÈÏ)0°Œ¨ÈÏ):AXzmQU-ch6dI4sPCG5P52
+cppS3548(€ú§¶*0€ú§¶*:AXzmQU-ch6dI4sPCG5P52
+cppS1006(¨İëï¸-0¨İëï¸-:AXzmQU-ch6dI4sPCG5P51
+cppS859(°õ±ƒì*0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P5B
+cppInvalidEscapeSequence(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1481(˜ì½³­*0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS977(°©ç¶)0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5414(°Úûêñ-0°Úûêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS3358(Ğ˜­œ—+0Ğ˜­œ—+:AXzmQU-ch6dI4sPCG5P52
+cppS5658(€şµû÷-0€şµû÷-:AXzmQU-ch6dI4sPCG5P52
+cppS5416(ğõ½İ.0ğõ½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5415(ˆî½İ.0ˆî½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS2387(È§¶ã©*0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3231(˜ÀÍØ*0˜ÀÍØ*:AXzmQU-ch6dI4sPCG5P52
+cppS5417(Ğùûêñ-0Ğùûêñ-:AXzmQU-ch6dI4sPCG5P5C
+cppGotoLabelInNestedBlock(¸˜Ù±ñ(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS946(ø’İ‡.0ø’İ‡.:AXzmQU-ch6dI4sPCG5P5A
+cppPPNonStandardInclude(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS3471(ğõ½İ.0ğõ½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3230(˜ÀÍØ*0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P52
+cppS1172(¨Ä€¥ù*0¨Ä€¥ù*:AXzmQU-ch6dI4sPCG5P5F
+cppAssignmentInSubExpression(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS3590(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3470(¨ªŠã¨*0¨ªŠã¨*:AXzmQU-ch6dI4sPCG5P51
+cppS824(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5425(Ğ¶û÷-0Ğ¶û÷-:AXzmQU-ch6dI4sPCG5P52
+cppS5547(Øı½İ.0Øı½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS1068(˜ßù¼à*0˜ßù¼à*:AXzmQU-ch6dI4sPCG5P52
+cppS5542(À…¾İ.0°ùü–’/:AXzmQU-ch6dI4sPCG5P52
+cppS5421(˜Ş«è©.0˜Ş«è©.:AXzmQU-ch6dI4sPCG5P5=
+cppS1188"	
+max20(Øı½İ.0Øı½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS2156(Øı½İ.0Øı½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS1066(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5302(˜Ş«è©.0˜Ş«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS1186(˜´“®˜)0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1065(°€•†°)0°€•†°):AXzmQU-ch6dI4sPCG5P52
+cppS2275( Î˜¾§-0 Î˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS1185(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS5308( Î˜¾§-0 Î˜¾§-:AXzmQU-ch6dI4sPCG5P51
+cppS836(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P5:
+cppLiteralSuffix(èšáÜï(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5782(ĞìÒ†œ.0ĞìÒ†œ.:AXzmQU-ch6dI4sPCG5P52
+cppS1181(àå±ƒì*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS833(à¥’İ‡.0à¥’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS5997(à›é¬æ.0à›é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS3457(ˆÖ˜¾§-0ˆÖ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS4423(À…¾İ.0˜ı–’/:AXzmQU-ch6dI4sPCG5P52
+cppS3458(€ôÉÏÌ*0€ôÉÏÌ*:AXzmQU-ch6dI4sPCG5P52
+cppS5999(à›é¬æ.0à›é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS4426(À…¾İ.0˜ı–’/:AXzmQU-ch6dI4sPCG5P52
+cppS3576(°×ù¼à*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2245(à›é¬æ.0à›é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS1036(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1035(°Œ¨ÈÏ)0°Œ¨ÈÏ):AXzmQU-ch6dI4sPCG5P52
+cppS3574(È¯ îº*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1155(ğ››ğÍ.0ğ››ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS2486(àå±ƒì*0¸îÔ†œ.:AXzmQU-ch6dI4sPCG5P52
+cppS2123(¸¥à·î+0¸¥à·î+:AXzmQU-ch6dI4sPCG5P52
+cppS5995(¨º¬¨ú.0¨º¬¨ú.:AXzmQU-ch6dI4sPCG5P59
+cppDigraphUsage(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3691(°õ±ƒì*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3692(°õ±ƒì*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5=
+cppFunctionEllipsis(¸˜Ù±ñ(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5524(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS3468(è„ÊŠ¹*0è„ÊŠ¹*:AXzmQU-ch6dI4sPCG5P52
+cppS2259(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS5404(¨¾İ.0¨¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3588(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P5O
+cppS3222"
+format^[A-Z][A-Z0-9_]*$(à¥’İ‡.0à¥’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS1045(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS1044(àå±ƒì*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3584(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS1042(°Ïê·Ö-0°Ïê·Ö-:AXzmQU-ch6dI4sPCG5P5?
+cppUnaryAndOverloaded(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5527(¨¾İ.0¨¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5409(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5408(°Ïê·Ö-0°Ïê·Ö-:AXzmQU-ch6dI4sPCG5P52
+cppS3229(ÀíŒ˜*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS936(ˆ¹Â‡Ë)0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P51
+cppS814(¨…¼  +0¨…¼  +:AXzmQU-ch6dI4sPCG5P52
+cppS4790(°ıÄ°ï.0°ıÄ°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS1656(°õ±ƒì*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS905(€ÈÍØ*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5E
+cppUnnamedNamespaceInHeader(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS2753( ±Â‡Ë)0È›²«ü,:AXzmQU-ch6dI4sPCG5P52
+cppS2754( ±Â‡Ë)0 ±Â‡Ë):AXzmQU-ch6dI4sPCG5P52
+cppS1301(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS3729(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3608(‰Í“Æ*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P59
+cppPPUndefUsage(¸˜Ù±ñ(0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3609(˜¼¾İ.0˜¼¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3728(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS2757( ãæì³*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1669(àœÇ’-0àœÇ’-:AXzmQU-ch6dI4sPCG5P52
+cppS3726(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS2637(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS2755(Ø†ä§°.0Ø†ä§°.:AXzmQU-ch6dI4sPCG5P5A
+cppSwitchLabelPlacement(èšáÜï(0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5F
+cppEnumPartialInitialization(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1874(€ÈÍØ*0€ÈÍØ*:AXzmQU-ch6dI4sPCG5P52
+cppS1751(øáÑ÷º+0øáÑ÷º+:AXzmQU-ch6dI4sPCG5P52
+cppS1871(€ù‡Ä™)0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P52
+cppS1990( æ½İ.0 æ½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3936(À”Ìäµ+0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P5J
+cppSingleDeclarationPerStatement(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS3935(À”Ìäµ+0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P52
+cppS1764(¸˜Ù±ñ(0øİ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1762(¨”İ‡.0¨”İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS1761(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS1760(ˆ×©öş(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3949(˜§˜¾§-0˜§˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS3708(À¼€¥ù*0À¼€¥ù*:AXzmQU-ch6dI4sPCG5P52
+cppS2737(àå±ƒì*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2738(°‡õ§Í)0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1767( ±Â‡Ë)0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2612(ĞüšğÍ.0ĞüšğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS4963(Ç’-0Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS4962(à¤¾İ.0à¤¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5812(Ğõ«è©.0Ğõ«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS3630(˜‘ô†/0˜‘ô†/:AXzmQU-ch6dI4sPCG5P52
+cppS5817(èí«è©.0èí«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS3518(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3519(Ğİó¾«+0Ğİó¾«+:AXzmQU-ch6dI4sPCG5P52
+cppS1219(€ù‡Ä™)0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P52
+cppS5814(Ğõ«è©.0Ğõ«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS3516(ÀÌà·î+0ÀÌà·î+:AXzmQU-ch6dI4sPCG5P52
+cppS5813(à¤¾İ.0à¤¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5816(èí«è©.0èí«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS5815(Ğõ«è©.0Ğõ«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS3636(ÈÏù¼à*0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2668(ˆ¹Â‡Ë)0ˆ¹Â‡Ë):AXzmQU-ch6dI4sPCG5P52
+cppS1699(°· îº*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5H
+cppExceptionSpecificationUsage(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5820(Ğõ«è©.0Ğõ«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS1103(¸˜Ù±ñ(0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P52
+cppS3642(È¬¾İ.0È¬¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3522(°ä½³­*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3520(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3529(ğîĞ—™,0ğîĞ—™,:AXzmQU-ch6dI4sPCG5P52
+cppS5825(¸ı«è©.0¸ı«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS5945(àÊ›ğÍ.0àÊ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS5824(¸ı«è©.0è ô†/:AXzmQU-ch6dI4sPCG5P52
+cppS5827(àÊ›ğÍ.0àÊ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS3646(°×ù¼à*0°×ù¼à*:AXzmQU-ch6dI4sPCG5P52
+cppS3732(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS1313( ¦Ç°ï.0 ¦Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS3972(€ˆ½ˆæ+0€ˆ½ˆæ+:AXzmQU-ch6dI4sPCG5P52
+cppS3730(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS3973(ĞÌ™ÆØ+0ĞÌ™ÆØ+:AXzmQU-ch6dI4sPCG5P52
+cppS3731(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS2761( ±Â‡Ë)0 ±Â‡Ë):AXzmQU-ch6dI4sPCG5P52
+cppS5912(ÈÒ›ğÍ.0ÈÒ›ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS1679(ÈÏù¼à*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3743(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS4830(°´¾İ.0°´¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS3744(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P52
+cppS5801(¸ı«è©.0¸ı«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS3626(Ğ˜­œ—+0Ğ˜­œ—+:AXzmQU-ch6dI4sPCG5P52
+cppS5802(ÈÒ›ğÍ.0ÈÒ›ğÍ.:AXzmQU-ch6dI4sPCG5P5P
+cppS1448"
+maximumMethodThreshold35(ÀíŒ˜*0ÀíŒ˜*:AXzmQU-ch6dI4sPCG5P52
+cppS3624(àœÇ’-0àœÇ’-:AXzmQU-ch6dI4sPCG5P52
+cppS6029(€‡Ç°ï.0€‡Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS6147(˜é¬¨ú.0˜é¬¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS6026(èÇ°ï.0èÇ°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS6025(°á¬¨ú.0°á¬¨ú.:AXzmQU-ch6dI4sPCG5P5:
+cppTrigraphUsage(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS6022(°«é¬æ.0°«é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6021(°á¬¨ú.0°á¬¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS6024(˜é¬¨ú.0˜é¬¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS6023(°«é¬æ.0°«é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5297(ˆÖ˜¾§-0ˆÖ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6020(€‡Ç°ï.0€‡Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS5293(ğİ˜¾§-0ğİ˜¾§-:AXzmQU-ch6dI4sPCG5P5W
+cppNamespaceName"
+format^[a-z][a-z_0-9]*$(¸˜Ù±ñ(0È­’İ‡.:AXzmQU-ch6dI4sPCG5P5O
+cppS1820"
+maximumFieldThreshold20(ÀíŒ˜*0ÀíŒ˜*:AXzmQU-ch6dI4sPCG5P52
+cppS5180(¨…Ç’-0¨…Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS6033(˜³é¬æ.0˜³é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6032(˜³é¬æ.0˜³é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6031(˜³é¬æ.0˜³é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5184(¨…Ç’-0¨…Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS6030(€»é¬æ.0€»é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6008(€ñ¬¨ú.0€ñ¬¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS6009(èÂé¬æ.0èÂé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5278(Øå˜¾§-0Øå˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6003(èÂé¬æ.0èÂé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5277(Øå˜¾§-0Øå˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6006(€»é¬æ.0€»é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6005(ĞÊé¬æ.0ĞÊé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5279(Øå˜¾§-0Øå˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS1905(Ğõ«è©.0Ğõ«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS6000(Ğ–Ç°ï.0Ğ–Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS5274(Øå˜¾§-0Øå˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5273(ğİ˜¾§-0ğİ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5276(èí«è©.0èí«è©.:AXzmQU-ch6dI4sPCG5P52
+cppS5275(ğİ˜¾§-0ğİ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5272(ğİ˜¾§-0ğİ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5271(Àí˜¾§-0Àí˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6018(ĞÊé¬æ.0ĞÊé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6015( Úé¬æ.0 Úé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6017(°‰ô†/0°‰ô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6016( Úé¬æ.0 Úé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6011(¸Òé¬æ.0¸Òé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6010(¸Ç°ï.0¸Ç°ï.:AXzmQU-ch6dI4sPCG5P52
+cppS5042(¸Òé¬æ.0¸Òé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6013(¸Òé¬æ.0¸Òé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6012(Ğ€­¨ú.0Ğ€­¨ú.:AXzmQU-ch6dI4sPCG5P52
+cppS5281(¨õ˜¾§-0¨õ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5280(Àí˜¾§-0Àí˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5283(Àí˜¾§-0Àí˜¾§-:AXzmQU-ch6dI4sPCG5P5H
+cppPPBackslashNotLastCharacter(¸˜Ù±ñ(0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1854(Ğ’ÇÏ°*0Ğ’ÇÏ°*:AXzmQU-ch6dI4sPCG5P52
+cppS6181(à­¦/0à­¦/:AXzmQU-ch6dI4sPCG5P52
+cppS6180(ˆÃœô†/0ˆÃœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6187(¨Òü–’/0¨Òü–’/:AXzmQU-ch6dI4sPCG5P52
+cppS6186( «ü–’/0 «ü–’/:AXzmQU-ch6dI4sPCG5P52
+cppS6189(è£œô†/0è£œô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6188(ğ„¦/0ğ„¦/:AXzmQU-ch6dI4sPCG5P5?
+cppGlobalMainFunction(¸˜Ù±ñ(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS1862(ˆ×©öş(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3806(Ğ—½ˆæ+0Ğ—½ˆæ+:AXzmQU-ch6dI4sPCG5P5ô
+cppNonReentrantFunction"°
+nonReentrantFunctionList“asctime,crypt,ctermid,ctime,fgetgrent,fgetpwent,fgetspent,getgrent,getgrgid,getgrnam,gethostbyaddr,gethostbyname,gethostbyname2,gethostent,getlogin,getnetbyaddr,getnetbyname,getnetent,getnetgrent,getprotobyname,getprotobynumber,getprotoent,getpwent,getpwnam,getpwuid,getrpcbyname,getrpcbynumber,getrpcent,getservbyname,getservbyport,getservent,getspent,getspnam,gmtime,localtime,sgetspent,strtok,ttyname(¸˜Ù±ñ(0Øôè¬æ.:AXzmQU-ch6dI4sPCG5P5E
+cppEmptyThrowOutsideHandler(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3923(À”Ìäµ+0À”Ìäµ+:AXzmQU-ch6dI4sPCG5P52
+cppS6190(Èµ¦/0Èµ¦/:AXzmQU-ch6dI4sPCG5P52
+cppS6191(¨Òü–’/0¨Òü–’/:AXzmQU-ch6dI4sPCG5P52
+cppS6197(ğÊœô†/0ğÊœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6195(¸í—¿É/0¸í—¿É/:AXzmQU-ch6dI4sPCG5P5C
+cppEmptyCompoundStatement(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS6169(¨âœô†/0¨âœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6168(ÀÚœô†/0ÀÚœô†/:AXzmQU-ch6dI4sPCG5P5;
+cppS134"
+max3(°µ’İ‡.0°µ’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS1709(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS6165(ÀÚœô†/0ÀÚœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6164(ØÒœô†/0ØÒœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6045(È£é¬æ.0È£é¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS6179(êœô†/0êœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS2815(€ÈÍØ*0˜ı±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS2813(ÀíŒ˜*0ÀíŒ˜*:AXzmQU-ch6dI4sPCG5P52
+cppS2808(°‡õ§Í)0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS6178(êœô†/0êœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6172(àùœô†/0àùœô†/:AXzmQU-ch6dI4sPCG5P52
+cppS6171(øñœô†/0øñœô†/:AXzmQU-ch6dI4sPCG5P5;
+cppS110"
+max5(èÿ¢œ¥*0èÿ¢œ¥*:AXzmQU-ch6dI4sPCG5P5C
+cppEllipsisHandlerNotLast(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P51
+cppS112(°õ±ƒì*0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5213(àœÇ’-0àœÇ’-:AXzmQU-ch6dI4sPCG5P5A
+cppCommaAndOrOverloaded(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5570(ˆ¥¶û÷-0ˆ¥¶û÷-:AXzmQU-ch6dI4sPCG5P5;
+cppS107"
+max7(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P51
+cppS106(˜ÀÍØ*0˜ÀÍØ*:AXzmQU-ch6dI4sPCG5P5O
+cpp"SideEffectInRightHandSideOfLogical(¸˜Ù±ñ(0ˆÑèÂÈ+:AXzmQU-ch6dI4sPCG5P52
+cppS2193(Àı»  +0Àı»  +:AXzmQU-ch6dI4sPCG5P52
+cppS2190(ø„™¾§-0ø„™¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5798(è×ã§°.0è×ã§°.:AXzmQU-ch6dI4sPCG5P52
+cppS5314(ğšªè©.0ğšªè©.:AXzmQU-ch6dI4sPCG5P52
+cppS1079(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS5553( ïã§°.0 ïã§°.:AXzmQU-ch6dI4sPCG5P52
+cppS1199(¸˜Ù±ñ(0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P5B
+cppExceptionInDestructor(¸˜Ù±ñ(0àå±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3252(²Šã¨*0Èí±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS3491(ğœ÷».0ğœ÷».:AXzmQU-ch6dI4sPCG5P52
+cppS3490(èÎ½İ.0èÎ½İ.:AXzmQU-ch6dI4sPCG5P52
+cppS5205(ğíÇ’-0ğíÇ’-:AXzmQU-ch6dI4sPCG5P52
+cppS5443(Œé¬æ.0Œé¬æ.:AXzmQU-ch6dI4sPCG5P52
+cppS5566(ø’İ‡.0ø’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS3261(ˆŞŸÔÈ*0ˆŞŸÔÈ*:AXzmQU-ch6dI4sPCG5P52
+cppS1081(¸˜Ù±ñ(0øİ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS6228(ĞŒº˜µ/0ĞŒº˜µ/:AXzmQU-ch6dI4sPCG5P52
+cppS5018(°µ’İ‡.0°µ’İ‡.:AXzmQU-ch6dI4sPCG5P52
+cppS5259(¨õ˜¾§-0¨õ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6229(››¿É/0››¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS5019(ø”Ç’-0ø”Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS6223(°ä¼˜µ/0°ä¼˜µ/:AXzmQU-ch6dI4sPCG5P52
+cppS6226(¨“›¿É/0¨“›¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS5494( ¶û÷-0 ¶û÷-:AXzmQU-ch6dI4sPCG5P52
+cppS6222(˜ì¼˜µ/0˜ì¼˜µ/:AXzmQU-ch6dI4sPCG5P5B
+cppObsoletePosixFunction(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P5Q
+cppS6221"
+format^[A-Z][a-zA-Z0-9]*$(ø©•¿/0ø©•¿/:AXzmQU-ch6dI4sPCG5P52
+cppS5495( ‰üêñ-0 ‰üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5491( ¶û÷-0 ¶û÷-:AXzmQU-ch6dI4sPCG5P52
+cppS5028(ø”Ç’-0ø”Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS5267(ı˜¾§-0ı˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5025(È¬¾İ.0È¬¾İ.:AXzmQU-ch6dI4sPCG5P52
+cppS6234(°¬•¿/0°¬•¿/:AXzmQU-ch6dI4sPCG5P52
+cppS5266(ı˜¾§-0ı˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5269(¨õ˜¾§-0¨õ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6236(È²›¿É/0È²›¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS6352(È–¬•¿/0È–¬•¿/:AXzmQU-ch6dI4sPCG5P52
+cppS6231(à¬•¿/0à¬•¿/:AXzmQU-ch6dI4sPCG5P52
+cppS5263(ı˜¾§-0ı˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6230(àª›¿É/0àª›¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS5262(¨õ˜¾§-0¨õ˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5020(ø”Ç’-0ø”Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS5265(ı˜¾§-0ı˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS6232(ø†¬•¿/0ø†¬•¿/:AXzmQU-ch6dI4sPCG5P52
+cppS5261(ı˜¾§-0ı˜¾§-:AXzmQU-ch6dI4sPCG5P52
+cppS5381( öÔ†œ.0 öÔ†œ.:AXzmQU-ch6dI4sPCG5P5K
+cppPPIncludeNonStandardCharacters(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P52
+cppS4144(àîß·î+0àîß·î+:AXzmQU-ch6dI4sPCG5P5A
+cppSwitchWithoutDefault(èšáÜï(0°õ±ƒì*:AXzmQU-ch6dI4sPCG5P5>
+cppPPIncludeNotAtTop(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P5E
+cppNonEmptyCaseWithoutBreak(èšáÜï(0Ğ¢¯Á½+:AXzmQU-ch6dI4sPCG5P52
+cppS5350( ‰üêñ-0 ‰üêñ-:AXzmQU-ch6dI4sPCG5P51
+cppS886(à¥’İ‡.0ğ››ğÍ.:AXzmQU-ch6dI4sPCG5P52
+cppS6200(˜Â›¿É/0˜Â›¿É/:AXzmQU-ch6dI4sPCG5P52
+cppS4143(ˆµà·î+0ˆµà·î+:AXzmQU-ch6dI4sPCG5P52
+cppS4263(ÀÌà·î+0ÀÌà·î+:AXzmQU-ch6dI4sPCG5P5=
+cppBackJumpWithGoto(¸˜Ù±ñ(0øİ±ƒì*:AXzmQU-ch6dI4sPCG5P52
+cppS5008(ø”Ç’-0ø”Ç’-:AXzmQU-ch6dI4sPCG5P52
+cppS5487(ˆ‘üêñ-0ˆ‘üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5486(ˆ‘üêñ-0ˆ‘üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5489( ‰üêñ-0 ‰üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS6214(¨“‘¦/0¨“‘¦/:AXzmQU-ch6dI4sPCG5P52
+cppS5488(ˆ‘üêñ-0ˆ‘üêñ-:AXzmQU-ch6dI4sPCG5P51
+cppS897(˜ßù¼à*0˜ßù¼à*:AXzmQU-ch6dI4sPCG5P52
+cppS5485(ˆ‘üêñ-0ˆ‘üêñ-:AXzmQU-ch6dI4sPCG5P52
+cppS5000(àœÇ’-0àœÇ’-:AXzmQU-ch6dI4sPCG5P52
+cppS2095(¨øî–‡+0¨øî–‡+:AXzmQU-ch6dI4sPCG5P55
+pythonS2755(È¾á§°.0È¾á§°.:AXzmQU-ch6dI4sPCG5PuJ
+pythonS5843"
+maxComplexity20(ğ¯ŸĞ/0ğ¯ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2737(Ğ¼“ìç-0Ğ¼“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1134(ğºÄ‡Ë)0ğºÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5850(àá€ŸĞ/0àá€ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5855(˜ù€ŸĞ/0˜ù€ŸĞ/:AXzmQU-ch6dI4sPCG5Puh
+pythonS2068"1
+credentialWordspassword,passwd,pwd,passphrase(À¶ï•….0À¶ï•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5332(è¨ÈîÓ-0¸“ùÚ-:AXzmQU-ch6dI4sPCG5Pu4
+pythonS112(øşæÃŒ.0øşæÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5857(èˆŸĞ/0èˆŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1656(ÀŞ”‚Â+0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Puk
+pythonS905"
+reportOnStringsfalse"
+ignoredOperators<<,>>,|(À¥Ô¯¥.0À¥Ô¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2115(àÏñ•….0àÏñ•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2077(ÈÊÀÛ—-0Ø½™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3329(ÀÅ™¹ÿ.0ÀÅ™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5869(Ò€ŸĞ/0Ò€ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5868(Øº€ŸĞ/0Øº€ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS6035(ˆ«€ŸĞ/0ˆ«€ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2201(ø¼Ô¯¥.0ø¼Ô¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4502(À¢˜ .0À¢˜ .:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4507(àÂÀÛ—-0°‡§„ÿ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS6002(ÈæŸĞ/0ÈæŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1764(˜¯ş+0˜¯ş+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS6019(À¿ŸĞ/0À¿ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1763(ØÂÄ‡Ë)0ØÂÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5842(  ŸĞ/0  ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5443(ˆÈÈîÓ-0ˆÈÈîÓ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5445(ˆÈÈîÓ-0Õ™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2612(øÜ™¹ÿ.0øÜ™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5042(¨¸ñ•….0¨¸ñ•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2053(¨¸ñ•….0¨¸ñ•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3752(àí–¹ÿ.0àí–¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5659(¸™¹ÿ.0¸™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1854(Ğ¼“ìç-0Ğ¼“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1862(ğºÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5547(­¢˜ .0­¢˜ .:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5542(¨¥¢˜ .0è¥ö–’/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1313(ğºÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4423( ÀÈîÓ-0¨çõ–’/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5754(÷æÃŒ.0÷æÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5996(Ğ“€ŸĞ/0Ğ“€ŸĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2245(ˆ£ùÚ-0ˆ£ùÚ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4426(ˆÈÈîÓ-0°ö–’/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3330(øÇñ•….0øÇñ•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4830(Ø•¢˜ .0Ø•¢˜ .:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2257(ˆ®™¹ÿ.0ˆ®™¹ÿ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5247(ğ“ ˜ .0ğ“ ˜ .:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4433(ğ¢˜ .0ğ¢˜ .:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5527(Àñ•….0Àñ•….:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4790(ÈÊÀÛ—-0ÈÊÀÛ—-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5361(˜üÿĞ/0˜üÿĞ/:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5122(À°ñ•….0À°ñ•….:AXzmQU-ch6dI4sPCG5Pu4
+pythonS930(à÷¦„ÿ-0à÷¦„ÿ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4792(ˆ£ùÚ-0ˆ£ùÚ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2092(Àñ•….0Àñ•….:AXzmQU-ch6dI4sPCG5PuR
+pythonS116"
+format^[_a-z][_a-z0-9]*$(ØÂÄ‡Ë)0ØÂÄ‡Ë):AXzmQU-ch6dI4sPCG5PuS
+pythonS1542"
+format^[a-z_][a-z0-9_]*$(¸˜Ù±ñ(0Ø†»ÌÄ.:AXzmQU-ch6dI4sPCG5Pu\
+pythonS4487"%
+enableSingleUnderscoreIssuesfalse(˜÷‚°‘.0˜÷‚°‘.:AXzmQU-ch6dI4sPCG5Pu>
+pythonBackticksUsage(èšáÜï(0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5864(Ø†»ÌÄ.0Ø†»ÌÄ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1144(°ï‚°‘.0°ï‚°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2638(°ï‚°‘.0°ï‚°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5747(øşæÃŒ.0øşæÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1700(ØÂÄ‡Ë)0ØÂÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5712(à†çÃŒ.0à†çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1871(ğºÄ‡Ë)0ğºÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5795(µÔ¯¥.0µÔ¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1110(ØÂÄ‡Ë)0ØÂÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5719(Ğƒ°‘.0Ğƒ°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1515(˜œøÜ™.0˜œøÜ™.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2208(ø¼Ô¯¥.0ø¼Ô¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5717(Ğƒ°‘.0Ğƒ°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5603(¸Ä“ìç-0¸Ä“ìç-:AXzmQU-ch6dI4sPCG5Pui
+pythonS101"3
+format)^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$(¸˜Ù±ñ(0¨–»ÌÄ.:AXzmQU-ch6dI4sPCG5PuZ
+pythonS5720"#
+ignoredDecoratorsabstractmethod(€ÿ‚°‘.0€ÿ‚°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5607(°Æá§°.0°Æá§°.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2734(ØÂÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3358(È•“ìç-0È•“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3516(Ğ¼“ìç-0Ğ¼“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2823(ø„Ğê«.0ø„Ğê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2159(Ğ®éÚ‰.0˜çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1066(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2275(ÈÒê«.0ÈÒê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5708(°–çÃŒ.0°–çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5828(à†Òê«.0à†Òê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5709(ÈçÃŒ.0ÈçÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3923(ˆÔ“ìç-0ˆÔ“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5706(˜çÃŒ.0˜çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3457(÷Ñê«.0÷Ñê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4144( Ì“ìç-0 Ì“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5632(°‡§„ÿ-0°‡§„ÿ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4828(ÈÊÀÛ—-0ÈÊÀÛ—-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1716(ğºÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3985(€…°‘.0€…°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5644(ø®á§°.0ø®á§°.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3981(¸Ä“ìç-0¸Ä“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2772(ØÂÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5714(ÈçÃŒ.0ÈçÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5722(è†ƒ°‘.0è†ƒ°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5724(è†ƒ°‘.0è†ƒ°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5685(€ÿ‚°‘.0€ÿ‚°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5727(à†çÃŒ.0à†çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5655(ø‚öÜ™.0ø‚öÜ™.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5707(°–çÃŒ.0°–çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5704(˜çÃŒ.0˜çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5780(àÄÔ¯¥.0àÄÔ¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5781(àÄÔ¯¥.0àÄÔ¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5756(à¶á§°.0à¶á§°.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3862(˜Ôß§°.0˜Ôß§°.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5806(ÀçÑê«.0ÀçÑê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1143(÷æÃŒ.0÷æÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1186( Ì“ìç-0 Ì“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1045(ØåäÃŒ.0ØåäÃŒ.:AXzmQU-ch6dI4sPCG5Pu?
+pythonInequalityUsage(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5Pu?
+pythonS107"	
+max13(¸˜Ù±ñ(0À»ÌÄ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5713(ÈçÃŒ.0ÈçÃŒ.:AXzmQU-ch6dI4sPCG5PuR
+pythonS100"
+format^[a-z_][a-z0-9_]*$(¸˜Ù±ñ(0¨–»ÌÄ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3827(Ğ¼“ìç-0Ğ¼“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5890(ˆı¸ÌÄ.0ˆı¸ÌÄ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5886(ğşºÌÄ.0ğşºÌÄ.:AXzmQU-ch6dI4sPCG5Pu4
+pythonS125(ğºÄ‡Ë)0ğºÄ‡Ë):AXzmQU-ch6dI4sPCG5Pu5
+pythonS5799(øşÑê«.0øşÑê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5807(ÀçÑê«.0ÀçÑê«.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5797(µÔ¯¥.0µÔ¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5796(¨­Ô¯¥.0¨­Ô¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2836(ø¼Ô¯¥.0ø¼Ô¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS5549(ÈÌÔ¯¥.0ÈÌÔ¯¥.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3984(°ÚÒ¯¥.0°ÚÒ¯¥.:AXzmQU-ch6dI4sPCG5PuF
+pythonS3776"
+	threshold15(˜¯ş+0˜¯ş+:AXzmQU-ch6dI4sPCG5PuE
+pythonS1192"
+	threshold3(¸Ä“ìç-0¸Ä“ìç-:AXzmQU-ch6dI4sPCG5Pu]
+pythonS2710"&
+classParameterNamescls,mcs,metacls(¸–ƒ°‘.0¸–ƒ°‘.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3403(ÈçÚ‰.0°–çÃŒ.:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2757(ˆÔ“ìç-0ˆÔ“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1226( Ì“ìç-0 Ì“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2190(ˆÔ“ìç-0ˆÔ“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS4143( Ì“ìç-0 Ì“ìç-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1751(€¡½ªİ-0€¡½ªİ-:AXzmQU-ch6dI4sPCG5Pu5
+pythonS3626(øù¼ªİ-0øù¼ªİ-:AXzmQU-ch6dI4sPCG5PuR
+pythonS117"
+format^[_a-z][a-z0-9_]*$(ğºÄ‡Ë)0ğºÄ‡Ë):AXzmQU-ch6dI4sPCG5PuB
+pythonExecStatementUsage(èšáÜï(0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1481(ÀŞ”‚Â+0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5PuE
+pythonPreIncrementDecrement(èšáÜï(0ğÁáÜï(:AXzmQU-ch6dI4sPCG5PuC
+pythonPrintStatementUsage(èšáÜï(0ÀĞ™¿¦,:AXzmQU-ch6dI4sPCG5Pu4
+pythonS108(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pu5
+pythonS1845(ØÂÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu5
+pythonS2711(ğºÄ‡Ë)0ÀŞ”‚Â+:AXzmQU-ch6dI4sPCG5Pu8
+cCommentedCode(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS1768(à¨ÍØ*0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2665(°‚Â‡Ë)0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3807(àé¬œ—+0àé¬œ—+:AXzmQU-ch6dI4sPCG5P6/
+cS935(˜òşÕ§/0˜òşÕ§/:AXzmQU-ch6dI4sPCG5P60
+cS5332(ğò¾İ.0ğò¾İ.:AXzmQU-ch6dI4sPCG5P60
+cS2068(°¨ê¬æ.0°¨ê¬æ.:AXzmQU-ch6dI4sPCG5P60
+cS1763(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P60
+cS2589(øë®Á½+0øë®Á½+:AXzmQU-ch6dI4sPCG5P60
+cS1135(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P60
+cS1134(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P60
+cS1133(ø ÍØ*0ø ÍØ*:AXzmQU-ch6dI4sPCG5P60
+cS2583(àşõŒÎ*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5978(¸œğÍ.0¸œğÍ.:AXzmQU-ch6dI4sPCG5P68
+cTrigraphUsage(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS5297(ˆÓ™¾§-0ˆÓ™¾§-:AXzmQU-ch6dI4sPCG5P6o
+cSingleGotoOrBreakPerIteration"%
+ maxNumberOfTerminationStatements1(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS5293(ˆÓ™¾§-0ˆÓ™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5501(¨Ä¶û÷-0¨Ä¶û÷-:AXzmQU-ch6dI4sPCG5P60
+cS3689(àè°ƒì*0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2479(Ñ—™,0ğá²«ü,:AXzmQU-ch6dI4sPCG5P60
+cS2234(°ûà·î+0°ûà·î+:AXzmQU-ch6dI4sPCG5P60
+cS3687(’¿İ.0’¿İ.:AXzmQU-ch6dI4sPCG5P60
+cS5982(¸œğÍ.0¸œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS1144(ˆÓ™¾§-0ˆÓ™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1264(ğ‚öş(0ğ‚öş(:AXzmQU-ch6dI4sPCG5P6M
+cS1820"
+maximumFieldThreshold20(°ŸŒ˜*0°ŸŒ˜*:AXzmQU-ch6dI4sPCG5P6D
+cNarrowAndWideStringConcat(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P6/
+cS872(ø ÍØ*0øà°ƒì*:AXzmQU-ch6dI4sPCG5P6/
+cS995(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P6/
+cS876(àğ”†°)0àğ”†°):AXzmQU-ch6dI4sPCG5P6/
+cS878(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS5832(¨°œğÍ.0¨°œğÍ.:AXzmQU-ch6dI4sPCG5P6c
+cS3776"1
++maximumFunctionCognitiveComplexityThreshold25(Ÿó¾«+0Ÿó¾«+:AXzmQU-ch6dI4sPCG5P60
+cS5955(¨°œğÍ.0¨°œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS2323(à©ç¶)0ğá²«ü,:AXzmQU-ch6dI4sPCG5P60
+cS5278( Ë™¾§-0 Ë™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1110(ĞåËäµ+0ĞåËäµ+:AXzmQU-ch6dI4sPCG5P60
+cS2681(àå½ˆæ+0àå½ˆæ+:AXzmQU-ch6dI4sPCG5P60
+cS5279( Ë™¾§-0 Ë™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1117(ğó’İ‡.0ğó’İ‡.:AXzmQU-ch6dI4sPCG5P6?
+cS1479"
+maximum30(à©ç¶)0à©ç¶):AXzmQU-ch6dI4sPCG5P60
+cS1116(¸˜Ù±ñ(0øë®Á½+:AXzmQU-ch6dI4sPCG5P6/
+cS969(à©ç¶)0àó®Á½+:AXzmQU-ch6dI4sPCG5P60
+cS1905(¨¬¬è©.0¨¬¬è©.:AXzmQU-ch6dI4sPCG5P6/
+cS961(à©ç¶)0à©ç¶):AXzmQU-ch6dI4sPCG5P60
+cS5273(¸Ã™¾§-0¸Ã™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5276(ø»¬è©.0ø»¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS5271( Ë™¾§-0 Ë™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1123(è¹î–‡+0è¹î–‡+:AXzmQU-ch6dI4sPCG5P6/
+cS860(¸Ã™¾§-0¸Ã™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5847(À¨œğÍ.0À¨œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS5849(À¨œğÍ.0À¨œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS2216(àğ”†°)0àğ”†°):AXzmQU-ch6dI4sPCG5P6/
+cS859(¸üêñ-0¸üêñ-:AXzmQU-ch6dI4sPCG5P6@
+cInvalidEscapeSequence(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS1481(¸‘¼³­*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5042(˜°ê¬æ.0˜°ê¬æ.:AXzmQU-ch6dI4sPCG5P60
+cS5281(¸Ã™¾§-0¸Ã™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5280(¸Ã™¾§-0¸Ã™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5283(Ğ»™¾§-0Ğ»™¾§-:AXzmQU-ch6dI4sPCG5P6/
+cS977(à©ç¶)0°ø°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3358(øá¬œ—+0øá¬œ—+:AXzmQU-ch6dI4sPCG5P60
+cS5658(¨Ä¶û÷-0¨Ä¶û÷-:AXzmQU-ch6dI4sPCG5P60
+cS6069(¨Š¿İ.0¨Š¿İ.:AXzmQU-ch6dI4sPCG5P60
+cS3231(à¨ÍØ*0à¨ÍØ*:AXzmQU-ch6dI4sPCG5P6F
+cPPBackslashNotLastCharacter(èšáÜï(0°ø°ƒì*:AXzmQU-ch6dI4sPCG5P6A
+cGotoLabelInNestedBlock(èšáÜï(0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1854(Ğ‰¼³­*0Ğ‰¼³­*:AXzmQU-ch6dI4sPCG5P6/
+cS946(ˆì’İ‡.0ˆì’İ‡.:AXzmQU-ch6dI4sPCG5P60
+cS1172(€şÿ¤ù*0€şÿ¤ù*:AXzmQU-ch6dI4sPCG5P6D
+cAssignmentInSubExpression(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P6/
+cS820(àğ”†°)0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3590(€Æ‘æÃ*0€Æ‘æÃ*:AXzmQU-ch6dI4sPCG5P6/
+cS824(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS1862(ğ‚öş(0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5547(À‚¿İ.0À‚¿İ.:AXzmQU-ch6dI4sPCG5P60
+cS5542(À‚¿İ.0àæı–’/:AXzmQU-ch6dI4sPCG5P60
+cS1066(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS1186(øê ®˜)0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1065(àğ”†°)0àğ”†°):AXzmQU-ch6dI4sPCG5P60
+cS2275(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS3806(˜ı½ˆæ+0˜ı½ˆæ+:AXzmQU-ch6dI4sPCG5P6ò
+cNonReentrantFunction"°
+nonReentrantFunctionList“asctime,crypt,ctermid,ctime,fgetgrent,fgetpwent,fgetspent,getgrent,getgrgid,getgrnam,gethostbyaddr,gethostbyname,gethostbyname2,gethostent,getlogin,getnetbyaddr,getnetbyname,getnetent,getnetgrent,getprotobyname,getprotobynumber,getprotoent,getpwent,getpwnam,getpwuid,getrpcbyname,getrpcbynumber,getrpcent,getservbyname,getservbyport,getservent,getspent,getspnam,gmtime,localtime,sgetspent,strtok,ttyname(èšáÜï(0˜°ê¬æ.:AXzmQU-ch6dI4sPCG5P60
+cS3805(àé¬œ—+0àé¬œ—+:AXzmQU-ch6dI4sPCG5P60
+cS5308(Ğ»™¾§-0Ğ»™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS3923(èİËäµ+0èİËäµ+:AXzmQU-ch6dI4sPCG5P6/
+cS836(¸ù¼à*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P68
+cLiteralSuffix(èšáÜï(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5782(À•Õ†œ.0À•Õ†œ.:AXzmQU-ch6dI4sPCG5P6/
+cS833(ˆì’İ‡.0ˆì’İ‡.:AXzmQU-ch6dI4sPCG5P60
+cS3457(°œ™¾§-0°œ™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS4423(Øú¾İ.0¨Ïı–’/:AXzmQU-ch6dI4sPCG5P60
+cS3458(Ğ†ÉÏÌ*0Ğ†ÉÏÌ*:AXzmQU-ch6dI4sPCG5P6A
+cEmptyCompoundStatement(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS4426(À‚¿İ.0àæı–’/:AXzmQU-ch6dI4sPCG5P60
+cS2245(°¨ê¬æ.0°¨ê¬æ.:AXzmQU-ch6dI4sPCG5P60
+cS1036(àÙ‡Ä™)0àÙ‡Ä™):AXzmQU-ch6dI4sPCG5P60
+cS2123(ˆ²á·î+0ˆ²á·î+:AXzmQU-ch6dI4sPCG5P69
+cS134"
+max3(ˆì’İ‡.0ˆì’İ‡.:AXzmQU-ch6dI4sPCG5P60
+cS1836(ğ‚öş(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P67
+cDigraphUsage(èšáÜï(0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1831(àè°ƒì*0àè°ƒì*:AXzmQU-ch6dI4sPCG5P6;
+cFunctionEllipsis(èšáÜï(0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2259(àğ”†°)0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3588(¸ù¼à*0¸ù¼à*:AXzmQU-ch6dI4sPCG5P6M
+cS3222"
+format^[A-Z][A-Z0-9_]*$(ĞÔ’İ‡.0ĞÔ’İ‡.:AXzmQU-ch6dI4sPCG5P60
+cS3584(˜âÃŠ¿*0˜âÃŠ¿*:AXzmQU-ch6dI4sPCG5P60
+cS5527(Øú¾İ.0Øú¾İ.:AXzmQU-ch6dI4sPCG5P6/
+cS936(àğ”†°)0øë®Á½+:AXzmQU-ch6dI4sPCG5P6/
+cS814(àğ”†°)0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P6/
+cS819(àğ”†°)0àğ”†°):AXzmQU-ch6dI4sPCG5P60
+cS4790(ÈìÇ°ï.0ÈìÇ°ï.:AXzmQU-ch6dI4sPCG5P60
+cS1656(Èğ°ƒì*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P6/
+cS905(à©ç¶)0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5570(¨Ä¶û÷-0¨Ä¶û÷-:AXzmQU-ch6dI4sPCG5P69
+cS107"
+max7(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS2753(°‚Â‡Ë)0ğá²«ü,:AXzmQU-ch6dI4sPCG5P60
+cS2754(ÈúÁ‡Ë)0ÈúÁ‡Ë):AXzmQU-ch6dI4sPCG5P60
+cS1301(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P6M
+c"SideEffectInRightHandSideOfLogical(èšáÜï(0¸ÄçÂÈ+:AXzmQU-ch6dI4sPCG5P60
+cS3729(è¹î–‡+0è¹î–‡+:AXzmQU-ch6dI4sPCG5P67
+cPPUndefUsage(èšáÜï(0°ø°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3728(è¹î–‡+0è¹î–‡+:AXzmQU-ch6dI4sPCG5P60
+cS2757(à¤æì³*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2637(€şÿ¤ù*0€şÿ¤ù*:AXzmQU-ch6dI4sPCG5P60
+cS2755(°½ä§°.0°½ä§°.:AXzmQU-ch6dI4sPCG5P6?
+cSwitchLabelPlacement(èšáÜï(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P6D
+cEnumPartialInitialization(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS2193(à©ç¶)0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2190( Ë™¾§-0 Ë™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1874(à¨ÍØ*0à¨ÍØ*:AXzmQU-ch6dI4sPCG5P60
+cS5798(ø¥ä§°.0ø¥ä§°.:AXzmQU-ch6dI4sPCG5P60
+cS5314(ø»¬è©.0ø»¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS1751(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P60
+cS1871(àÙ‡Ä™)0èİËäµ+:AXzmQU-ch6dI4sPCG5P60
+cS1079(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS1199(¸˜Ù±ñ(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1198(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS3936(ĞåËäµ+0ĞåËäµ+:AXzmQU-ch6dI4sPCG5P6H
+cSingleDeclarationPerStatement(°ƒŸ³„)0°ƒŸ³„):AXzmQU-ch6dI4sPCG5P60
+cS3935(èİËäµ+0èİËäµ+:AXzmQU-ch6dI4sPCG5P60
+cS3491(¸Ùµã©*0Èğ°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1764(¸˜Ù±ñ(0Ù°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS1762(ğó’İ‡.0ğó’İ‡.:AXzmQU-ch6dI4sPCG5P60
+cS1761(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5P60
+cS5443(‰ê¬æ.0‰ê¬æ.:AXzmQU-ch6dI4sPCG5P60
+cS1760(ğ‚öş(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS3949(¸Ã™¾§-0¸Ã™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS1767(àğ”†°)0àè°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS2612(À¨œğÍ.0À¨œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS1081(èšáÜï(0øà°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS5259(Ğ»™¾§-0Ğ»™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS3518(˜âÃŠ¿*0˜âÃŠ¿*:AXzmQU-ch6dI4sPCG5P60
+cS3519(Ÿó¾«+0Ÿó¾«+:AXzmQU-ch6dI4sPCG5P60
+cS1219(àÙ‡Ä™)0øë®Á½+:AXzmQU-ch6dI4sPCG5P60
+cS5814(´¬è©.0´¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS3516(øàá·î+0øàá·î+:AXzmQU-ch6dI4sPCG5P60
+cS5813(ˆë¾İ.0ˆë¾İ.:AXzmQU-ch6dI4sPCG5P60
+cS5816(´¬è©.0´¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS5815(ø»¬è©.0ø»¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS2668(°‚Â‡Ë)0°‚Â‡Ë):AXzmQU-ch6dI4sPCG5P60
+cS5494(Ø´¶û÷-0Ø´¶û÷-:AXzmQU-ch6dI4sPCG5P6@
+cObsoletePosixFunction(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS5491(À¼¶û÷-0À¼¶û÷-:AXzmQU-ch6dI4sPCG5P60
+cS1103(èšáÜï(0øë®Á½+:AXzmQU-ch6dI4sPCG5P60
+cS5267(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5266(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS3520(˜âÃŠ¿*0˜âÃŠ¿*:AXzmQU-ch6dI4sPCG5P60
+cS3529(¨†Ñ—™,0¨†Ñ—™,:AXzmQU-ch6dI4sPCG5P60
+cS5825(´¬è©.0´¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS5824(´¬è©.0¨ßô†/:AXzmQU-ch6dI4sPCG5P60
+cS3646(Ğùø¼à*0Ğùø¼à*:AXzmQU-ch6dI4sPCG5P6;
+cPPBadIncludeForm(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS5263(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5262(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5261(è³™¾§-0è³™¾§-:AXzmQU-ch6dI4sPCG5P60
+cS5381(ø¬Õ†œ.0ø¬Õ†œ.:AXzmQU-ch6dI4sPCG5P60
+cS1313(¨ÍÇ°ï.0¨ÍÇ°ï.:AXzmQU-ch6dI4sPCG5P60
+cS3972(àå½ˆæ+0àå½ˆæ+:AXzmQU-ch6dI4sPCG5P60
+cS3730(è¹î–‡+0è¹î–‡+:AXzmQU-ch6dI4sPCG5P60
+cS3973(ø’šÆØ+0ø’šÆØ+:AXzmQU-ch6dI4sPCG5P6I
+cPPIncludeNonStandardCharacters(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P60
+cS2761(ÈúÁ‡Ë)0ÈúÁ‡Ë):AXzmQU-ch6dI4sPCG5P6?
+cSwitchWithoutDefault(èšáÜï(0àè°ƒì*:AXzmQU-ch6dI4sPCG5P6<
+cPPIncludeNotAtTop(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5P6C
+cNonEmptyCaseWithoutBreak(èšáÜï(0øë®Á½+:AXzmQU-ch6dI4sPCG5P60
+cS5350(¨°üêñ-0¨°üêñ-:AXzmQU-ch6dI4sPCG5P6/
+cS886( ä’İ‡.0ğ˜œğÍ.:AXzmQU-ch6dI4sPCG5P60
+cS6200( é›¿É/0 é›¿É/:AXzmQU-ch6dI4sPCG5P60
+cS4143(ØÁá·î+0ØÁá·î+:AXzmQU-ch6dI4sPCG5P60
+cS4263(àèá·î+0àèá·î+:AXzmQU-ch6dI4sPCG5P6;
+cBackJumpWithGoto(èšáÜï(0Ù°ƒì*:AXzmQU-ch6dI4sPCG5P60
+cS4830(ĞÓ¾İ.0ĞÓ¾İ.:AXzmQU-ch6dI4sPCG5P60
+cS3744(è¹î–‡+0è¹î–‡+:AXzmQU-ch6dI4sPCG5P60
+cS5801(ğ”¬è©.0ğ”¬è©.:AXzmQU-ch6dI4sPCG5P60
+cS5487(Ø üêñ-0Ø üêñ-:AXzmQU-ch6dI4sPCG5P60
+cS5486(¨°üêñ-0¨°üêñ-:AXzmQU-ch6dI4sPCG5P60
+cS5489(¨°üêñ-0¨°üêñ-:AXzmQU-ch6dI4sPCG5P60
+cS5488(¨°üêñ-0¨°üêñ-:AXzmQU-ch6dI4sPCG5P60
+cS3626(øá¬œ—+0øá¬œ—+:AXzmQU-ch6dI4sPCG5P60
+cS5802( ‰œğÍ.0 ‰œğÍ.:AXzmQU-ch6dI4sPCG5P6/
+cS897(Ğùø¼à*0Ğùø¼à*:AXzmQU-ch6dI4sPCG5P60
+cS5485(¨°üêñ-0¨°üêñ-:AXzmQU-ch6dI4sPCG5P60
+cS5000(ğêÇ’-0ğêÇ’-:AXzmQU-ch6dI4sPCG5P60
+cS2095(˜âÃŠ¿*0˜âÃŠ¿*:AXzmQU-ch6dI4sPCG5P69
+
+tssecurityS5144(€ŒĞ‹/0€ŒĞ‹/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5146(ˆ³Ğ‹/0ˆ³Ğ‹/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5147(èÒà«ğ.0èÒà«ğ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS3649(ÀŸŸğÍ.0ÀŸŸğÍ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5131(À‰á«ğ.0À‰á«ğ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS2083( Ñì¬æ.0 Ñì¬æ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS6287(è®ŠˆÌ/0è®ŠˆÌ/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS2631(ğùà«ğ.0ğùà«ğ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5883(¨ÒĞ‹/0¨ÒĞ‹/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5696(Ğñ±¨ú.0Ğñ±¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS2076(ØÂĞ‹/0ØÂĞ‹/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS6105(ø·²¨ú.0ø·²¨ú.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS5334(ˆòà«ğ.0ˆòà«ğ.:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS6350(€œ€ºÔ/0€œ€ºÔ/:AXzmQU-ch6dI4sPCG5P79
+
+tssecurityS6096(¸Éì¬æ.0¸Éì¬æ.:AXzmQU-ch6dI4sPCG5P75
+kotlinS2122(È¬¿É/0È¬¿É/:AXzmQU-ch6dI4sPCG5Poh
+kotlinS2068"1
+credentialWordspassword,passwd,pwd,passphrase(ØÎÏçÊ,0ØØüÖ.:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1135(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5856(°Ü‡ŸĞ/0°Ü‡ŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1134(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5850(ˆ“ˆŸĞ/0ˆ“ˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6301(ø‹Îš¾/0ø‹Îš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6300( ÕÍš¾/0 ÕÍš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5332(¨‚ßµ¥/0¨‚ßµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5857(¸ƒˆŸĞ/0¸ƒˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1145(è½Í½å,0è½Í½å,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5869(ÈÑˆŸĞ/0ÈÑˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS3329(¸Êáµ¥/0¸Êáµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5868(àÉˆŸĞ/0àÉˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4347(˜©Å¤Å/0˜©Å¤Å/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4507(ğ†ÒİË/0ğ†ÒİË/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6363(ø¶ÏİË/0ø¶ÏİË/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6362( ÷ÑİË/0 ÷ÑİË/:AXzmQU-ch6dI4sPCG5PoJ
+kotlinS5843"
+maxComplexity20(Ø¢ˆŸĞ/0Ø¢ˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1763(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5842(¨²ˆŸĞ/0¨²ˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5324(°£Îš¾/0°£Îš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5846(ÀªˆŸĞ/0ÀªˆŸĞ/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS2053(È™Å¤Å/0È™Å¤Å/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5320(¸ÑÂ¤Å/0¸ÑÂ¤Å/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5547(€³áµ¥/0€³áµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5542(èºáµ¥/0èºáµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1313(è½Í½å,0è½Í½å,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4423(°£áµ¥/0°£áµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4426(È›áµ¥/0È›áµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS2245(à“áµ¥/0à“áµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6288(ĞÎóà°/0ĞÎóà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4830(ĞÂáµ¥/0ĞÂáµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5527(èºáµ¥/0èºáµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6291(È›Îš¾/0È›Îš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4790(˜«áµ¥/0˜«áµ¥/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6293(€¿óà°/0€¿óà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1481(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5PoF
+kotlinS3776"
+	threshold15(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1143(¸Û¿É/0¸Û¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4738(ˆë¿É/0ˆë¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS2151(èË¿É/0èË¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6202(˜¼¿É/0˜¼¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS2123(à¤¿É/0à¤¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6218(ğõœ¿É/0ğõœ¿É/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS5322(°¡Å¤Å/0°¡Å¤Å/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1656(è½Í½å,0è½Í½å,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1172(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1862(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1764(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1128(€³Îš¾/0€³Îš¾/:AXzmQU-ch6dI4sPCG5PoV
+kotlinS100" 
+format^[a-zA-Z][a-zA-Z0-9]*$(ØÎÏçÊ,0ø ØüÖ.:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1133(„Îš¾/0„Îš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1874(èºÎš¾/0èºÎš¾/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6305(Øşğà°/0Øşğà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6307(È§óà°/0È§óà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6306(àŸóà°/0àŸóà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6309(˜·óà°/0˜·óà°/:AXzmQU-ch6dI4sPCG5Po>
+kotlinS107"
+Max7(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6316(Øõóà°/0Øõóà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6315(˜´ôà°/0˜´ôà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6318(¨…ôà°/0¨…ôà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6312(ø”ôà°/0ø”ôà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6311(ğíóà°/0ğíóà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1066(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6314(°¬ôà°/0°¬ôà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6313(àœôà°/0àœôà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS3923(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS6310( Şóà°/0 Şóà°/:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1871(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1110(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4663(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5PoE
+kotlinS1192"
+	threshold3(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po4
+kotlinS125(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS4144(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po4
+kotlinS108(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1125(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS2757(ĞÅÍ½å,0ĞÅÍ½å,:AXzmQU-ch6dI4sPCG5PoS
+kotlinS101"
+format^[A-Z][a-zA-Z0-9]*$(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1144(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5PoX
+kotlinS117""
+format^`?[_a-z][a-zA-Z0-9]*`?$(ØÎÏçÊ,0ø ØüÖ.:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1186(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5PoD
+kotlinS1479"
+maximum30(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po5
+kotlinS1940(ØÎÏçÊ,0ØÎÏçÊ,:AXzmQU-ch6dI4sPCG5Po1
+goS1313(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1135(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1134(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1871(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1110(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P3d
+goS2068"1
+credentialWordspassword,passwd,pwd,passphrase(ÈîÆ¢«,0°¸ØüÖ.:AXzmQU-ch6dI4sPCG5P31
+goS4663(˜—£Ë-0˜—£Ë-:AXzmQU-ch6dI4sPCG5P31
+goS1656(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P31
+goS1764(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P31
+goS1763(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1862(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P31
+goS3923(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P3B
+goS3776"
+	threshold15(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P38
+goParsingError(øŸ—£Ë-0øŸ—£Ë-:AXzmQU-ch6dI4sPCG5P3A
+goS1192"
+	threshold3(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P30
+goS108(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS1940(øŸ—£Ë-0øŸ—£Ë-:AXzmQU-ch6dI4sPCG5P31
+goS1125(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P3N
+goS100"
+format^(_|[a-zA-Z0-9]+)$(ÀƒäÄ¶,0øŸ—£Ë-:AXzmQU-ch6dI4sPCG5P3N
+goS117"
+format^(_|[a-zA-Z0-9]+)$(øŸ—£Ë-0øŸ—£Ë-:AXzmQU-ch6dI4sPCG5P3:
+goS107"
+Max7(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P31
+goS1186(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P3@
+goS1479"
+maximum30(ÀƒäÄ¶,0ÀƒäÄ¶,:AXzmQU-ch6dI4sPCG5P31
+goS2757(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P31
+goS4144(ÈîÆ¢«,0ÈîÆ¢«,:AXzmQU-ch6dI4sPCG5P3O
+ roslyn.sonaranalyzer.security.csS5144(è—©Ä›-0è—©Ä›-:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5135(¸áå§°.0¸áå§°.:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5146(è—©Ä›-0è—©Ä›-:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS2078(Ğİ”Á,0Ğİ”Á,:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5145(è—©Ä›-0è—©Ä›-:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS3649(ğå›ÆØ+0ğå›ÆØ+:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5131(˜ˆ©Ä›-0˜ˆ©Ä›-:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS2083(¸å”Á,0¸å”Á,:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS6287(¨ÿ„ˆÌ/0¨ÿ„ˆÌ/:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS2091(¸å”Á,0¸å”Á,:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS2631(Ğİ”Á,0à±Ö†œ.:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5883(üú¹Ô/0üú¹Ô/:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS2076(Ğİ”Á,0Ğİ”Á,:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS5334(˜ã®¨ú.0˜ã®¨ú.:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS6350(ØŞü¹Ô/0ØŞü¹Ô/:AXzmQU-ch6dI4sPCG5PnO
+ roslyn.sonaranalyzer.security.csS6096(àÈ¯¨ú.0àÈ¯¨ú.:AXzmQU-ch6dI4sPCG5Pn3
+tsqlS2737(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1135(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1134(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq[
+tsqlS2068"&
+credentialWordspassword,passwd,pwd(€‚õóã,0€‚õóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1739(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1659(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4801(€‚õóã,0€‚õóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1656(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1172(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1862(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3643(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3641(˜úôóã,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1066(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1065(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3923(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4094(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1313(˜úôóã,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4104(˜úôóã,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1751(øç™¿¦,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1871(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1110(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS2681(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4102(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4109(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1116(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1764(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1763(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1523(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4790(È…ÆÜÛ.0È…ÆÜÛ.:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4075(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq2
+tsqlS907(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq2
+tsqlS125(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1590(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3633(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1940(˜úôóã,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3626(˜úôóã,0˜úôóã,:AXzmQU-ch6dI4sPCG5Pq=
+tsqlS107"	
+max10(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5PqL
+tsqlS117"
+format@[a-zA-Z0-9_]*(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5PqB
+tsqlS1479"
+maximum30(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1481(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1499(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pqv
+tsqlS1542"
+FunctionFormat(?i)(?!sp_).*" 
+ProcedureFormat(?i)(?!sp_).*(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5PqB
+tsqlS1631"
+maximum10(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1735(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS1745(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS2527(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS2761(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3972(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS3973(øç™¿¦,0øç™¿¦,:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4054(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4078(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4103(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4108(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4149(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4154(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4155(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq3
+tsqlS4196(ˆûäÇá+0ˆûäÇá+:AXzmQU-ch6dI4sPCG5Pq=
+pythonsecurityS5147(€©´„é/0€©´„é/:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5144(€ôŒ¾‡.0€ôŒ¾‡.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS2078(èûŒ¾‡.0èûŒ¾‡.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5146(èáÓ×.0èáÓ×.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5135(ÈŒøÜ™.0ÈŒøÜ™.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5145(Ğƒ¾‡.0Ğƒ¾‡.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS3649(¨“ùï-0¨“ùï-:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5131(¨®šç¢.0¨®šç¢.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS2083(˜òŠ¾‡.0˜òŠ¾‡.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS6287(ÈÂù‡Ì/0ÈÂù‡Ì/:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS2091(¸‹¾‡.0¸‹¾‡.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS2631(¸ù›ç¢.0¸ù›ç¢.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS2076(°”øÜ™.0°”øÜ™.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS5334(˜œøÜ™.0˜œøÜ™.:AXzmQU-ch6dI4sPCG5Pu=
+pythonsecurityS6350( ëğ¹Ô/0 ëğ¹Ô/:AXzmQU-ch6dI4sPCG5PuE
+common-objcDuplicatedBlocks(¨ÕÃ‡Ë)0¨ÕÃ‡Ë):AXzmQU-ch6dI4sPCG5P89
+
+javascriptS5852(ĞİÅš¾/0ĞİÅš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6268(Ğ¢›×/0Ğ¢›×/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2819(øŞÒ÷º+0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6299(ØæŞà¥/0ØæŞà¥/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4138( ¨¥¨ú.0 ¨¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3001(¨Ö¯¤*0ğÖîçñ*:AXzmQU-ch6dI4sPCG5PtN
+
+javascriptS5843"
+maxComplexity20(ÀŒÆš¾/0ÀŒÆš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2589(ØÕğÆ‡,0ØÕğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5732(°Ã¹İ.0°Ã¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1135(ˆ°¥¨ú.0ˆ°¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5734(˜Ë¹İ.0˜Ë¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1134(ğ·¥¨ú.0ğ·¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5730(°Ã¹İ.0°Ã¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5736(€Ó¹İ.0€Ó¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5739(€Ó¹İ.0€Ó¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5743(È»¹İ.0È»¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2598(Ğ”ğÍ.0Ğ”ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1143(àŒğ–‡+0ğâî¾”-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5742(È»¹İ.0È»¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4502(Èá–ğÍ.0Èá–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2681(À‡Ö¯¤*0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4507(°é–ğÍ.0°é–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5958(˜ş†ÚÎ/0˜ş†ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1488(×¥¨ú.0×¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1121(àÆõµ“/0àÆõµ“/:AXzmQU-ch6dI4sPCG5PtU
+
+javascriptS5604"
+permissionsgeolocation(èÚ¹İ.0èÚ¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5725(èÚ¹İ.0èÚ¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5728(Ğâ¹İ.0Ğâ¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5042(¸‰¹Æê.0¸‰¹Æê.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5659(°²ßªÕ.0°²ßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1854(øšªÙ)0øšªÙ):AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5547(ÈªßªÕ.0ÈªßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5542(ÈªßªÕ.0ÈÎõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5876(˜ê¸Æê.0˜ê¸Æê.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4423(ÀƒßªÕ.0 ˆõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2245(ˆÛî¾”-0ˆÛî¾”-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4426(¨‹ßªÕ.0ˆõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5757(ø«¹İ.0ø«¹İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3330(ÀƒßªÕ.0ÀƒßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5759(à³¹İ.0à³¹İ.:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS128(èšáÜï(0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5527(ØûŞªÕ.0ØûŞªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4790( Óî¾”-0 Óî¾”-:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS930(ğÖ‹²ç)0ğÖ‹²ç):AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5332(€ò¸Æê.0€ò¸Æê.:AXzmQU-ch6dI4sPCG5Ptc
+
+javascriptS2068"(
+credentialWordspassword, pwd, passwd( ¼Ç”è-0 ¼Ç”è-:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS905(¨•ô´ƒ*0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5691(àÙ–ğÍ.0àÙ–ğÍ.:AXzmQU-ch6dI4sPCG5Ptw
+
+javascriptS5693"
+fileUploadSizeLimit8000000"
+standardSizeLimit2000000(Ê–ğÍ.0Ê–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2077(ˆÛî¾”-0ØŸõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2755(¨Â–ğÍ.0¨Â–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1874(·õµ“/0·õµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5689(àÙ–ğÍ.0àÙ–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1763(èšáÜï(0ˆºáÜï(:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5443(èù¸Æê.0èù¸Æê.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2612(Ğ¹Æê.0Ğ¹Æê.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1523(èšáÜï(0 ®Ã‡Ë):AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4721(Øêî¾”-0˜ŞºÂ´.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1313(°è¶Æê.0°è¶Æê.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1439(à€¤„ÿ-0à€¤„ÿ-:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS888(ğÍğÆ‡,0ğÍğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4830(¨‘İªÕ.0¨‘İªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5247(ÈÁ·İ.0ÈÁ·İ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5122( Óî¾”-0 Óî¾”-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2092(“ßªÕ.0“ßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4326(ˆ­¦¨ú.0ˆ­¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5863(¨ØƒÚÎ/0¨ØƒÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3415(Èî†ÚÎ/0Èî†ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2699(¨Ï†ÚÎ/0¨Ï†ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6079(ÀÄ‡ÚÎ/0ÀÄ‡ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6080(øÛ‡ÚÎ/0øÛ‡ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2970( ¥‡ÚÎ/0 ¥‡ÚÎ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6092(Ø¼‡ÚÎ/0Ø¼‡ÚÎ/:AXzmQU-ch6dI4sPCG5PtJ
+
+javascriptS3776"
+	threshold15(€†¦¨ú.0€†¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5869(ˆşÂš¾/0ˆşÂš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6019(œÆš¾/0œÆš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5842(ğüÅš¾/0ğüÅš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6351(€ËÆš¾/0€ËÆš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6353(È³Æš¾/0È³Æš¾/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5856(èËÁø²/0èËÁø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5850(°´Áø²/0°´Áø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5860(•Áø²/0•Áø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS5868(à¤Áø²/0à¤Áø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6035(À…Áø²/0À…Áø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6326(˜¿Àø²/0˜¿Àø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6328(ˆîÀø²/0ˆîÀø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6323(èÎÀø²/0èÎÀø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6325(È¯Àø²/0È¯Àø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6324(¸ŞÀø²/0¸ŞÀø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS6331(€Ğ½ø²/0€Ğ½ø²/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1264(¨åğÆ‡,0¨åğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2688(ØÅÃ‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4624(è¦¨ú.0è¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2201(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2685(°ö¥¨ú.0°ö¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1110(øŞÒ÷º+0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3531(ØÛ®“³*0ØÛ®“³*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1472(èì‡¤„)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1119(øŞ¥¨ú.0øŞ¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1117(•¶Ş´-0•¶Ş´-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1116(°ğÆ‡,0°ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1126(Ğ®ğÆ‡,0Ğ®ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4634(¨Ï¥¨ú.0¨Ï¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2692(àÿïÆ‡,0àÿïÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1128(€½Ñ—™,0€½Ñ—™,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3358(ˆ­¦¨ú.0ˆ­¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2703(øšªÙ)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1862(ğ½Ã‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3923(øŞÒ÷º+0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3696(Ğ˜¥¨ú.0Ğ˜¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2137(È‡ğÆ‡,0È‡ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2259(ĞıËÏÌ*0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2814(øšªÙ)0øšªÙ):AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2251(ÀÍÃ‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1533(èšáÜï(0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4123(øšßªÕ.0øšßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2189(¸ÿè¾¢+0¸ÿè¾¢+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1536(èì‡¤„)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1656(ØÅÃ‡Ë)0ØÅÃ‡Ë):AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2870(•ÀËá)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2871(“ßªÕ.0“ßªÕ.:AXzmQU-ch6dI4sPCG5PtQ
+
+javascriptS2999"
+considerJSDocfalse(ØŞ‹²ç)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1994(˜ş¥¨ú.0˜ş¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1871(ğ½Ã‡Ë)0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1516(èšáÜï(0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1764(ğ½Ã‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1529(èšáÜï(0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2737(àÅøÒê,0àÅøÒê,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1219(èì‡¤„)0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3516(Øà±òÌ+0Øà±òÌ+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4043(°§ËÊû+0°§ËÊû+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4165(˜¯ËÊû+0˜¯ËÊû+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1226(˜Şõµ“/0˜Şõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4822(¨‹ßªÕ.0¨‹ßªÕ.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3616(è×ÇƒÙ*0ğÖîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3735(ğ—õµ“/0ğ—õµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1314(èšáÜï(0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1321(èšáÜï(0ğÖîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3500(Àã®“³*0ğÖîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3981(€½Ñ—™,0€½Ñ—™,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4158( ¼Ç”è-0 ¼Ç”è-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3796(è®œ—+0ˆ×‚í©+:AXzmQU-ch6dI4sPCG5PtW
+
+javascriptS101"
+format^[A-Z][a-zA-Z0-9]*$(Ğ•¦¨ú.0Ğ•¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2234(ØŸõµ“/0ØŸõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3800(°Öõµ“/0°Öõµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1848(˜áôµ“/0˜áôµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3854(¸ÿè¾¢+0¸ÿè¾¢+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4619( ¥¦¨ú.0 ¥¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4275(˜•Ç”è-0˜•Ç”è-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3812(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3317(ØÕğÆ‡,0ØÕğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1940(ÈÍøÒê,0ÈÍøÒê,:AXzmQU-ch6dI4sPCG5PtH
+
+javascriptS1479"
+maximum30(àÅøÒê,0àÅøÒê,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1125(ø¾õµ“/0ø¾õµ“/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1481(èšáÜï(0ğÖîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2392(ØáıèÒ/0ØáıèÒ/:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3699(ˆí¼û*0ˆí¼û*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1534(èšáÜï(0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1301(¨åğÆ‡,0¨åğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1515(èšáÜï(0øèáÜï(:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1527(˜—ğÆ‡,0˜—ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4144(è¥¨ú.0è¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4143(€½Ñ—™,0€½Ñ—™,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4524(ˆÄÇ”è-0ˆÄÇ”è-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2123(ØÅÃ‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS125(Ø¿¥¨ú.0Ø¿¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3626(€‰¥¨ú.0€‰¥¨ú.:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS878(Ğ®ğÆ‡,0Ğ®ğÆ‡,:AXzmQU-ch6dI4sPCG5PtX
+
+javascriptS107"
+maximumFunctionParameters7(Èî¥¨ú.0Èî¥¨ú.:AXzmQU-ch6dI4sPCG5Pt8
+
+javascriptS108(èšáÜï(0øèáÜï(:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1751(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3972(à—ËÊû+0à—ËÊû+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4140(ÍùÚ-0ÍùÚ-:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3984(ˆËÊû+0ˆËÊû+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1186(ğ´¦¨ú.0ğ´¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS1788( ¾ğÆ‡,0 ¾ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2310(¸¦¨ú.0¸¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2432(ØÅÃ‡Ë)0ˆÏîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2757(àŒğ–‡+0àŒğ–‡+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS2990(Ğ®ğÆ‡,0Ğ®ğÆ‡,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3403(¨Ö¯¤*0ğÖîçñ*:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3579(ÀË‚§À*0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3686(ĞŸØ†ë*0øŞÒ÷º+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3782(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3785(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3799(è®œ—+0è®œ—+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3834(¸ÿè¾¢+0¸ÿè¾¢+:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3863(àï¢¨ú.0àï¢¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS3973(€½Ñ—™,0€½Ñ—™,:AXzmQU-ch6dI4sPCG5Pt9
+
+javascriptS4030(ÈŸËÊû+0ÈŸËÊû+:AXzmQU-ch6dI4sPCG5Pt3
+rubyS1313(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1135(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1134(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1871(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1110(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv2
+rubyS131(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pvf
+rubyS2068"1
+credentialWordspassword,passwd,pwd,passphrase(´ñÍÚ,0À†ÙüÖ.:AXzmQU-ch6dI4sPCG5Pv3
+rubyS4663(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1656(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1172(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1764(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1862(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1763(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1145(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1066(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS3923(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5PvD
+rubyS3776"
+	threshold15(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5PvC
+rubyS1192"
+	threshold3(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv:
+rubyParsingError(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pvo
+rubyS100";
+format1^(@{0,2}[\da-z_]+[!?=]?)|([*+-/%=!><~]+)|(\[]=?)$(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5PvQ
+rubyS101"
+format^[A-Z][a-zA-Z0-9]*$(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv<
+rubyS107"
+Max7(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv2
+rubyS108(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pvo
+rubyS117";
+format1^(@{0,2}[\da-z_]+[!?=]?)|([*+-/%=!><~]+)|(\[]=?)$(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1186(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5PvB
+rubyS1479"
+maximum30(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1481(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS1940(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS2757(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv3
+rubyS4144(´ñÍÚ,0´ñÍÚ,:AXzmQU-ch6dI4sPCG5Pv9
+
+jssecurityS5144( ÉÆ‹/0 ÉÆ‹/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5146( ÉÆ‹/0 ÉÆ‹/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5147(°ÙÖ«ğ.0°ÙÖ«ğ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS3649(øÑ–ğÍ.0øÑ–ğÍ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5131(ÈÑÖ«ğ.0ÈÑÖ«ğ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS2083( øß¬æ.0 øß¬æ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS6287(ˆö‡Ì/0ˆö‡Ì/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS2631(ˆ™Ô«ğ.0ˆ™Ô«ğ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5883(Ğ¹Æ‹/0Ğ¹Æ‹/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5696(Ø¼¦¨ú.0Ø¼¦¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS2076(øˆÄ‹/0øˆÄ‹/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS6105(¨Ï¥¨ú.0¨Ï¥¨ú.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS5334(˜áÖ«ğ.0˜áÖ«ğ.:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS6350(ø­í¹Ô/0ø­í¹Ô/:AXzmQU-ch6dI4sPCG5Pt9
+
+jssecurityS6096( òá¬æ.0 òá¬æ.:AXzmQU-ch6dI4sPCG5Pt;
+javasecurityS6384(¸±¹„é/0¸±¹„é/:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5144(ÛÀû¢-0ÛÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5146(ÛÀû¢-0ÛÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5135(€¤½éº-0€¤½éº-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS2078(ÛÀû¢-0ÛÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5145(¨ÓÀû¢-0¨ÓÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS3649(ÈòÀû¢-0ÈòÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5131(¨ÓÀû¢-0¨ÓÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS2083(ÛÀû¢-0ÛÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS6287(ØŠü‡Ì/0ØŠü‡Ì/:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS2091(øâÀû¢-0øâÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS2631( ¬Àû¢-0°‘ùÜ™.:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5883(ˆíò¹Ô/0ˆíò¹Ô/:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS2076(ØÃÀû¢-0ØÃÀû¢-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS5334(ğÕ¼éº-0ğÕ¼éº-:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS6350(È¥õ¹Ô/0È¥õ¹Ô/:AXzmQU-ch6dI4sPCG5P-;
+javasecurityS6096(ğ«©¨ú.0ğ«©¨ú.:AXzmQU-ch6dI4sPCG5P-F
+common-cobolDuplicatedBlocks(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS2589(ÀĞÂ‡Ë)0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1656(ø‰ş°—-0ø‰ş°—-:AXzmQU-ch6dI4sPCG5PeP
+cobol!COBOL.EvaluateStatementUsageCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1764(à³Ìäµ+0à³Ìäµ+:AXzmQU-ch6dI4sPCG5PeO
+cobol SQL.SelectWithNoWhereClauseCheck(˜ŸŸ­ö*0“ÚüÖ.:AXzmQU-ch6dI4sPCG5PeB
+cobolSQL.DynamicSqlCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1862(ØÈÂ‡Ë)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS4507(˜ºÚüÖ.0˜ºÚüÖ.:AXzmQU-ch6dI4sPCG5Pe4
+cobolS2583(ÀĞÂ‡Ë)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeC
+cobolS1302"
+maximum50(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeJ
+cobolCOBOL.RecursivePerformCheck(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pex
+cobolCOBOL.ParagraphComplexityCheck")
+#maximumParagraphComplexityThreshold20(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeJ
+cobolCOBOL.CommentedOutCodeCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3618(à³Ìäµ+0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3643(à‘ş°—-0à‘ş°—-:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1135(ø‰ş°—-0ø‰ş°—-:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1134(ø‰ş°—-0ø‰ş°—-:AXzmQU-ch6dI4sPCG5PeN
+cobolCOBOL.DataItemInitialValueCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS4882(à‘ş°—-0à‘ş°—-:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3671(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1138(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pe_
+cobolCOBOL.ProgramNameCheck"
+regexPatternString.*(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeM
+cobolCOBOL.MergeStatementUsageCheck(èšáÜï(0 ²áÜï(:AXzmQU-ch6dI4sPCG5PeÔ
+cobol COBOL.IfStatementFormattingCheck"
+stringtrue"
+unstringtrue"
+execDlitrue"
+deletetrue"
+computetrue"
+searchtrue"
+dividetrue"
+multiplytrue"
+
+iftrue"
+writetrue"
+addtrue"
+movetrue"
+readtrue"
+displaytrue"
+subtracttrue"
+xmlParsetrue"
+performtrue"
+starttrue"
+rewritetrue"
+accepttrue"
+calltrue"
+xmlGeneratetrue"
+evaluatetrue"
+returntrue(èšáÜï(0 ²áÜï(:AXzmQU-ch6dI4sPCG5Pe>
+cobolS1306"
+max5(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1305(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1303(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeE
+cobolS1631"
+
+max_tables4(˜ˆ ³„)0˜ˆ ³„):AXzmQU-ch6dI4sPCG5Pe4
+cobolS1871(ØÈÂ‡Ë)0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1110(È™ş°—-0È™ş°—-:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3892(à³Ìäµ+0à³Ìäµ+:AXzmQU-ch6dI4sPCG5PeN
+cobolSQL.CursorOpenedInsideLoopCheck(èšáÜï(0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1590(èÎ¿Ëá)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeD
+cobolS1192"
+	threshold3(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeL
+cobolCOBOL.SortStatementUsageCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5PeN
+cobolSQL.CursorClosedInsideLoopCheck(èšáÜï(0à³Ìäµ+:AXzmQU-ch6dI4sPCG5PeM
+cobolCOBOL.LinkageSectionUsageCheck(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3633(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3632(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5PeF
+cobolS3595"
+	threshold500(à” ÔÈ*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1739(˜ˆ ³„)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pek
+cobolCOBOL.ConditionComplexityCheck"
+maximumNumberOfOperands3(èšáÜï(0 ²áÜï(:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1735(˜ˆ ³„)0˜ˆ ³„):AXzmQU-ch6dI4sPCG5PeD
+cobolCOBOL.FileUnusedCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS4727(ø‰ş°—-0ø‰ş°—-:AXzmQU-ch6dI4sPCG5Pep
+cobolSQL.SelectStatementsNestedCheck" 
+maximumNestedLevelThreshold3(èšáÜï(0èÎ¿Ëá):AXzmQU-ch6dI4sPCG5PeG
+cobolSQL.SelectStarUsageCheck(€’¡®˜)0à³Ìäµ+:AXzmQU-ch6dI4sPCG5PeL
+cobolS1069"
+
+ExclusionsTRUNCATE(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1740(˜ˆ ³„)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3004(Œ®Ä¹*0Œ®Ä¹*:AXzmQU-ch6dI4sPCG5PeU
+cobol&COBOL.CopyInsideProcedureDivisionCheck(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1066(à’ƒ)0à’ƒ):AXzmQU-ch6dI4sPCG5Pe4
+cobolS3923(à‘ş°—-0à‘ş°—-:AXzmQU-ch6dI4sPCG5Pej
+cobolS3921"
+ignoredDataItemRegex "
+onlyLiteralValuesfalse(à³Ìäµ+0à³Ìäµ+:AXzmQU-ch6dI4sPCG5PeP
+cobol!SQL.CursorDeclaredInsideLoopCheck(èšáÜï(0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS4054(à‘ş°—-0à‘ş°—-:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3482(Œ®Ä¹*0Œ®Ä¹*:AXzmQU-ch6dI4sPCG5PeJ
+cobolCOBOL.ExitProgramUsageCheck(èšáÜï(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS2527(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5PeS
+cobol$COBOL.PerformThruParagraphOrderCheck(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3614(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5PeF
+cobolCOBOL.StopRunUsageCheck(˜ŸŸ­ö*0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1686(€’¡®˜)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3621(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1683(¸˜Ù±ñ(0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1682(˜ˆ ³„)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1969(à’ƒ)0à‘ş°—-:AXzmQU-ch6dI4sPCG5Pej
+cobolS1967"
+ignoredDataItemRegex "
+onlyLiteralValuesfalse(à’ƒ)0à³Ìäµ+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1725(˜ˆ ³„)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS1966(à’ƒ)0à’ƒ):AXzmQU-ch6dI4sPCG5Pe4
+cobolS1723(˜Š¡®˜)0˜ŸŸ­ö*:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3625(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3581(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5Pe4
+cobolS3582(èíñ–+0èíñ–+:AXzmQU-ch6dI4sPCG5PeI
+WebTableHeaderHasIdOrScopeCheck(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5PpC
+WebBoldAndItalicTagsCheck(¸˜Ù±ñ(0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5Pp2
+WebS1135(˜ïÃÙß,0˜ïÃÙß,:AXzmQU-ch6dI4sPCG5Pp2
+WebS1134(˜ïÃÙß,0˜ïÃÙß,:AXzmQU-ch6dI4sPCG5Pp2
+WebS4645(˜ïÃÙß,0˜ïÃÙß,:AXzmQU-ch6dI4sPCG5Pp2
+WebS5256(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5Pp2
+WebS5255(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5Pp2
+WebS5258(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5Pp2
+WebS5257(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5PpB
+WebPageWithoutTitleCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PpC
+WebFrameWithoutTitleCheck(°Ë–«ÿ*0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5Pp2
+WebS5254(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5PpH
+WebUnsupportedTagsInHtml5Check(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pp2
+WebS5148(èÑ–£Ë-0¸á¼İ.:AXzmQU-ch6dI4sPCG5Pp2
+WebS1827(€¥³„)0€¥³„):AXzmQU-ch6dI4sPCG5Pp2
+WebS5264(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5Pp2
+WebS5260(èÑ–£Ë-0èÑ–£Ë-:AXzmQU-ch6dI4sPCG5Pp=
+WebMetaRefreshCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5Pp?
+WebImgWithoutAltCheck(¸˜Ù±ñ(0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5Pp2
+WebS5725(€Ê¼İ.0€Ê¼İ.:AXzmQU-ch6dI4sPCG5Pp=
+WebLinkToImageCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PpG
+WebFieldsetWithoutLegendCheck(°Ë–«ÿ*0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5PpE
+WebTableWithoutCaptionCheck(˜Â–£Ë-0˜Â–£Ë-:AXzmQU-ch6dI4sPCG5PpG
+WebAvoidCommentedOutCodeCheck(èšáÜï(0ˆºáÜï(:AXzmQU-ch6dI4sPCG5PpA
+WebDoctypePresenceCheck(¸˜Ù±ñ(0  Ù±ñ(:AXzmQU-ch6dI4sPCG5PpM
+Web FlashUsesBothObjectAndEmbedCheck(¸˜Ù±ñ(0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5PpN
+Web!ItemTagNotWithinContainerTagCheck(¸˜Ù±ñ(0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5Pp2
+WebS4084(˜ïÃÙß,0˜ïÃÙß,:AXzmQU-ch6dI4sPCG5PpE
+WebServerSideImageMapsCheck(¸˜Ù±ñ(0°Ë–«ÿ*:AXzmQU-ch6dI4sPCG5Pp2
+phpS1135(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS4524(†ƒÿÎ,0†ƒÿÎ,:AXzmQU-ch6dI4sPCG5P42
+phpS5855(øáİÃ¾/0øáİÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS1134(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS5850( ÄÍğÇ/0 ÄÍğÇ/:AXzmQU-ch6dI4sPCG5P42
+phpS5857(¸³ĞğÇ/0¸³ĞğÇ/:AXzmQU-ch6dI4sPCG5P42
+phpS1940(ØıÆ£§.0ØıÆ£§.:AXzmQU-ch6dI4sPCG5P42
+phpS2115(†ƒÿÎ,0†ƒÿÎ,:AXzmQU-ch6dI4sPCG5P42
+phpS2234(˜ÂÅ£§.0˜ÂÅ£§.:AXzmQU-ch6dI4sPCG5P42
+phpS1145(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1144(€ƒ)0€ƒ):AXzmQU-ch6dI4sPCG5P42
+phpS1264(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P4<
+phpS1142"
+max3(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS5863(Ğƒ·ÿÀ.0Ğƒ·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS5869(¨ÆáÃ¾/0¨ÆáÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS5868(øÕáÃ¾/0øÕáÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS6396(°ÊõÆï/0°ÊõÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS6395(€ÚõÆï/0€ÚõÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS6035(øØàÃ¾/0øØàÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS6397( …òÆï/0 …òÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS6393(¸ñõÆï/0¸ñõÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS1599(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS2201(ÀÊùè€,0ÀÊùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS5713(Èß‰ü¸.0Èß‰ü¸.:AXzmQU-ch6dI4sPCG5P42
+phpS4502(Ş ô†/0Ş ô†/:AXzmQU-ch6dI4sPCG5P42
+phpS1110(¨Òùè€,0¨Òùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS2681(¸Äáø*0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS3415(¸‹·ÿÀ.0¸‹·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS1117(˜¦°Â„+0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS4507(øƒÿÎ,0À½­ò .:AXzmQU-ch6dI4sPCG5P42
+phpS1116(èšáÜï(0¸Äáø*:AXzmQU-ch6dI4sPCG5P42
+phpS6002(ˆÃĞğÇ/0ˆÃĞğÇ/:AXzmQU-ch6dI4sPCG5P42
+phpS6001(ØÒĞğÇ/0ØÒĞğÇ/:AXzmQU-ch6dI4sPCG5P4G
+phpS5843"
+maxComplexity20(¨âĞğÇ/0¨âĞğÇ/:AXzmQU-ch6dI4sPCG5P42
+phpS6019(êĞğÇ/0êĞğÇ/:AXzmQU-ch6dI4sPCG5P42
+phpS1126(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS2699(¸‹·ÿÀ.0¸‹·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS5842(˜øàÃ¾/0˜øàÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS1125(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1488(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1481(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS5042(øå ô†/0øå ô†/:AXzmQU-ch6dI4sPCG5P42
+phpS3358(¸£ùè€,0¸£ùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS5779( “·ÿÀ.0 “·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS1854(È¦ˆÆî,0È¦ˆÆî,:AXzmQU-ch6dI4sPCG5P42
+phpS1172(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1862(è ©ÈÏ)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1068(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS5547(°¿•É².0°¿•É².:AXzmQU-ch6dI4sPCG5P42
+phpS5542(°¿•É².0Ğ€—’/:AXzmQU-ch6dI4sPCG5P42
+phpS1066(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1186(À…Ç£§.0À…Ç£§.:AXzmQU-ch6dI4sPCG5P42
+phpS5785(ˆ›·ÿÀ.0ˆ›·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS1185(€ƒ)0€ƒ):AXzmQU-ch6dI4sPCG5P42
+phpS3923(Úùè€,0Úùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS3801(¸»Ï…†-0¸»Ï…†-:AXzmQU-ch6dI4sPCG5P41
+phpS836(ØÂùè€,0ØÂùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS3360(ˆ›·ÿÀ.0ˆ›·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS5876(ˆ‰–êõ.0ˆ‰–êõ.:AXzmQU-ch6dI4sPCG5P42
+phpS3699(ÀÊùè€,0ÀÊùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS4423(øƒÿÎ,0Ø¶€—’/:AXzmQU-ch6dI4sPCG5P42
+phpS5996( ŸáÃ¾/0 ŸáÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS4426(øƒÿÎ,0ğ®€—’/:AXzmQU-ch6dI4sPCG5P42
+phpS2245(°®ˆÆî,0°®ˆÆî,:AXzmQU-ch6dI4sPCG5P4<
+phpS2004"
+max3(˜¦°Â„+0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1155(¨Ç£§.0¨Ç£§.:AXzmQU-ch6dI4sPCG5P41
+phpS131(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS2123(¨Òùè€,0¨Òùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS3330( ÃÏ…†-0˜É•ùï-:AXzmQU-ch6dI4sPCG5P42
+phpS5632(˜é‹ü¸.0˜é‹ü¸.:AXzmQU-ch6dI4sPCG5P42
+phpS5994(ğ®áÃ¾/0ğ®áÃ¾/:AXzmQU-ch6dI4sPCG5P41
+phpS127(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS2014(€ƒ)0€ƒ):AXzmQU-ch6dI4sPCG5P42
+phpS1045(€ñ‹ü¸.0€ñ‹ü¸.:AXzmQU-ch6dI4sPCG5P42
+phpS2010(€ƒ)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS4433(øƒÿÎ,0øƒÿÎ,:AXzmQU-ch6dI4sPCG5P42
+phpS1607( “·ÿÀ.0 “·ÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS1848(è ©ÈÏ)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1605(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1603(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS5527(È·•É².0È·•É².:AXzmQU-ch6dI4sPCG5P42
+phpS1600(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS4790(ˆËÏ…†-0ˆËÏ…†-:AXzmQU-ch6dI4sPCG5P42
+phpS2251(àéùè€,0àéùè€,:AXzmQU-ch6dI4sPCG5P41
+phpS930(ï˜¨Ã.0ï˜¨Ã.:AXzmQU-ch6dI4sPCG5P42
+phpS5332(¨±“êõ.0¨±“êõ.:AXzmQU-ch6dI4sPCG5P4Z
+phpS2068"&
+credentialWordspassword,passwd,pwd(È¬ÀËá)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P41
+phpS112(Èüõ§Í)0Èüõ§Í):AXzmQU-ch6dI4sPCG5P42
+phpS2187(Ø°µÿÀ.0Ø°µÿÀ.:AXzmQU-ch6dI4sPCG5P42
+phpS1656(€™©ÈÏ)0€™©ÈÏ):AXzmQU-ch6dI4sPCG5P41
+phpS905(¸Äáø*0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P41
+phpS907(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P4R
+phpS5693"
+fileUploadSizeLimit8000000(èé•êõ.0èé•êõ.:AXzmQU-ch6dI4sPCG5P4P
+phpS107"
+max7"
+constructorMax7(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P41
+phpS108(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1301(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P41
+phpS121(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS2077(Ğ³Ï…†-0ğ¾ ô†/:AXzmQU-ch6dI4sPCG5P42
+phpS2757(øáùè€,0øáùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS1788(°÷¢³„)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS2755(ğ–êõ.0ğ–êõ.:AXzmQU-ch6dI4sPCG5P4P
+phpS114"
+format^[A-Z][a-zA-Z0-9]*$(È¬ÀËá)0È¬ÀËá):AXzmQU-ch6dI4sPCG5P4Z
+phpS115"'
+format^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1751(°®ˆÆî,0°®ˆÆî,:AXzmQU-ch6dI4sPCG5P42
+phpS1871(è ©ÈÏ)0ğº›¿¦,:AXzmQU-ch6dI4sPCG5P42
+phpS2166(ØıÆ£§.0ØıÆ£§.:AXzmQU-ch6dI4sPCG5P42
+phpS3011(¸»Ï…†-0ˆ¦­ò .:AXzmQU-ch6dI4sPCG5P42
+phpS1998(€ƒ)0€ƒ):AXzmQU-ch6dI4sPCG5P42
+phpS2041(€ƒ)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P4_
+phpS1192"
+minimal_literal_length5"
+	threshold3(èšáÜï(0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1764(è ©ÈÏ)0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS1763(€ƒ)0€ƒ):AXzmQU-ch6dI4sPCG5P42
+phpS5328(ğÎŸç§-0Ğä“É².:AXzmQU-ch6dI4sPCG5P4P
+phpS101"
+format^[A-Z][a-zA-Z0-9]*$(èšáÜï(0¸Äáø*:AXzmQU-ch6dI4sPCG5P42
+phpS2737( «ùè€,0 «ùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS2612(Ğñ•êõ.0Ğñ•êõ.:AXzmQU-ch6dI4sPCG5P42
+phpS1523(èšáÜï(0¸Äáø*:AXzmQU-ch6dI4sPCG5P42
+phpS2053(øƒÿÎ,0øƒÿÎ,:AXzmQU-ch6dI4sPCG5P4E
+phpS6349"
+customOptions (èÃ’Èµ/0èÃ’Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS1697(¸Äáø*0˜¦°Â„+:AXzmQU-ch6dI4sPCG5P42
+phpS6348(à“•Èµ/0à“•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6345(ĞÂ•Èµ/0ĞÂ•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6344(¸Ê•Èµ/0¸Ê•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6347(°£•Èµ/0°£•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6346(€³•Èµ/0€³•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6341(Øé•Èµ/0Øé•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS6343(ˆÚ•Èµ/0ˆÚ•Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS5708(àÑ‹ü¸.0àÑ‹ü¸.:AXzmQU-ch6dI4sPCG5P42
+phpS1109(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P42
+phpS1226(À…Ç£§.0À…Ç£§.:AXzmQU-ch6dI4sPCG5P42
+phpS6353(ø¯öÆï/0ø¯öÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS1313(°®ˆÆî,0°®ˆÆî,:AXzmQU-ch6dI4sPCG5P42
+phpS6326(ĞæöÆï/0ĞæöÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS5911(°á‹ü¸.0°á‹ü¸.:AXzmQU-ch6dI4sPCG5P42
+phpS3972(ÀÊùè€,0ÀÊùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS6328(˜ÏöÆï/0˜ÏöÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS3973(ÀÊùè€,0ÀÊùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS6323(ˆşöÆï/0ˆşöÆï/:AXzmQU-ch6dI4sPCG5P42
+phpS4144(¨Òùè€,0¨Òùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS2761(À…Ç£§.0À…Ç£§.:AXzmQU-ch6dI4sPCG5P42
+phpS4824(€Ï•É².0€Ï•É².:AXzmQU-ch6dI4sPCG5P42
+phpS4143(¨Ç£§.0¨Ç£§.:AXzmQU-ch6dI4sPCG5P42
+phpS4830(°®ˆÆî,0°®ˆÆî,:AXzmQU-ch6dI4sPCG5P42
+phpS3984(àéùè€,0àéùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS6339(øˆ–Èµ/0øˆ–Èµ/:AXzmQU-ch6dI4sPCG5P42
+phpS3981(àéùè€,0àéùè€,:AXzmQU-ch6dI4sPCG5P42
+phpS5808( –êõ.0 –êõ.:AXzmQU-ch6dI4sPCG5P42
+phpS3626(È¦ˆÆî,0È¦ˆÆî,:AXzmQU-ch6dI4sPCG5P42
+phpS5361(ÈåáÃ¾/0ÈåáÃ¾/:AXzmQU-ch6dI4sPCG5P42
+phpS5122(Ø˜–êõ.0Ø˜–êõ.:AXzmQU-ch6dI4sPCG5P42
+phpS6331(¨÷Æï/0¨÷Æï/:AXzmQU-ch6dI4sPCG5P42
+phpS2092(øƒÿÎ,0øƒÿÎ,:AXzmQU-ch6dI4sPCG5P42
+phpS4792(ˆËÏ…†-0ˆËÏ…†-:AXzmQU-ch6dI4sPCG5P42
+phpS1075(¨Òùè€,0¨Òùè€,:AXzmQU-ch6dI4sPCG5P41
+phpS125(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P4=
+phpS138"
+
+max150(èšáÜï(0€™©ÈÏ):AXzmQU-ch6dI4sPCG5P4P
+phpS110"
+filteredClasses "
+max5(õ–¨Ã.0õ–¨Ã.:AXzmQU-ch6dI4sPCG5P42
+phpS4828(ˆËÏ…†-0ˆËÏ…†-:AXzmQU-ch6dI4sPCG5P4C
+phpS3776"
+	threshold15(èÂ«à­+0èÂ«à­+:AXzmQU-ch6dI4sPCG5P4o
+phpS1448"
+maximumMethodThreshold20"
+countNonpublicMethodstrue(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5P4=
+phpS1479"	
+max30(èšáÜï(0€™©ÈÏ):AXzmQU-ch6dI4sPCG5P48
+	terraformS6327(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS4423(¨Ëâ‘Ó/0¨Ëâ‘Ó/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6304(˜áÊ³Â/0˜áÊ³Â/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6249(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6329(˜áÊ³Â/0˜áÊ³Â/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6388(Ø¥õÖé/0Ø¥õÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6245(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS5332(àââ‘Ó/0àââ‘Ó/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6303(ˆÑÑš¾/0ˆÑÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6302(°ÙÊ³Â/0°ÙÊ³Â/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6308(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6385(Ø¥õÖé/0Ø¥õÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6387(Ø¥õÖé/0Ø¥õÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6321(°ÙÊ³Â/0°ÙÊ³Â/:AXzmQU-ch6dI4sPCG5P2X
+	terraformS6364"
+backup_retention_duration7(Èêâ‘Ó/0Èêâ‘Ó/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6265(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6381(ğõÖé/0ğõÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6380(ğõÖé/0ğõÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6281(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6383(Ø¥õÖé/0Ø¥õÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6382(Ø¥õÖé/0Ø¥õÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6317(˜áÊ³Â/0˜áÊ³Â/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6378(Ø¨ôÖé/0Ø¨ôÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6333(ºÊ³Â/0ºÊ³Â/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6379(ğõÖé/0ğõÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6258(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6319(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6330(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6275(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6252(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6255(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6332(¨ğÑš¾/0¨ğÑš¾/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6375(ğõÖé/0ğõÖé/:AXzmQU-ch6dI4sPCG5P28
+	terraformS6270(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P2h
+	terraformS6273".
+format$^([A-Z][A-Za-z]*:)*([A-Z][A-Za-z]*)$(¸Ò©®/0¸Ò©®/:AXzmQU-ch6dI4sPCG5P23
+abapS4721(Èé„à²-0à÷ÇÜÛ.:AXzmQU-ch6dI4sPCG5PwX
+abapS1545"#
+format[A-Z0-9_-]++|[a-z0-9_-]++(øƒíçñ*0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw[
+abapS2068"&
+credentialWordspassword,passwd,pwd(Èé„à²-0Èé„à²-:AXzmQU-ch6dI4sPCG5Pw3
+abapS1494(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1493(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1739(ãÁ‡Ë)0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1656(øƒíçñ*0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1138(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1862(øƒíçñ*0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS3643(ˆçòéì+0°çË¢«,:AXzmQU-ch6dI4sPCG5Pw3
+abapS1066(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1508(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1506(èšáÜï(0 ßòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS3923(ˆçòéì+0ˆçòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1313(àá„à²-0àá„à²-:AXzmQU-ch6dI4sPCG5Pw3
+abapS5117(àá„à²-0àá„à²-:AXzmQU-ch6dI4sPCG5Pw3
+abapS1751( ßòéì+0 ßòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1871(øƒíçñ*0ˆçòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1673(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS5118(àá„à²-0àá„à²-:AXzmQU-ch6dI4sPCG5Pw3
+abapS1110(¸×òéì+0¸×òéì+:AXzmQU-ch6dI4sPCG5Pw2
+abapS131(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS5115(àá„à²-0àá„à²-:AXzmQU-ch6dI4sPCG5Pw<
+abapS134"
+max3(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1512(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1764(øƒíçñ*0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1487(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1486(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS4790(Èé„à²-0Èé„à²-:AXzmQU-ch6dI4sPCG5Pw3
+abapS4524(Ø¡ÈÙß,0Ø¡ÈÙß,:AXzmQU-ch6dI4sPCG5Pw3
+abapS1492(èšáÜï(0¨àÇÜÛ.:AXzmQU-ch6dI4sPCG5PwX
+abapS1543"#
+format^([A-Z0-9_]*|[a-z0-9_]*)$(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5PwX
+abapS1542"#
+format^([A-Z0-9_]*|[a-z0-9_]*)$(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1511(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1301(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5Pw2
+abapS125(øêÁ‡Ë)0øêÁ‡Ë):AXzmQU-ch6dI4sPCG5Pw2
+abapS108(Øº„à²-0Øº„à²-:AXzmQU-ch6dI4sPCG5PwD
+abapS3776"
+	threshold60(ˆçòéì+0ˆçòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1238(üìçñ*0üìçñ*:AXzmQU-ch6dI4sPCG5PwW
+abapS100"#
+format^([A-Z0-9_]*|[a-z0-9_]*)$(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5PwW
+abapS101"#
+format^([A-Z0-9_]*|[a-z0-9_]*)$(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1139(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5PwO
+abapS114"
+format^(YIF_[A-Za-z]+)$(èšáÜï(0üìçñ*:AXzmQU-ch6dI4sPCG5PwC
+abapS1192"
+	threshold3(üìçñ*0üìçñ*:AXzmQU-ch6dI4sPCG5Pw2
+abapS135(èšáÜï(0¸×òéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1481(¸×òéì+0¸×òéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1485(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1491(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1496(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1499(èšáÜï(0 ßòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1500(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS1501(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1502(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1505(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1507(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1540(èšáÜï(0àğáÜï(:AXzmQU-ch6dI4sPCG5PwX
+abapS1544"#
+format^([A-Z0-9_]*|[a-z0-9_]*)$(èšáÜï(0øƒíçñ*:AXzmQU-ch6dI4sPCG5PwA
+abapS1597"
+Maximum3(ãÁ‡Ë)0ãÁ‡Ë):AXzmQU-ch6dI4sPCG5Pw3
+abapS1669(èúÆ•”)0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1670(øƒíçñ*0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS1675(èšáÜï(0 ßòéì+:AXzmQU-ch6dI4sPCG5Pw3
+abapS1715(èšáÜï(0ÈøáÜï(:AXzmQU-ch6dI4sPCG5Pw3
+abapS2240(ãÁ‡Ë)0ãÁ‡Ë):AXzmQU-ch6dI4sPCG5Pw3
+abapS2242(ãÁ‡Ë)0ãÁ‡Ë):AXzmQU-ch6dI4sPCG5Pw3
+abapS2243(ãÁ‡Ë)0øƒíçñ*:AXzmQU-ch6dI4sPCG5Pw3
+abapS3626(ğ™ÈÙß,0ğ™ÈÙß,:AXzmQU-ch6dI4sPCG5Pw3
+abapS3633(ˆçòéì+0ˆçòéì+:AXzmQU-ch6dI4sPCG5Pw3
+objcS6069(à•Ãİ.0à•Ãİ.:AXzmQU-ch6dI4sPCG5P8;
+objcCommentedCode(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1768(¨ÎØ*0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2665(øäÃ‡Ë)0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS3807(€äıêñ-0€äıêñ-:AXzmQU-ch6dI4sPCG5P82
+objcS935( ƒÖ§/0 ƒÖ§/:AXzmQU-ch6dI4sPCG5P83
+objcS5332(øÃİ.0øÃİ.:AXzmQU-ch6dI4sPCG5P83
+objcS2068(Øåí¬æ.0Øåí¬æ.:AXzmQU-ch6dI4sPCG5P83
+objcS1763(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1135(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1134(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1133(À†ÎØ*0À†ÎØ*:AXzmQU-ch6dI4sPCG5P83
+objcS5978(à¸¡ğÍ.0à¸¡ğÍ.:AXzmQU-ch6dI4sPCG5P8;
+objcTrigraphUsage(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5297(È‹œ¾§-0È‹œ¾§-:AXzmQU-ch6dI4sPCG5P8r
+objcSingleGotoOrBreakPerIteration"%
+ maxNumberOfTerminationStatements1(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5293(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5501(°è·û÷-0°è·û÷-:AXzmQU-ch6dI4sPCG5P83
+objcS3689(è„……ì*0è„……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2479(¨ıÓ—™,0è“¿«ü,:AXzmQU-ch6dI4sPCG5P83
+objcS2234( îô·î+0 îô·î+:AXzmQU-ch6dI4sPCG5P83
+objcS3687(¨şÂİ.0¨şÂİ.:AXzmQU-ch6dI4sPCG5P83
+objcS5982(©¡ğÍ.0©¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS1144(È‹œ¾§-0È‹œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS1264(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1143(À†ÎØ*0è“¿«ü,:AXzmQU-ch6dI4sPCG5P83
+objcS1141(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P8P
+objcS1820"
+maximumFieldThreshold20(©ú™*0©ú™*:AXzmQU-ch6dI4sPCG5P8G
+objcNarrowAndWideStringConcat(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P82
+objcS872(À†ÎØ*0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P82
+objcS995(€äıêñ-0€äıêñ-:AXzmQU-ch6dI4sPCG5P82
+objcS876(°§â©Ä)0°§â©Ä):AXzmQU-ch6dI4sPCG5P82
+objcS878(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5832(ÈÀ¡ğÍ.0ÈÀ¡ğÍ.:AXzmQU-ch6dI4sPCG5P8f
+objcS3776"1
++maximumFunctionCognitiveComplexityThreshold25(¸âô¾«+0¸âô¾«+:AXzmQU-ch6dI4sPCG5P83
+objcS5955(ÈÀ¡ğÍ.0ÈÀ¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS2323(Øä©ç¶)0Ğ›¿«ü,:AXzmQU-ch6dI4sPCG5P83
+objcS5278(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS1110(¡Íäµ+0¡Íäµ+:AXzmQU-ch6dI4sPCG5P83
+objcS2681(ĞóÈˆæ+0ĞóÈˆæ+:AXzmQU-ch6dI4sPCG5P83
+objcS5279(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS1117(Ğ’¢Ç’-0Ğ’¢Ç’-:AXzmQU-ch6dI4sPCG5P8B
+objcS1479"
+maximum30(Øä©ç¶)0Øä©ç¶):AXzmQU-ch6dI4sPCG5P83
+objcS1116(˜ —ûú(0€°Á½+:AXzmQU-ch6dI4sPCG5P82
+objcS969(Øä©ç¶)0€°Á½+:AXzmQU-ch6dI4sPCG5P83
+objcS1905(°Í®è©.0°Í®è©.:AXzmQU-ch6dI4sPCG5P82
+objcS961(Øä©ç¶)0Øä©ç¶):AXzmQU-ch6dI4sPCG5P83
+objcS5273(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5276(°Í®è©.0°Í®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS5271(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS1123(€¬ğ–‡+0€¬ğ–‡+:AXzmQU-ch6dI4sPCG5P82
+objcS860(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5847(ÈÀ¡ğÍ.0ÈÀ¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS5849(ÈÀ¡ğÍ.0ÈÀ¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS2216(˜¯â©Ä)0˜¯â©Ä):AXzmQU-ch6dI4sPCG5P82
+objcS859(€äıêñ-0€äıêñ-:AXzmQU-ch6dI4sPCG5P8C
+objcInvalidEscapeSequence(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1481(°á¾³­*0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS5042(ˆÖí¬æ.0ˆÖí¬æ.:AXzmQU-ch6dI4sPCG5P83
+objcS5281(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5280(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5283(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P82
+objcS977(Øä©ç¶)0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS3358( ¥®œ—+0 ¥®œ—+:AXzmQU-ch6dI4sPCG5P83
+objcS5658(°è·û÷-0°è·û÷-:AXzmQU-ch6dI4sPCG5P83
+objcS3231(À†ÎØ*0À†ÎØ*:AXzmQU-ch6dI4sPCG5P8I
+objcPPBackslashNotLastCharacter(€¨—ûú(0¸”……ì*:AXzmQU-ch6dI4sPCG5P8D
+objcGotoLabelInNestedBlock(€¨—ûú(0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1854(ˆ§ÈÏ°*0ˆ§ÈÏ°*:AXzmQU-ch6dI4sPCG5P82
+objcS946(Øõ”İ‡.0Øõ”İ‡.:AXzmQU-ch6dI4sPCG5P83
+objcS1172(Ğ’¢Ç’-0Ğ’¢Ç’-:AXzmQU-ch6dI4sPCG5P8G
+objcAssignmentInSubExpression(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P82
+objcS820(°§â©Ä)0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS3590(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P82
+objcS824(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1862(˜ —ûú(0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS5547(à•Ãİ.0à•Ãİ.:AXzmQU-ch6dI4sPCG5P83
+objcS5542(øÃİ.0È‚—’/:AXzmQU-ch6dI4sPCG5P83
+objcS3486(Àı¶ã©*0•İ‡.:AXzmQU-ch6dI4sPCG5P83
+objcS1066(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1186(ÀĞ¡®˜)0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1065(ˆ·•†°)0ˆ·•†°):AXzmQU-ch6dI4sPCG5P83
+objcS3485(¨…·ã©*0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2275(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS3806(¸ûÈˆæ+0¸ûÈˆæ+:AXzmQU-ch6dI4sPCG5P8õ
+objcNonReentrantFunction"°
+nonReentrantFunctionList“asctime,crypt,ctermid,ctime,fgetgrent,fgetpwent,fgetspent,getgrent,getgrgid,getgrnam,gethostbyaddr,gethostbyname,gethostbyname2,gethostent,getlogin,getnetbyaddr,getnetbyname,getnetent,getnetgrent,getprotobyname,getprotobynumber,getprotoent,getpwent,getpwnam,getpwuid,getrpcbyname,getrpcbynumber,getrpcent,getservbyname,getservbyport,getservent,getspent,getspnam,gmtime,localtime,sgetspent,strtok,ttyname(€¨—ûú(0Àíí¬æ.:AXzmQU-ch6dI4sPCG5P83
+objcS5308(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS3923(¡Íäµ+0¡Íäµ+:AXzmQU-ch6dI4sPCG5P83
+objcS1986(•İ‡.0•İ‡.:AXzmQU-ch6dI4sPCG5P82
+objcS836(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P8;
+objcLiteralSuffix(€¨—ûú(0è„……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS5782(à«Ø†œ.0à«Ø†œ.:AXzmQU-ch6dI4sPCG5P83
+objcS3457(øû›¾§-0øû›¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS3458(À¬ÌÏÌ*0À¬ÌÏÌ*:AXzmQU-ch6dI4sPCG5P8D
+objcEmptyCompoundStatement(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS4426(ØîÂİ.0 ™‚—’/:AXzmQU-ch6dI4sPCG5P83
+objcS2245(¸Æí¬æ.0¸Æí¬æ.:AXzmQU-ch6dI4sPCG5P83
+objcS1036(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS2486(€ı„…ì*0ÀŒØ†œ.:AXzmQU-ch6dI4sPCG5P83
+objcS2123(ğıô·î+0ğıô·î+:AXzmQU-ch6dI4sPCG5P8<
+objcS134"
+max3(¨…•İ‡.0¨…•İ‡.:AXzmQU-ch6dI4sPCG5P83
+objcS1836(€¨—ûú(0è„……ì*:AXzmQU-ch6dI4sPCG5P8:
+objcDigraphUsage(˜ —ûú(0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1831(è„……ì*0è„……ì*:AXzmQU-ch6dI4sPCG5P8>
+objcFunctionEllipsis(˜ —ûú(0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2259(˜Üıêñ-0˜Üıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS3588(˜Üıêñ-0˜Üıêñ-:AXzmQU-ch6dI4sPCG5P8P
+objcS3222"
+format^[A-Z][A-Z0-9_]*$(¨…•İ‡.0¨…•İ‡.:AXzmQU-ch6dI4sPCG5P83
+objcS3584(˜Üıêñ-0˜Üıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS1163(À†ÎØ*0€°Á½+:AXzmQU-ch6dI4sPCG5P82
+objcS936(°§â©Ä)0€°Á½+:AXzmQU-ch6dI4sPCG5P82
+objcS814(°§â©Ä)0¸”……ì*:AXzmQU-ch6dI4sPCG5P82
+objcS819(˜¯â©Ä)0˜¯â©Ä):AXzmQU-ch6dI4sPCG5P83
+objcS4790(ĞŠË°ï.0ĞŠË°ï.:AXzmQU-ch6dI4sPCG5P8<
+objcS110"
+max5(àÕ£œ¥*0àÕ£œ¥*:AXzmQU-ch6dI4sPCG5P8D
+objcEllipsisHandlerNotLast(˜ —ûú(0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1656(ĞŒ……ì*0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P82
+objcS905(Øä©ç¶)0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS5570(°è·û÷-0°è·û÷-:AXzmQU-ch6dI4sPCG5P8<
+objcS107"
+max7(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS2753(øäÃ‡Ë)0è“¿«ü,:AXzmQU-ch6dI4sPCG5P83
+objcS2754(İÃ‡Ë)0İÃ‡Ë):AXzmQU-ch6dI4sPCG5P83
+objcS1301(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P8P
+objc"SideEffectInRightHandSideOfLogical(€¨—ûú(0òêÂÈ+:AXzmQU-ch6dI4sPCG5P83
+objcS3729(€¬ğ–‡+0€¬ğ–‡+:AXzmQU-ch6dI4sPCG5P8:
+objcPPUndefUsage(€¨—ûú(0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS3728(€¬ğ–‡+0€¬ğ–‡+:AXzmQU-ch6dI4sPCG5P83
+objcS2757(à¡çì³*0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2637(˜Üıêñ-0˜Üıêñ-:AXzmQU-ch6dI4sPCG5P8B
+objcSwitchLabelPlacement(€¨—ûú(0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P8G
+objcEnumPartialInitialization(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS2193(ÈŸâ©Ä)0€ı„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2190(È‹œ¾§-0È‹œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS1874(¨ÎØ*0¨ÎØ*:AXzmQU-ch6dI4sPCG5P83
+objcS5798(à¡è§°.0à¡è§°.:AXzmQU-ch6dI4sPCG5P83
+objcS5314(°Í®è©.0°Í®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS1751(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1871(øÎˆÄ™)0¡Íäµ+:AXzmQU-ch6dI4sPCG5P83
+objcS1079(˜ —ûú(0˜ —ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS1199(€¨—ûú(0è„……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1198(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS3936(¡Íäµ+0¡Íäµ+:AXzmQU-ch6dI4sPCG5P8K
+objcSingleDeclarationPerStatement(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS3935(¡Íäµ+0¡Íäµ+:AXzmQU-ch6dI4sPCG5P83
+objcS3491(Àı¶ã©*0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1764(˜ —ûú(0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1762(•İ‡.0•İ‡.:AXzmQU-ch6dI4sPCG5P83
+objcS1761(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5443(Øåí¬æ.0Øåí¬æ.:AXzmQU-ch6dI4sPCG5P83
+objcS3949(°“œ¾§-0°“œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS2737(˜õ„…ì*0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2738(øìõ§Í)0¸”……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS1767(°§â©Ä)0è„……ì*:AXzmQU-ch6dI4sPCG5P83
+objcS2612(°È¡ğÍ.0°È¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS1081(˜ —ûú(0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS5259(€£œ¾§-0€£œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS3518(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS3519(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS1219(øÎˆÄ™)0€°Á½+:AXzmQU-ch6dI4sPCG5P83
+objcS5814(˜Õ®è©.0˜Õ®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS5813(†Ãİ.0†Ãİ.:AXzmQU-ch6dI4sPCG5P83
+objcS5816(˜Õ®è©.0˜Õ®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS5815(˜Õ®è©.0˜Õ®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS2668(øäÃ‡Ë)0øäÃ‡Ë):AXzmQU-ch6dI4sPCG5P83
+objcS5494(°è·û÷-0°è·û÷-:AXzmQU-ch6dI4sPCG5P8C
+objcObsoletePosixFunction(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5491(àØ·û÷-0àØ·û÷-:AXzmQU-ch6dI4sPCG5P83
+objcS1103(€¨—ûú(0€°Á½+:AXzmQU-ch6dI4sPCG5P83
+objcS5267(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5266(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS3520(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS3529(èëıêñ-0èëıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5825(˜Õ®è©.0˜Õ®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS5824(˜Õ®è©.0øÜ£ô†/:AXzmQU-ch6dI4sPCG5P83
+objcS3646(¨­ú¼à*0¨­ú¼à*:AXzmQU-ch6dI4sPCG5P8>
+objcPPBadIncludeForm(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS5263(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5262(˜›œ¾§-0˜›œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5261(€£œ¾§-0€£œ¾§-:AXzmQU-ch6dI4sPCG5P83
+objcS5381(È³Ø†œ.0È³Ø†œ.:AXzmQU-ch6dI4sPCG5P83
+objcS1313(ğ©Ë°ï.0ğ©Ë°ï.:AXzmQU-ch6dI4sPCG5P83
+objcS3972(ĞóÈˆæ+0ĞóÈˆæ+:AXzmQU-ch6dI4sPCG5P83
+objcS3730(€¬ğ–‡+0€¬ğ–‡+:AXzmQU-ch6dI4sPCG5P83
+objcS3973(°•¡ÆØ+0°•¡ÆØ+:AXzmQU-ch6dI4sPCG5P8L
+objcPPIncludeNonStandardCharacters(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P83
+objcS4144( îô·î+0 îô·î+:AXzmQU-ch6dI4sPCG5P83
+objcS2761(øäÃ‡Ë)0øäÃ‡Ë):AXzmQU-ch6dI4sPCG5P8B
+objcSwitchWithoutDefault(€¨—ûú(0ĞŒ……ì*:AXzmQU-ch6dI4sPCG5P8?
+objcPPIncludeNotAtTop(€¨—ûú(0€¨—ûú(:AXzmQU-ch6dI4sPCG5P8F
+objcNonEmptyCaseWithoutBreak(€¨—ûú(0€°Á½+:AXzmQU-ch6dI4sPCG5P82
+objcS886(¨…•İ‡.0°È¡ğÍ.:AXzmQU-ch6dI4sPCG5P83
+objcS6200(°¥¢¿É/0°¥¢¿É/:AXzmQU-ch6dI4sPCG5P83
+objcS4143(Ø…õ·î+0Ø…õ·î+:AXzmQU-ch6dI4sPCG5P8>
+objcBackJumpWithGoto(˜ —ûú(0˜õ„…ì*:AXzmQU-ch6dI4sPCG5P83
+objcS4830(†Ãİ.0†Ãİ.:AXzmQU-ch6dI4sPCG5P83
+objcS3744(€¬ğ–‡+0€¬ğ–‡+:AXzmQU-ch6dI4sPCG5P83
+objcS5801(øµ®è©.0øµ®è©.:AXzmQU-ch6dI4sPCG5P83
+objcS5487(°Ôıêñ-0°Ôıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5486(ÈÌıêñ-0ÈÌıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5489(°Ôıêñ-0°Ôıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5488(°Ôıêñ-0°Ôıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5802(°È¡ğÍ.0°È¡ğÍ.:AXzmQU-ch6dI4sPCG5P8Q
+objcS1448"
+maximumMethodThreshold35(˜û¡Ç’-0˜û¡Ç’-:AXzmQU-ch6dI4sPCG5P82
+objcS897(¨­ú¼à*0¨­ú¼à*:AXzmQU-ch6dI4sPCG5P83
+objcS5485(˜Üıêñ-0˜Üıêñ-:AXzmQU-ch6dI4sPCG5P83
+objcS5000(˜û¡Ç’-0˜û¡Ç’-:AXzmQU-ch6dI4sPCG5P83
+objcS2095(°Ôıêñ-0°Ôıêñ-:AXzmQU-ch6dI4sPCG5P8
