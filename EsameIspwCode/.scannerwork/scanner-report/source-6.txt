@@ -1,33 +1,33 @@
-package Esame.EsameIspwCode.src;
+package esame.alphabeticsort;
 
-public class AlphabeticalSort {
+public class AlphabeticSortOfNames {
 
-    private AlphabeticalSort(){
+    private AlphabeticSortOfNames(){
 
     }
 
     public static void alphabeticSort(String[] names) {
 
-        String temp;
-        int i;
-        int j;
+            String temp;
+            int i;
+            int j;
 
-        for(i = 0; i < names.length; i++) {
+            for(i = 0; i < names.length; i++) {
 
-            for(j = i + 1; j < names.length; j++) {
+                for(j = i + 1; j < names.length; j++) {
 
-                if(names[i].compareTo(names[j]) > 0) {
+                    if(names[i].compareTo(names[j]) > 0) {
 
-                    temp = names[i];
-                    names[i] = names[j];
-                    names[j] = temp;
+                        temp = names[i];
+                        names[i] = names[j];
+                        names[j] = temp;
+
+                    }
 
                 }
-
             }
 
-        }
-
     }
-
 }
+
+
